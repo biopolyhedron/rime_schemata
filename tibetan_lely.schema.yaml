@@ -1,0 +1,99 @@
+﻿# Rime schema
+# vim: set sw=2 sts=2 et:
+# encoding: utf-8
+
+schema:
+  schema_id: tibetan_lely
+  name: "藏文Lely"
+  version: "lely 0.5"
+  author:
+    - polyhedron<biopolyhedron@gmail.com>
+    - Lely<fourseasons4ji@gmail.com>
+  description: |
+    按通用轉寫輸入藏文，其中ཁ轉寫爲v(a)。用空格輸入分音點（ཚེག）「་」，逗號輸入單垂符（ཤད）「།」，句號輸入雙垂符（ཉིས་ཤད）「༎」，/輸入單垂符加兩個空格「།」。
+    輸入時按空格自動上屏並添加分音點，如果輸入後不需要加分音點，則按回車上屏。
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [ 藏文, 西文 ]
+
+engine:
+  processors:
+    - ascii_composer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - fluency_editor
+  segmentors:
+    - ascii_segmentor
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - table_translator
+
+menu:
+  alternative_select_keys: "123456789"
+  page_size: 8
+
+speller:
+  alphabet: 'abcdefghijklmnopqrstuvwxyz''XTKODNSTYFRILPQRUVWZ'
+  delimiter: "'"
+#  use_space: true
+  algebra:
+    - derive/a$//
+    - derive/v/'/
+
+translator:
+  dictionary: tibetan_lely
+
+key_binder:
+  import_preset: default
+
+punctuator:  # 只須定義空格一個符號
+  use_space: true
+  half_shape: &symtable
+    ' ' : { commit: '་' }
+    ',' : { commit: '།' }
+    '.' : { commit: '༎' }
+    '/' : { commit: '།  ' }
+    '1' : { commit: '༡' }
+    '2' : { commit: '༢' }
+    '3' : { commit: '༣' }
+    '4' : { commit: '༤' }
+    '5' : { commit: '༥' }
+    '6' : { commit: '༦' }
+    '7' : { commit: '༧' }
+    '8' : { commit: '༨' }
+    '9' : { commit: '༩' }
+    '0' : { commit: '༠' }
+    '!' : { commit: '༪' }
+    '@' : { commit: '༫' }
+    '#' : { commit: '༬' }
+    '$' : { commit: '༭' }
+    '%' : { commit: '༮' }
+    '^' : { commit: '༯' }
+    '&' : { commit: '༰' }
+    '*' : { commit: '༱' }
+    '(' : { commit: '༲' }
+    ')' : { commit: '༳' }
+    '{' : { commit: '༼' }
+    '}' : { commit: '༽' }
+    '<' : { commit: '༺' }
+    '>' : { commit: '༻' }
+    '[' : { commit: '༾' }
+    ']' : { commit: '༿' }
+    ':' : { commit: '༔' }
+    '=' : { commit: '༴' }
+    ';' : [ '༏', '༐', '༑','༈']
+    '`' : ['༇', '༆', '༄', '༅', '༇' ]
+    '+' : ['࿕', '࿖', '࿗', '࿘', '卐', '卍']
+    '-' : ['྾', '྿', '࿀', '࿁', '࿂', '࿃']
+    '_' : ['࿄', '࿅', '࿆', '࿇', '࿈', '࿉']
+    '\' : ['☯', '࿊', '࿋', '࿌',]
+    "|" : ['༚', '༛', '༜', '༝', '༞', '࿏', '༟', '࿎'] 
+    '~' : { commit: '྄' }
