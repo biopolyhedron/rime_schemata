@@ -1,0 +1,122 @@
+﻿# Rime dictionary
+# encoding: utf-8
+#
+# hebrew by polyhedron
+#
+# 使用說明
+# 
+# Author:
+#  - polyhedron	<biopolyhedron@gmail.com>
+#  - 2015.03.12
+#
+# 版權歸作者所有
+#
+
+---
+name: hebrew
+version: "poly2015.03.12"
+sort: original
+...
+
+֑	X
+֒	X
+֓	X
+֔	X
+֕	X
+֖	X
+֗	X
+֘	X
+֙	X
+֚	X
+֛	X
+֜	X
+֝	X
+֞	X
+֟	X
+֠	X
+֡	X
+֢	X
+֣	X
+֤	X
+֥	X
+֦	X
+֧	X
+֨	X
+֩	X
+֪	X
+֫	X'
+֬	X
+֭	X
+֮	X
+֯	X
+ְ	x
+ֱ	ex
+ֲ	ax
+ֳ	ox
+ִ	i
+ֵ	ee
+ֶ	e
+ַ	a
+ָ	aa
+ֹ	oo
+ֺ	Xw
+וֺ	ow
+וֺ	oow
+ֻ	u
+וּ	uw
+ּ	Xh
+ֽ	X
+־	X
+ֿ	X
+׀	X
+ׁ	Xsh
+ׂ	Xlh
+׃	X
+ׄ	X
+ׅ	X
+׆	Xn
+ׇ	o
+א	''
+א	'
+ב	v
+בּ	b
+ג	gh
+גּ	g
+ג׳	gj
+ד	dh
+דּ	d
+ה	h
+ה	'h
+ו	w
+ז	z
+ז׳	zh
+ז׳	zj
+ח	H
+ט	T
+י	y
+ך	kh'
+כ	kh
+כּ	k
+ל	l
+ם	m'
+מ	m
+ן	n'
+נ	n
+ס	s
+ע	`
+ף	f'
+פ	f
+פּ	p
+ץ	c'
+צ	c
+צ׳	cj
+צ׳	ch
+ק	q
+ר	r
+ש	sh
+שׁ	shh
+שׂ	lh
+ת	th
+תּ	t
+׳	j
+״	jj
