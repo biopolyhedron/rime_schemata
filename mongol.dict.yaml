@@ -1,0 +1,136 @@
+﻿# Rime dictionary
+# encoding: utf-8
+#
+# mongol by polyhedron
+#
+# 
+# Author:
+#  - polyhedron	<biopolyhedron@gmail.com>
+#  - 2013.10.27
+#
+# 版權歸作者所有
+#
+
+---
+name: mongol
+version: "poly2013.10.27"
+sort: original
+...
+
+ᠠ	a
+ᠡ	e
+ᠢ	i
+ᠣ	o
+ᠤ	u
+ᠥ	w
+ᠦ	v
+ᠧ	ee
+ᠨ	n
+ᠩ	ng
+ᠩᠭ᠋ᠠ	nga
+ᠩᠭ᠋᠎ᠠ	ng_a
+ᠩᠭ᠋᠎ᠠ	ngg_a
+ᠩᠭᠡ	nge
+ᠩᠭ᠎ᠡ	ng_e
+ᠩᠭ᠎ᠡ	ngg_e
+ᠩᠭᠢ	ngi
+ᠩᠭ᠋ᠣ	ngo
+ᠩᠭ᠋ᠤ	ngu
+ᠩᠭᠥ	ngw
+ᠩᠭᠦ	ngv
+ᠩᠬ	nk
+ᠪ	b
+ᠫ	p
+ᠬ	k
+ᠬᠠ	ka
+ᠬᠡ	ke
+ᠬᠢ	ki
+ᠬᠣ	ko
+ᠬᠤ	ku
+ᠬᠥ	kw
+ᠬᠦ	kv
+ᠭ	g
+ᠮ	m
+ᠯ	l
+ᠰ	s
+ᠱ	x
+ᠲ	t
+ᠳ	d
+ᠴ	q
+ᠵ	j
+ᠶ	y
+ᠷ	r
+ᠸᠠ	wa
+ᠸᠡ	we
+ᠸᠢ	wi
+ᠸᠣ	wo
+ᠸᠤ	wu
+ᠸᠥ	ww
+ᠸᠦ	wv
+ᠹ	f
+ᠺ	kk
+ᠻ	kh
+ᠼ	c
+ᠽ	z
+ᠾ	h
+ᠿ	rh
+ᡀ	lh
+ᡁ	zh
+ᡂ	ch
+ᠠᠢ᠌ᠪ	aib
+ᠠᠢ᠌ᠳ	aid
+ᠠᠢ᠌ᠭ	aig
+ᠠᠢ᠌ᠵ	aij
+ᠠᠢ᠌ᠬ	aik
+ᠠᠢ᠌ᠯ	ail
+ᠠᠢ᠌ᠮ	aim
+ᠠᠢ᠌ᠨ	ain
+ᠠᠢ᠌ᠴ	aiq
+ᠠᠢ᠌ᠷ	air
+ᠠᠢ᠌ᠰ	ais
+ᠠᠢ᠌ᠲ	ait
+ᠠᠢ᠌ᠱ	aix
+ᠠᠢ᠌ᠶ	aiy
+ᠡᠢ᠌ᠪ	eib
+ᠡᠢ᠌ᠳ	eid
+ᠡᠢ᠌ᠭ	eig
+ᠡᠢ᠌ᠵ	eij
+ᠡᠢ᠌ᠬ	eik
+ᠡᠢ᠌ᠯ	eil
+ᠡᠢ᠌ᠮ	eim
+ᠡᠢ᠌ᠨ	ein
+ᠡᠢ᠌ᠴ	eiq
+ᠡᠢ᠌ᠷ	eir
+ᠡᠢ᠌ᠰ	eis
+ᠡᠢ᠌ᠲ	eit
+ᠡᠢ᠌ᠱ	eix
+ᠡᠢ᠌ᠶ	eiy
+ᠣᠢ᠌ᠪ	oib
+ᠣᠢ᠌ᠳ	oid
+ᠣᠢ᠌ᠭ	oig
+ᠣᠢ᠌ᠵ	oij
+ᠣᠢ᠌ᠬ	oik
+ᠣᠢ᠌ᠯ	oil
+ᠣᠢ᠌ᠮ	oim
+ᠣᠢ᠌ᠨ	oin
+ᠣᠢ᠌ᠴ	oiq
+ᠣᠢ᠌ᠷ	oir
+ᠣᠢ᠌ᠰ	ois
+ᠣᠢ᠌ᠲ	oit
+ᠣᠢ᠌ᠱ	oix
+ᠣᠢ᠌ᠶ	oiy
+ᠤᠢ᠌ᠪ	uib
+ᠤᠢ᠌ᠳ	uid
+ᠤᠢ᠌ᠭ	uig
+ᠤᠢ᠌ᠵ	uij
+ᠤᠢ᠌ᠬ	uik
+ᠤᠢ᠌ᠯ	uil
+ᠤᠢ᠌ᠮ	uim
+ᠤᠢ᠌ᠨ	uin
+ᠤᠢ᠌ᠴ	uiq
+ᠤᠢ᠌ᠷ	uir
+ᠤᠢ᠌ᠰ	uis
+ᠤᠢ᠌ᠲ	uit
+ᠤᠢ᠌ᠱ	uix
+ᠤᠢ᠌ᠶ	uiy
+᠎	_
