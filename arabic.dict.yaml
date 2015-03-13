@@ -1,0 +1,93 @@
+﻿# Rime dictionary
+# encoding: utf-8
+#
+# arabic by polyhedron
+#
+# 使用說明
+# 
+# Author:
+#  - polyhedron	<biopolyhedron@gmail.com>
+#
+# 版權歸作者所有
+#
+
+---
+name: arabic
+version: "2015.03.13"
+sort: original
+...
+
+ض	D
+ص	S
+ث	th
+ث	c
+ته	th
+ق	q
+ف	f
+غ	gh
+ع	`
+ه	h
+خ	kh
+ح	H
+ش	sh
+ش	x
+سه	sh
+س	s
+ي	y
+ب	b
+ل	l
+آ	'aa
+ا	aa
+َا	aaa
+وا	uu
+ُوا	uuu
+ال	al
+ت	t
+ن	n
+م	m
+ئ	'y
+ئ	y'
+أ	'a
+ء	''
+ؤ	'w
+ؤ	w'
+ر	r
+ى	A
+ة	ht
+ذ	dh
+-	;-
+ج	j
+ج	g
+د	d
+ك	k
+ط	T
+و	w
+ز	z
+ظ	Z
+َ	a
+ًا	aN
+ًى	aN
+ةً	htaN
+ءً	'aN
+أً	'aN
+ُ	u
+ٌ	uN
+إ	'i
+إِ	'ii
+‘	;'
+÷	;/
+/	/
+*	*
+×	;*
+؛	;
+ِ	i
+ٍ	iN
+أَ	'a
+أُ	'u
+ـ	-
+،	,
+ْ	o
+’	;'
+ّ	e
+,	;,
+؟	?

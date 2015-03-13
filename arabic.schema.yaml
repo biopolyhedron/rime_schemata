@@ -1,0 +1,68 @@
+﻿# Rime schema
+# vim: set sw=2 sts=2 et:
+# encoding: utf-8
+
+schema:
+  schema_id: arabic
+  name: "阿拉伯語"
+  version: "20130216"
+  author:
+    - polyhedron<biopolyhedron@gmail.com>
+  description: |
+    阿拉伯語拉丁轉寫輸入，直接上屏。部分符号用;先導。hamza用'，下面帶.的用大寫。
+    目前在數字選字方面有bug，需要rime程序解決
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [ 阿拉伯文, 西文 ]
+
+engine:
+  processors:
+    - ascii_composer
+    - speller
+    - punctuator  # 先於 editor 才會使空格作符號上屏
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - table_translator
+
+menu:
+  alternative_select_keys: "123456789"
+
+speller:
+  alphabet: 'abcdefghijklmnoqrstuvwxyzADHNSTZ;'',-?*/`'
+  delimiter: ''
+  auto_select: true
+
+translator:
+  dictionary: arabic
+  enable_user_dict: false
+  enable_sentence: true
+  comment_format:
+    - xform/^~(.*)$/$1/
+
+punctuator:  # 只須定義空格一個符號
+#  use_space: true
+  half_shape: &punct
+    "1": "١"
+    "2": "٢"
+    "3": "٣"
+    "4": "٤"
+    "5": "٥"
+    "6": "٦"
+    "7": "٧"
+    "8": "٨"
+    "9": "٩"
+    "0": "٠"
+
+#    ' ' : { commit: ' ' }
+  full_shape: *punct
+
