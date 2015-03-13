@@ -1,0 +1,104 @@
+﻿# Rime schema
+# vim: set sw=2 sts=2 et:
+# encoding: utf-8
+
+schema:
+  schema_id: kyril_international
+  name: "基利爾字母混合輸入"
+  version: "poly2013.01.27"
+  author:
+    - polyhedron<biopolyhedron@gmail.com>
+  description: |
+    用qwerty鍵盤輸入基利爾字，爲俄文及蒙文優化。
+    也支持部分其它語種基利爾擴展字母。
+    組合符以';'先導。
+    如有改進建議，歡迎和作者聯繫！
+
+switches:
+  - name: ascii_mode #想加上老蒙文功能
+    reset: 0
+    states: [ 基利爾, 老蒙 ]
+
+engine:
+  processors:
+    - ascii_composer
+    - speller
+    - punctuator  # 先於 editor 才會使空格作符號上屏
+    - selector
+    - punct_segmentor
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - abc_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+#    - reverse_lookup_translator
+    - table_translator
+
+menu:
+  alternative_select_keys: "123456789"
+
+speller:
+  alphabet: 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ;'',-`".'
+  delimiter: ''
+  auto_select: true
+
+translator:
+  dictionary: kyril_international
+  enable_user_dict: false
+  enable_sentence: true
+  comment_format:
+    - xform/^~(.*)$/$1/
+
+abc_segmentor:
+#  extra_tags:
+#    - reverse_lookup
+
+reverse_lookup:
+  dictionary: latin_international
+  prefix: "`"
+  tips: 〔拉丁〕
+
+recognizer:
+  import_preset: default
+  patterns:
+    reverse_lookup: "`[a-z]*$"
+
+
+#ascii_composer/switch_key: #目前還不能設定全大寫模式
+#    Caps_Lock: noop
+
+punctuator:
+  use_space: true
+#  import_preset: default
+  half_shape: &punct
+    ' ' : { commit: ' ' }
+  full_shape: *punct
+#    "a" : ᠠ
+#    "b" : ᠪ
+#    "c" : ᠼ
+#    "d" : ᠳ
+#    "e" : ᠡ
+#    "f" : ᠹ
+#    "g" : ᠭ
+#    "h" : ᠬ
+#    "i" : ᠢ
+#    "j" : ᠵ
+#    "k" : ᠺ
+#    "l" : ᠯ
+#    "m" : ᠮ
+#    "n" : ᠨ
+#    "w" : ᠥ
+#    "p" : ᠫ
+#    "q" : ᠴ
+#    "r" : ᠷ
+#    "s" : ᠰ
+#    "t" : ᠲ
+#    "v" : ᠦ
+#    "u" : ᠤ
+#    "o" : ᠣ
+#    "x" : ᠱ
+#    "y" : ᠶ
+#    "z" : ᠽ
