@@ -1,0 +1,19070 @@
+﻿# Rime dictionary
+# mim: set ts=8 sw=8 noet:
+# encoding: utf-8
+#
+# hangyl_hanja - 한글・漢字
+#
+# Patrick <ipatrickmac@gmail.com>
+# 修改 polyhedron <biopolyhedron@gmail.com>
+#
+# 韓文轉寫方案
+#
+
+---
+name: hangyl_hanja
+version: "0.1"
+sort: by_weight	#original
+use_preset_vocabulary: true
+...
+
+#한글	轉寫
+ㄱ	g
+ㄲ	gg
+ㄳ	gs
+ㄴ	n
+ㅥ	nn
+ㅦ	nd
+ㅧ	ns
+ㅨ	nz
+ㄵ	nj
+ㄶ	nh
+ㄷ	d
+ㄸ	dd
+ㄹ	l
+ㄺ	lg
+ㅩ	lgs
+ㅪ	ld
+ㄻ	lm
+ㄼ	lb
+ㅫ	lbs
+ㄽ	ls
+ㅬ	lz
+ㄾ	lt
+ㄿ	lp
+ㅀ	lh
+ㅭ	lh
+ᄛ	lq
+ㅁ	m
+ㅮ	mb
+ㅯ	ms
+ㅰ	mz
+ㅱ	mq
+ㅂ	b
+ㅲ	bg
+ㅳ	bd
+ㅃ	bb
+ㅄ	bs
+ㅴ	bsg
+ㅵ	bsd
+ㅶ	bj
+ㅷ	bt
+ㅸ	bq
+ㅹ	bbq
+ㅅ	s
+ㅺ	sg
+ㅻ	sn
+ㅼ	sd
+ㅽ	sb
+ㅆ	ss
+ㅾ	sj
+ㅿ	z
+ㅇ	q
+ㆀ	qq
+ㆁ	ng
+ㆂ	qs
+ㆃ	qz
+ㅈ	j
+ㅉ	jj
+ㅊ	c
+ㅋ	k
+ㅌ	t
+ㅍ	p
+ㆄ	pq
+ㅎ	h
+ㆅ	hh
+ㆆ	x
+ㅏ	a
+ㅐ	ai
+ㅑ	ia
+ㅒ	iai
+ㅓ	e
+ㅔ	ei
+ㅕ	ie
+ㅖ	iei
+ㅗ	o
+ㅘ	oa
+ㅙ	oai
+ㅚ	oi
+ㅛ	io
+ㆇ	ioia
+ㆈ	ioiai
+ㆉ	ioi
+ㅜ	u
+ㅝ	ue
+ㅞ	uei
+ㅟ	ui
+ㅠ	iu
+ㆊ	iuie
+ㆋ	iuiei
+ㆌ	iui
+ㅡ	y
+ㅢ	yi
+ㅣ	i
+ㆍ	v
+ㆎ	vi
+
+#한글	轉寫
+가	ga
+각	gag
+갂	gagg
+갃	gags
+간	gan
+갅	ganj
+갆	ganh
+갇	gad
+갈	gal
+갉	galg
+갊	galm
+갋	galb
+갌	gals
+갍	galt
+갎	galp
+갏	galh
+감	gam
+갑	gab
+값	gabs
+갓	gas
+갔	gass
+강	gang
+갖	gaj
+갗	gac
+갘	gak
+같	gat
+갚	gap
+갛	gah
+개	gai
+객	gaig
+갞	gaigg
+갟	gaigs
+갠	gain
+갡	gainj
+갢	gainh
+갣	gaid
+갤	gail
+갥	gailg
+갦	gailm
+갧	gailb
+갨	gails
+갩	gailt
+갪	gailp
+갫	gailh
+갬	gaim
+갭	gaib
+갮	gaibs
+갯	gais
+갰	gaiss
+갱	gaing
+갲	gaij
+갳	gaic
+갴	gaik
+갵	gait
+갶	gaip
+갷	gaih
+갸	gia
+갹	giag
+갺	giagg
+갻	giags
+갼	gian
+갽	gians
+갾	gianh
+갿	giad
+걀	gial
+걁	gialg
+걂	gialm
+걃	gialb
+걄	gials
+걅	gialt
+걆	gialp
+걇	gialh
+걈	giam
+걉	giab
+걊	giabs
+걋	gias
+걌	giass
+걍	giang
+걎	giaj
+걏	giac
+걐	giak
+걑	giat
+걒	giap
+걓	giah
+걔	giai
+걕	giaig
+걖	giaigg
+걗	giaigs
+걘	giain
+걙	giainj
+걚	giainh
+걛	giaid
+걜	giail
+걝	giailg
+걞	giailm
+걟	giailb
+걠	giails
+걡	giailt
+걢	giailp
+걣	giailh
+걤	giaim
+걥	giaib
+걦	giaibs
+걧	giais
+걨	giaiss
+걩	giaing
+걪	giaij
+걫	giaic
+걬	giaik
+걭	giait
+걮	giaip
+걯	giaih
+거	ge
+걱	geg
+걲	gegg
+걳	gegs
+건	gen
+걵	genj
+걶	genh
+걷	ged
+걸	gel
+걹	gelg
+걺	gelm
+걻	gelb
+걼	gels
+걽	gelt
+걾	gelp
+걿	gelh
+검	gem
+겁	geb
+겂	gebs
+것	ges
+겄	gess
+겅	geng
+겆	gej
+겇	gec
+겈	gek
+겉	get
+겊	gep
+겋	geh
+게	gei
+겍	geig
+겎	geigg
+겏	geigs
+겐	gein
+겑	geinj
+겒	geinh
+겓	geid
+겔	geil
+겕	geilg
+겖	geilm
+겗	geilb
+겘	geils
+겙	geilt
+겚	geilp
+겛	geilh
+겜	geim
+겝	geib
+겞	geibs
+겟	geis
+겠	geiss
+겡	geing
+겢	geij
+겣	geic
+겤	geik
+겥	geit
+겦	geip
+겧	geih
+겨	gie
+격	gieg
+겪	giegg
+겫	giegs
+견	gien
+겭	gienj
+겮	gienh
+겯	gied
+결	giel
+겱	gielg
+겲	gielm
+겳	gielb
+겴	giels
+겵	gielt
+겶	gielp
+겷	gielh
+겸	giem
+겹	gieb
+겺	giebs
+겻	gies
+겼	giess
+경	gieng
+겾	giej
+겿	giec
+곀	giek
+곁	giet
+곂	giep
+곃	gieh
+계	giei
+곅	gieig
+곆	gieigg
+곇	gieigs
+곈	giein
+곉	gieinj
+곊	gieinh
+곋	gieid
+곌	gieil
+곍	gieilg
+곎	gieilm
+곏	gieilb
+곐	gieils
+곑	gieilt
+곒	gieilp
+곓	gieilh
+곔	gieim
+곕	gieib
+곖	gieibs
+곗	gieis
+곘	gieiss
+곙	gieing
+곚	gieij
+곛	gieic
+곜	gieik
+곝	gieit
+곞	gieip
+곟	gieih
+고	go
+곡	gog
+곢	gogg
+곣	gogs
+곤	gon
+곥	gonj
+곦	gonh
+곧	god
+골	gol
+곩	golg
+곪	golm
+곫	golb
+곬	gols
+곭	golt
+곮	golp
+곯	golh
+곰	gom
+곱	gob
+곲	gobs
+곳	gos
+곴	goss
+공	gong
+곶	goj
+곷	goc
+곸	gok
+곹	got
+곺	gop
+곻	goh
+과	goa
+곽	goag
+곾	goagg
+곿	goags
+관	goan
+괁	goanj
+괂	goanh
+괃	goad
+괄	goal
+괅	goalg
+괆	goalm
+괇	goalb
+괈	goals
+괉	goalt
+괊	goalp
+괋	goalh
+괌	goam
+괍	goab
+괎	goabs
+괏	goas
+괐	goass
+광	goang
+괒	goaj
+괓	goac
+괔	goak
+괕	goat
+괖	goap
+괗	goah
+괘	goai
+괙	goaig
+괚	goaigg
+괛	goaigs
+괜	goain
+괝	goainj
+괞	goainh
+괟	goaid
+괠	goail
+괡	goailg
+괢	goailm
+괣	goailb
+괤	goails
+괥	goailt
+괦	goailp
+괧	goailh
+괨	goaim
+괩	goaib
+괪	goaibs
+괫	goais
+괬	goaiss
+괭	goaing
+괮	goaij
+괯	goaic
+괰	goaik
+괱	goait
+괲	goaip
+괳	goaih
+괴	goi
+괵	goig
+괶	goigg
+괷	goigs
+괸	goin
+괹	goinj
+괺	goinh
+괻	goid
+괼	goil
+괽	goilg
+괾	goilm
+괿	goilb
+굀	goils
+굁	goilt
+굂	goilp
+굃	goilh
+굄	goim
+굅	goib
+굆	goibs
+굇	gois
+굈	goiss
+굉	going
+굊	goij
+굋	goic
+굌	goik
+굍	goit
+굎	goip
+굏	goih
+교	gio
+굑	giog
+굒	giogg
+굓	giogs
+굔	gion
+굕	gionj
+굖	gionh
+굗	giod
+굘	giol
+굙	giolg
+굚	giolm
+굛	giolb
+굜	giols
+굝	giolt
+굞	giolp
+굟	giolh
+굠	giom
+굡	giob
+굢	giobs
+굣	gios
+굤	gioss
+굥	giong
+굦	gioj
+굧	gioc
+굨	giok
+굩	giot
+굪	giop
+굫	gioh
+구	gu
+국	gug
+굮	gugg
+굯	gugs
+군	gun
+굱	gunj
+굲	gunh
+굳	gud
+굴	gul
+굵	gulg
+굶	gulm
+굷	gulb
+굸	guls
+굹	gult
+굺	gulp
+굻	gulh
+굼	gum
+굽	gub
+굾	gubs
+굿	gus
+궀	guss
+궁	gung
+궂	guj
+궃	guc
+궄	guk
+궅	gut
+궆	gup
+궇	guh
+궈	gue
+궉	gueg
+궊	guegg
+궋	guegs
+권	guen
+궍	guenj
+궎	guenh
+궏	gued
+궐	guel
+궑	guelg
+궒	guelm
+궓	guelb
+궔	guels
+궕	guelt
+궖	guelp
+궗	guelh
+궘	guem
+궙	gueb
+궚	guebs
+궛	gues
+궜	guess
+궝	gueng
+궞	guej
+궟	guec
+궠	guek
+궡	guet
+궢	guep
+궣	gueh
+궤	guei
+궥	gueig
+궦	gueigg
+궧	gueigs
+궨	guein
+궩	gueinj
+궪	gueinh
+궫	gueid
+궬	gueil
+궭	gueilg
+궮	gueilm
+궯	gueilb
+궰	gueils
+궱	gueilt
+궲	gueilp
+궳	gueilh
+궴	gueim
+궵	gueib
+궶	gueibs
+궷	gueis
+궸	gueiss
+궹	gueing
+궺	gueij
+궻	gueic
+궼	gueik
+궽	gueit
+궾	gueip
+궿	gueih
+귀	gui
+귁	guig
+귂	guigg
+귃	guigs
+귄	guin
+귅	guinj
+귆	guinh
+귇	guid
+귈	guil
+귉	guilg
+귊	guilm
+귋	guilb
+귌	guils
+귍	guilt
+귎	guilp
+귏	guilh
+귐	guim
+귑	guib
+귒	guibs
+귓	guis
+귔	guiss
+귕	guing
+귖	guij
+귗	guic
+귘	guik
+귙	guit
+귚	guip
+귛	guih
+규	giu
+귝	giug
+귞	giugg
+귟	giugs
+균	giun
+귡	giunj
+귢	giunh
+귣	giud
+귤	giul
+귥	giulg
+귦	giulm
+귧	giulb
+귨	giuls
+귩	giult
+귪	giulp
+귫	giulh
+귬	gium
+귭	giub
+귮	giubs
+귯	gius
+귰	giuss
+귱	giung
+귲	giuj
+귳	giuc
+귴	giuk
+귵	giut
+귶	giup
+귷	giuh
+그	gy
+극	gyg
+귺	gygg
+귻	gygs
+근	gyn
+귽	gynj
+귾	gynh
+귿	gyd
+글	gyl
+긁	gylg
+긂	gylm
+긃	gylb
+긄	gyls
+긅	gylt
+긆	gylp
+긇	gylh
+금	gym
+급	gyb
+긊	gybs
+긋	gys
+긌	gyss
+긍	gyng
+긎	gyj
+긏	gyc
+긐	gyk
+긑	gyt
+긒	gyp
+긓	gyh
+긔	gyi
+긕	gyig
+긖	gyigg
+긗	gyigs
+긘	gyin
+긙	gyins
+긚	gyinh
+긛	gyid
+긜	gyil
+긝	gyilg
+긞	gyilm
+긟	gyilb
+긠	gyils
+긡	gyilt
+긢	gyilp
+긣	gyilh
+긤	gyim
+긥	gyib
+긦	gyibs
+긧	gyis
+긨	gyiss
+긩	gying
+긪	gyij
+긫	gyic
+긬	gyik
+긭	gyit
+긮	gyip
+긯	gyih
+기	gi
+긱	gig
+긲	gigg
+긳	gigs
+긴	gin
+긵	ginj
+긶	ginh
+긷	gid
+길	gil
+긹	gilg
+긺	gilm
+긻	gilb
+긼	gils
+긽	gilt
+긾	gilp
+긿	gilh
+김	gim
+깁	gib
+깂	gibs
+깃	gis
+깄	giss
+깅	ging
+깆	gij
+깇	gic
+깈	gik
+깉	git
+깊	gip
+깋	gih
+까	gga
+깍	ggag
+깎	ggagg
+깏	ggags
+깐	ggan
+깑	gganj
+깒	gganh
+깓	ggad
+깔	ggal
+깕	ggalg
+깖	ggalm
+깗	ggalb
+깘	ggals
+깙	ggalt
+깚	ggalp
+깛	ggalh
+깜	ggam
+깝	ggab
+깞	ggabs
+깟	ggas
+깠	ggass
+깡	ggang
+깢	ggaj
+깣	ggac
+깤	ggak
+깥	ggat
+깦	ggap
+깧	ggah
+깨	ggai
+깩	ggaig
+깪	ggaigg
+깫	ggaigs
+깬	ggain
+깭	ggainj
+깮	ggainh
+깯	ggaid
+깰	ggail
+깱	ggailg
+깲	ggailm
+깳	ggailb
+깴	ggails
+깵	ggailt
+깶	ggailp
+깷	ggailh
+깸	ggaim
+깹	ggaib
+깺	ggaibs
+깻	ggais
+깼	ggaiss
+깽	ggaing
+깾	ggaij
+깿	ggaic
+꺀	ggaik
+꺁	ggait
+꺂	ggaip
+꺃	ggaih
+꺄	ggia
+꺅	ggiag
+꺆	ggiagg
+꺇	ggiags
+꺈	ggian
+꺉	ggianj
+꺊	ggianh
+꺋	ggiad
+꺌	ggial
+꺍	ggialg
+꺎	ggialm
+꺏	ggialb
+꺐	ggials
+꺑	ggialt
+꺒	ggialp
+꺓	ggialh
+꺔	ggiam
+꺕	ggiab
+꺖	ggiabs
+꺗	ggias
+꺘	ggiass
+꺙	ggiang
+꺚	ggiaj
+꺛	ggiac
+꺜	ggiak
+꺝	ggiat
+꺞	ggiap
+꺟	ggiah
+꺠	ggiai
+꺡	ggiaig
+꺢	ggiaigg
+꺣	ggiaigs
+꺤	ggiain
+꺥	ggiainj
+꺦	ggiainh
+꺧	ggiaid
+꺨	ggiail
+꺩	ggiailg
+꺪	ggiailm
+꺫	ggiailb
+꺬	ggiails
+꺭	ggiailt
+꺮	ggiailp
+꺯	ggiailh
+꺰	ggiaim
+꺱	ggiaib
+꺲	ggiaibs
+꺳	ggiais
+꺴	ggiaiss
+꺵	ggiaing
+꺶	ggiaij
+꺷	ggiaic
+꺸	ggiaik
+꺹	ggiait
+꺺	ggiaip
+꺻	ggiaih
+꺼	gge
+꺽	ggeg
+꺾	ggegg
+꺿	ggegs
+껀	ggen
+껁	ggenj
+껂	ggenh
+껃	gged
+껄	ggel
+껅	ggelg
+껆	ggelm
+껇	ggelb
+껈	ggels
+껉	ggelt
+껊	ggelp
+껋	ggelh
+껌	ggem
+껍	ggeb
+껎	ggebs
+껏	gges
+껐	ggess
+껑	ggeng
+껒	ggej
+껓	ggec
+껔	ggek
+껕	gget
+껖	ggep
+껗	ggeh
+께	ggei
+껙	ggeig
+껚	ggeigg
+껛	ggeigs
+껜	ggein
+껝	ggeinj
+껞	ggeinh
+껟	ggeid
+껠	ggeil
+껡	ggeilg
+껢	ggeilm
+껣	ggeilb
+껤	ggeils
+껥	ggeilt
+껦	ggeilp
+껧	ggeilh
+껨	ggeim
+껩	ggeib
+껪	ggeibs
+껫	ggeis
+껬	ggeiss
+껭	ggeing
+껮	ggeij
+껯	ggeic
+껰	ggeik
+껱	ggeit
+껲	ggeip
+껳	ggeih
+껴	ggie
+껵	ggieg
+껶	ggiegg
+껷	ggiegs
+껸	ggien
+껹	ggienj
+껺	ggienh
+껻	ggied
+껼	ggiel
+껽	ggielg
+껾	ggielm
+껿	ggielb
+꼀	ggiels
+꼁	ggielt
+꼂	ggielp
+꼃	ggielh
+꼄	ggiem
+꼅	ggieb
+꼆	ggiebs
+꼇	ggies
+꼈	ggiess
+꼉	ggieng
+꼊	ggiej
+꼋	ggiec
+꼌	ggiek
+꼍	ggiet
+꼎	ggiep
+꼏	ggieh
+꼐	ggiei
+꼑	ggieig
+꼒	ggieigg
+꼓	ggieigs
+꼔	ggiein
+꼕	ggieinj
+꼖	gggieinh
+꼗	ggieid
+꼘	ggieil
+꼙	ggieilg
+꼚	ggieilm
+꼛	ggieilb
+꼜	ggieils
+꼝	ggieilt
+꼞	ggieilp
+꼟	ggieilh
+꼠	ggieim
+꼡	ggieib
+꼢	ggieibs
+꼣	ggieis
+꼤	ggieiss
+꼥	ggieing
+꼦	ggieij
+꼧	ggieic
+꼨	ggieik
+꼩	ggieit
+꼪	ggieip
+꼫	ggieih
+꼬	ggo
+꼭	ggog
+꼮	ggogg
+꼯	ggogs
+꼰	ggon
+꼱	ggonj
+꼲	ggonh
+꼳	ggod
+꼴	ggol
+꼵	ggolg
+꼶	ggolm
+꼷	ggolb
+꼸	ggols
+꼹	ggolt
+꼺	ggolp
+꼻	ggolh
+꼼	ggom
+꼽	ggob
+꼾	ggobs
+꼿	ggos
+꽀	ggoss
+꽁	ggong
+꽂	ggoj
+꽃	ggoc
+꽄	ggok
+꽅	ggot
+꽆	ggop
+꽇	ggoh
+꽈	ggoa
+꽉	ggoag
+꽊	ggoagg
+꽋	ggoags
+꽌	ggoan
+꽍	ggoanj
+꽎	ggoanh
+꽏	ggoad
+꽐	ggoal
+꽑	ggoalg
+꽒	ggaolm
+꽓	ggoalb
+꽔	ggoals
+꽕	ggoalt
+꽖	ggoalp
+꽗	ggoalh
+꽘	ggoam
+꽙	ggoab
+꽚	ggoabs
+꽛	ggoas
+꽜	ggoass
+꽝	ggoang
+꽞	ggoaj
+꽟	ggoac
+꽠	ggoak
+꽡	ggoat
+꽢	ggoap
+꽣	ggoah
+꽤	ggoai
+꽥	ggoaig
+꽦	ggoaigg
+꽧	ggoaigs
+꽨	ggoain
+꽩	ggoainj
+꽪	ggoainh
+꽫	ggoaid
+꽬	ggoail
+꽭	ggoailg
+꽮	ggoailm
+꽯	ggoailb
+꽰	ggoails
+꽱	ggoailt
+꽲	ggoailp
+꽳	ggoailh
+꽴	ggoaim
+꽵	ggoaib
+꽶	ggoaibs
+꽷	ggoais
+꽸	ggoaiss
+꽹	ggoaing
+꽺	ggoaij
+꽻	ggoaic
+꽼	ggoaik
+꽽	ggoait
+꽾	ggoaip
+꽿	ggoaih
+꾀	ggoi
+꾁	ggoig
+꾂	ggoigg
+꾃	ggoigs
+꾄	ggoin
+꾅	ggoinj
+꾆	ggoinh
+꾇	ggoid
+꾈	ggoil
+꾉	ggoilg
+꾊	ggoilm
+꾋	ggoilb
+꾌	ggoils
+꾍	ggoilt
+꾎	ggoilp
+꾏	ggoilh
+꾐	ggoim
+꾑	ggoib
+꾒	ggoibs
+꾓	ggois
+꾔	ggoiss
+꾕	ggoing
+꾖	ggoij
+꾗	ggoic
+꾘	ggoik
+꾙	ggoit
+꾚	ggoip
+꾛	ggoih
+꾜	ggio
+꾝	ggiog
+꾞	ggiogg
+꾟	ggiogs
+꾠	ggion
+꾡	ggionj
+꾢	ggionh
+꾣	ggiod
+꾤	ggiol
+꾥	ggiolg
+꾦	ggiolm
+꾧	ggiolb
+꾨	ggiols
+꾩	ggiolt
+꾪	ggiolp
+꾫	ggiolh
+꾬	ggiom
+꾭	ggiob
+꾮	ggiobs
+꾯	ggios
+꾰	ggioss
+꾱	ggiong
+꾲	ggioj
+꾳	ggioc
+꾴	ggiok
+꾵	ggiot
+꾶	ggiop
+꾷	ggioh
+꾸	ggu
+꾹	ggug
+꾺	ggugg
+꾻	ggugs
+꾼	ggun
+꾽	ggunj
+꾾	ggunh
+꾿	ggud
+꿀	ggul
+꿁	ggulg
+꿂	ggulm
+꿃	ggulb
+꿄	gguls
+꿅	ggult
+꿆	ggulp
+꿇	ggulh
+꿈	ggum
+꿉	ggub
+꿊	ggubs
+꿋	ggus
+꿌	gguss
+꿍	ggung
+꿎	gguj
+꿏	gguc
+꿐	gguk
+꿑	ggut
+꿒	ggup
+꿓	gguh
+꿔	ggue
+꿕	ggueg
+꿖	gguegg
+꿗	gguegs
+꿘	gguen
+꿙	gguenj
+꿚	gguenh
+꿛	ggued
+꿜	gguel
+꿝	gguelg
+꿞	gguelm
+꿟	gguelb
+꿠	gguels
+꿡	gguelt
+꿢	gguelp
+꿣	gguelh
+꿤	gguem
+꿥	ggueb
+꿦	gguebs
+꿧	ggues
+꿨	gguess
+꿩	ggueng
+꿪	gguej
+꿫	gguec
+꿬	gguek
+꿭	gguet
+꿮	gguep
+꿯	ggueh
+꿰	gguei
+꿱	ggueig
+꿲	ggueigg
+꿳	ggueigs
+꿴	gguein
+꿵	ggueinj
+꿶	ggueinh
+꿷	ggueid
+꿸	ggueil
+꿹	ggueilg
+꿺	ggueilm
+꿻	ggueilb
+꿼	ggueils
+꿽	ggueilt
+꿾	ggueilp
+꿿	ggueilh
+뀀	ggueim
+뀁	ggueib
+뀂	ggueibs
+뀃	ggueis
+뀄	ggueiss
+뀅	ggueing
+뀆	ggueij
+뀇	ggueic
+뀈	ggueik
+뀉	ggueit
+뀊	ggueip
+뀋	ggueih
+뀌	ggui
+뀍	gguig
+뀎	gguigg
+뀏	gguigs
+뀐	gguin
+뀑	gguinj
+뀒	gguinh
+뀓	gguid
+뀔	gguil
+뀕	gguilg
+뀖	gguilm
+뀗	gguilb
+뀘	gguils
+뀙	gguilt
+뀚	gguilp
+뀛	gguilh
+뀜	gguim
+뀝	gguib
+뀞	gguibs
+뀟	gguis
+뀠	gguiss
+뀡	gguing
+뀢	gguij
+뀣	gguic
+뀤	gguik
+뀥	gguit
+뀦	gguip
+뀧	gguih
+뀨	ggiu
+뀩	ggiug
+뀪	ggiugg
+뀫	ggiugs
+뀬	ggiun
+뀭	ggiunj
+뀮	ggiunh
+뀯	ggiud
+뀰	ggiul
+뀱	ggiulg
+뀲	ggiulm
+뀳	ggiulb
+뀴	ggiuls
+뀵	ggiult
+뀶	ggiulp
+뀷	ggiulh
+뀸	ggium
+뀹	ggiub
+뀺	ggiubs
+뀻	ggius
+뀼	ggiuss
+뀽	ggiung
+뀾	ggiuj
+뀿	ggiuc
+끀	ggiuk
+끁	ggiut
+끂	ggiup
+끃	ggiuh
+끄	ggy
+끅	ggyg
+끆	ggygg
+끇	ggygs
+끈	ggyn
+끉	ggynj
+끊	ggynh
+끋	ggyd
+끌	ggyl
+끍	ggylg
+끎	ggylm
+끏	ggylb
+끐	ggyls
+끑	ggylt
+끒	ggylp
+끓	ggylh
+끔	ggym
+끕	ggyb
+끖	ggybs
+끗	ggys
+끘	ggyss
+끙	ggyng
+끚	ggyj
+끛	ggyc
+끜	ggyk
+끝	ggyt
+끞	ggyp
+끟	ggyh
+끠	ggyi
+끡	ggyig
+끢	ggyigg
+끣	ggyigs
+끤	ggyin
+끥	ggyinj
+끦	ggyinh
+끧	ggyid
+끨	ggyil
+끩	ggyilg
+끪	ggyilm
+끫	ggyilb
+끬	ggyils
+끭	ggyilt
+끮	ggyilp
+끯	ggyilh
+끰	ggyim
+끱	ggyib
+끲	ggyibs
+끳	ggyis
+끴	ggyiss
+끵	ggying
+끶	ggyij
+끷	ggyic
+끸	ggyik
+끹	ggyit
+끺	ggyip
+끻	ggyih
+끼	ggi
+끽	ggig
+끾	ggigg
+끿	ggigs
+낀	ggin
+낁	gginj
+낂	gginh
+낃	ggid
+낄	ggil
+낅	ggilg
+낆	ggilm
+낇	ggilb
+낈	ggils
+낉	ggilt
+낊	ggilp
+낋	ggilh
+낌	ggim
+낍	ggib
+낎	ggibs
+낏	ggis
+낐	ggiss
+낑	gging
+낒	ggij
+낓	ggic
+낔	ggik
+낕	ggit
+낖	ggip
+낗	ggih
+나	na
+낙	nag
+낚	nagg
+낛	nags
+난	nan
+낝	nanj
+낞	nanh
+낟	nad
+날	nal
+낡	nalg
+낢	nalm
+낣	nalb
+낤	nals
+낥	nalt
+낦	nalp
+낧	nalh
+남	nam
+납	nab
+낪	nabs
+낫	nas
+났	nass
+낭	nang
+낮	naj
+낯	nac
+낰	nak
+낱	nat
+낲	nap
+낳	nah
+내	nai
+낵	naig
+낶	naigg
+낷	naigs
+낸	nain
+낹	nainj
+낺	nainh
+낻	naid
+낼	nail
+낽	nailg
+낾	nailm
+낿	nailb
+냀	nails
+냁	nailt
+냂	nailp
+냃	nailh
+냄	naim
+냅	naib
+냆	naibs
+냇	nais
+냈	naiss
+냉	naing
+냊	naij
+냋	naic
+냌	naik
+냍	nait
+냎	naip
+냏	naih
+냐	nia
+냑	niag
+냒	niagg
+냓	niags
+냔	nian
+냕	nianj
+냖	nianh
+냗	niad
+냘	nial
+냙	nialg
+냚	nialm
+냛	nialb
+냜	nials
+냝	nialt
+냞	nialp
+냟	nialh
+냠	niam
+냡	niab
+냢	niabs
+냣	nias
+냤	niass
+냥	niang
+냦	niaj
+냧	niac
+냨	niak
+냩	niat
+냪	niap
+냫	niah
+냬	niai
+냭	niaig
+냮	niaigg
+냯	niaigs
+냰	niain
+냱	niainj
+냲	niainh
+냳	niaid
+냴	niail
+냵	niailg
+냶	niailm
+냷	niailb
+냸	niails
+냹	niailt
+냺	niailp
+냻	niailh
+냼	niaim
+냽	niaib
+냾	niaibs
+냿	niais
+넀	niaiss
+넁	niaing
+넂	niaij
+넃	niaic
+넄	niaik
+넅	niait
+넆	niaip
+넇	niaih
+너	ne
+넉	neg
+넊	negg
+넋	negs
+넌	nen
+넍	nenj
+넎	nenh
+넏	ned
+널	nel
+넑	nelg
+넒	nelm
+넓	nelb
+넔	nels
+넕	nelt
+넖	nelp
+넗	nelh
+넘	nem
+넙	neb
+넚	nebs
+넛	nes
+넜	ness
+넝	neng
+넞	nej
+넟	nec
+넠	nek
+넡	net
+넢	nep
+넣	neh
+네	nei
+넥	neig
+넦	neigg
+넧	neigs
+넨	nein
+넩	neinj
+넪	neinh
+넫	neid
+넬	neil
+넭	neilg
+넮	neilm
+넯	neilb
+넰	neils
+넱	neilt
+넲	neilp
+넳	neilh
+넴	neim
+넵	neib
+넶	neibs
+넷	neis
+넸	neiss
+넹	neing
+넺	neij
+넻	neic
+넼	neik
+넽	neit
+넾	neip
+넿	neih
+녀	nie
+녁	nieg
+녂	niegg
+녃	niegs
+년	nien
+녅	nienj
+녆	nienh
+녇	nied
+녈	niel
+녉	nielg
+녊	nielm
+녋	nielb
+녌	niels
+녍	nielt
+녎	nielp
+녏	nielh
+념	niem
+녑	nieb
+녒	niebs
+녓	nies
+녔	niess
+녕	nieng
+녖	niej
+녗	niec
+녘	niek
+녙	niet
+녚	niep
+녛	nieh
+녜	niei
+녝	nieig
+녞	nieigg
+녟	nieigs
+녠	niein
+녡	nieinj
+녢	nieinh
+녣	nieid
+녤	nieil
+녥	nieilg
+녦	nieilm
+녧	nieilb
+녨	nieils
+녩	nieilt
+녪	nieilp
+녫	nieilh
+녬	nieim
+녭	nieib
+녮	nieibs
+녯	nieis
+녰	nieiss
+녱	nieing
+녲	nieij
+녳	nieic
+녴	nieik
+녵	nieit
+녶	nieip
+녷	nieih
+노	no
+녹	nog
+녺	nogg
+녻	nogs
+논	non
+녽	nonj
+녾	nonh
+녿	nod
+놀	nol
+놁	nolg
+놂	nolm
+놃	nolb
+놄	nols
+놅	nolt
+놆	nolp
+놇	nolh
+놈	nom
+놉	nob
+놊	nobs
+놋	nos
+놌	noss
+농	nong
+놎	noj
+놏	noc
+놐	nok
+놑	not
+높	nop
+놓	noh
+놔	noa
+놕	noag
+놖	noagg
+놗	noags
+놘	noan
+놙	noanj
+놚	noanh
+놛	noad
+놜	noal
+놝	noalg
+놞	noalm
+놟	noalb
+놠	noals
+놡	noalt
+놢	noalp
+놣	noalh
+놤	noam
+놥	noab
+놦	noabs
+놧	noas
+놨	noass
+놩	noang
+놪	noaj
+놫	noac
+놬	noak
+놭	noat
+놮	noap
+놯	noah
+놰	noai
+놱	noaig
+놲	noaigg
+놳	noaigs
+놴	noain
+놵	noainj
+놶	noainh
+놷	noaid
+놸	noail
+놹	noailg
+놺	noailm
+놻	noailb
+놼	noails
+놽	noailt
+놾	noailp
+놿	noailh
+뇀	noaim
+뇁	noaib
+뇂	noaibs
+뇃	noais
+뇄	noaiss
+뇅	noaing
+뇆	noaij
+뇇	noaic
+뇈	noaik
+뇉	noait
+뇊	noaip
+뇋	noaih
+뇌	noi
+뇍	noig
+뇎	noigg
+뇏	noigs
+뇐	noin
+뇑	noinj
+뇒	noinh
+뇓	noid
+뇔	noil
+뇕	noilg
+뇖	noilm
+뇗	noilb
+뇘	noils
+뇙	noilt
+뇚	noilp
+뇛	noilh
+뇜	noim
+뇝	noib
+뇞	noibs
+뇟	nois
+뇠	noiss
+뇡	noing
+뇢	noij
+뇣	noic
+뇤	noik
+뇥	noit
+뇦	noip
+뇧	noih
+뇨	nio
+뇩	niog
+뇪	niogg
+뇫	niogs
+뇬	nion
+뇭	nionj
+뇮	nionh
+뇯	niod
+뇰	niol
+뇱	niolg
+뇲	niolm
+뇳	niolb
+뇴	niols
+뇵	niolt
+뇶	niolp
+뇷	niolh
+뇸	niom
+뇹	niob
+뇺	niobs
+뇻	nios
+뇼	nioss
+뇽	niong
+뇾	nioj
+뇿	nioc
+눀	niok
+눁	niot
+눂	niop
+눃	nioh
+누	nu
+눅	nug
+눆	nugg
+눇	nugs
+눈	nun
+눉	nunj
+눊	nunh
+눋	nud
+눌	nul
+눍	nulg
+눎	nulm
+눏	nulb
+눐	nuls
+눑	nult
+눒	nulp
+눓	nulh
+눔	num
+눕	nub
+눖	nubs
+눗	nus
+눘	nuss
+눙	nung
+눚	nuj
+눛	nuc
+눜	nuk
+눝	nut
+눞	nup
+눟	nuh
+눠	nue
+눡	nueg
+눢	nuegg
+눣	nuegs
+눤	nuen
+눥	nuenj
+눦	nuenh
+눧	nued
+눨	nuel
+눩	nuelg
+눪	nuelm
+눫	nuelb
+눬	nuels
+눭	nuelt
+눮	nuelp
+눯	nuelh
+눰	nuem
+눱	nueb
+눲	nuebs
+눳	nues
+눴	nuess
+눵	nueng
+눶	nuej
+눷	nuec
+눸	nuek
+눹	nuet
+눺	nuep
+눻	nueh
+눼	nuei
+눽	nueig
+눾	nueigg
+눿	nueigs
+뉀	nuein
+뉁	nueinj
+뉂	nueinh
+뉃	nueid
+뉄	nueil
+뉅	nueilg
+뉆	nueilm
+뉇	nueilb
+뉈	nueils
+뉉	nueilt
+뉊	nueilp
+뉋	nueilh
+뉌	nueim
+뉍	nueib
+뉎	nueibs
+뉏	nueis
+뉐	nueiss
+뉑	nueing
+뉒	nueij
+뉓	nueic
+뉔	nueik
+뉕	nueit
+뉖	nueip
+뉗	nueih
+뉘	nui
+뉙	nuig
+뉚	nuigg
+뉛	nuigs
+뉜	nuin
+뉝	nuinj
+뉞	nuinh
+뉟	nuid
+뉠	nuil
+뉡	nuilg
+뉢	nuilm
+뉣	nuilb
+뉤	nuils
+뉥	nuilt
+뉦	nuilp
+뉧	nuilh
+뉨	nuim
+뉩	nuib
+뉪	nuibs
+뉫	nuis
+뉬	nuiss
+뉭	nuing
+뉮	nuij
+뉯	nuic
+뉰	nuik
+뉱	nuit
+뉲	nuip
+뉳	nuih
+뉴	niu
+뉵	niug
+뉶	niugg
+뉷	niugs
+뉸	niun
+뉹	niunj
+뉺	niunh
+뉻	niud
+뉼	niul
+뉽	niulg
+뉾	niulm
+뉿	niulb
+늀	niuls
+늁	niult
+늂	niulp
+늃	niulh
+늄	nium
+늅	niub
+늆	niubs
+늇	nius
+늈	niuss
+늉	niung
+늊	niuj
+늋	niuc
+늌	niuk
+늍	niut
+늎	niup
+늏	niuh
+느	ny
+늑	nyg
+늒	nygg
+늓	nygs
+는	nyn
+늕	nynj
+늖	nynh
+늗	nyd
+늘	nyl
+늙	nylg
+늚	nylm
+늛	nylb
+늜	nyls
+늝	nylt
+늞	nylp
+늟	nylh
+늠	nym
+늡	nyb
+늢	nybs
+늣	nys
+늤	nyss
+능	nyng
+늦	nyj
+늧	nyc
+늨	nyk
+늩	nyt
+늪	nyp
+늫	nyh
+늬	nyi
+늭	nyig
+늮	nyigg
+늯	nyigs
+늰	nyin
+늱	nyinj
+늲	nyinh
+늳	nyid
+늴	nyil
+늵	nyilg
+늶	nyilm
+늷	nyilb
+늸	nyils
+늹	nyilt
+늺	nyilp
+늻	nyilh
+늼	nyim
+늽	nyib
+늾	nyibs
+늿	nyis
+닀	nyiss
+닁	nying
+닂	nyij
+닃	nyic
+닄	nyik
+닅	nyit
+닆	nyip
+닇	nyih
+니	ni
+닉	nig
+닊	nigg
+닋	nigs
+닌	nin
+닍	ninj
+닎	ninh
+닏	nid
+닐	nil
+닑	nilg
+닒	nilm
+닓	nilb
+닔	nils
+닕	nilt
+닖	nilp
+닗	nilh
+님	nim
+닙	nib
+닚	nibs
+닛	nis
+닜	niss
+닝	ning
+닞	nij
+닟	nic
+닠	nik
+닡	nit
+닢	nip
+닣	nih
+다	da
+닥	dag
+닦	dagg
+닧	dags
+단	dan
+닩	danj
+닪	danh
+닫	dad
+달	dal
+닭	dalg
+닮	dalm
+닯	dalb
+닰	dals
+닱	dalt
+닲	dalp
+닳	dalh
+담	dam
+답	dab
+닶	dabs
+닷	das
+닸	dass
+당	dang
+닺	daj
+닻	dac
+닼	dak
+닽	dat
+닾	dap
+닿	dah
+대	dai
+댁	daig
+댂	daigg
+댃	daigs
+댄	dain
+댅	dainj
+댆	dainh
+댇	daid
+댈	dail
+댉	dailg
+댊	dailm
+댋	dailb
+댌	dails
+댍	dailt
+댎	dailp
+댏	dailh
+댐	daim
+댑	daib
+댒	daibs
+댓	dais
+댔	daiss
+댕	daing
+댖	daij
+댗	daic
+댘	daik
+댙	dait
+댚	daip
+댛	daih
+댜	dia
+댝	diag
+댞	diagg
+댟	diags
+댠	dian
+댡	dianj
+댢	dianh
+댣	diad
+댤	dial
+댥	dialg
+댦	dialm
+댧	dialb
+댨	dials
+댩	dialt
+댪	dialp
+댫	dialh
+댬	diam
+댭	diab
+댮	diabs
+댯	dias
+댰	diass
+댱	diang
+댲	diaj
+댳	diac
+댴	diak
+댵	diat
+댶	diap
+댷	diah
+댸	diai
+댹	diaig
+댺	diaigg
+댻	diaigs
+댼	diain
+댽	diainj
+댾	diainh
+댿	diaid
+덀	diail
+덁	diailg
+덂	diailm
+덃	diailb
+덄	diails
+덅	diailt
+덆	diailp
+덇	diailh
+덈	diaim
+덉	diaib
+덊	diaibs
+덋	diais
+덌	diaiss
+덍	diaing
+덎	diaij
+덏	diaic
+덐	diaik
+덑	diait
+덒	diaip
+덓	diaih
+더	de
+덕	deg
+덖	degg
+덗	degs
+던	den
+덙	denj
+덚	denh
+덛	ded
+덜	del
+덝	delg
+덞	delm
+덟	delb
+덠	dels
+덡	delt
+덢	delp
+덣	delh
+덤	dem
+덥	deb
+덦	debs
+덧	des
+덨	dess
+덩	deng
+덪	dej
+덫	dec
+덬	dek
+덭	det
+덮	dep
+덯	deh
+데	dei
+덱	deig
+덲	deigg
+덳	deigs
+덴	dein
+덵	deinj
+덶	deinh
+덷	deid
+델	deil
+덹	deilg
+덺	deilm
+덻	deilb
+덼	deils
+덽	deilt
+덾	deilp
+덿	deilh
+뎀	deim
+뎁	deib
+뎂	deibs
+뎃	deis
+뎄	deiss
+뎅	deing
+뎆	deij
+뎇	deic
+뎈	deik
+뎉	deit
+뎊	deip
+뎋	deih
+뎌	die
+뎍	dieg
+뎎	diegg
+뎏	diegs
+뎐	dien
+뎑	dienj
+뎒	dienh
+뎓	died
+뎔	diel
+뎕	dielg
+뎖	dielm
+뎗	dielb
+뎘	diels
+뎙	dielt
+뎚	dielp
+뎛	dielh
+뎜	diem
+뎝	dieb
+뎞	diebs
+뎟	dies
+뎠	diess
+뎡	dieng
+뎢	diej
+뎣	diec
+뎤	diek
+뎥	diet
+뎦	diep
+뎧	dieh
+뎨	diei
+뎩	dieig
+뎪	dieigg
+뎫	dieigs
+뎬	diein
+뎭	dieinj
+뎮	dieinh
+뎯	dieid
+뎰	dieil
+뎱	dieilg
+뎲	dieilm
+뎳	dieilb
+뎴	dieils
+뎵	dieilt
+뎶	dieilp
+뎷	dieilh
+뎸	dieim
+뎹	dieib
+뎺	dieibs
+뎻	dieis
+뎼	dieiss
+뎽	dieing
+뎾	dieij
+뎿	dieic
+돀	dieik
+돁	dieit
+돂	dieip
+돃	dieih
+도	do
+독	dog
+돆	dogg
+돇	dogs
+돈	don
+돉	donj
+돊	donh
+돋	dod
+돌	dol
+돍	dolg
+돎	dolm
+돏	dolb
+돐	dols
+돑	dolt
+돒	dolp
+돓	dolh
+돔	dom
+돕	dob
+돖	dobs
+돗	dos
+돘	doss
+동	dong
+돚	doj
+돛	doc
+돜	dok
+돝	dot
+돞	dop
+돟	doh
+돠	doa
+돡	doag
+돢	doagg
+돣	doags
+돤	doan
+돥	doanj
+돦	doanh
+돧	doad
+돨	doal
+돩	doalg
+돪	doalm
+돫	doalb
+돬	doals
+돭	doalt
+돮	doalp
+돯	doalh
+돰	doam
+돱	doab
+돲	doabs
+돳	doas
+돴	doass
+돵	doang
+돶	doaj
+돷	doac
+돸	doak
+돹	doat
+돺	doap
+돻	doah
+돼	doai
+돽	doaig
+돾	doaigg
+돿	doaigs
+됀	doain
+됁	doainj
+됂	doainh
+됃	doaid
+됄	doail
+됅	doailg
+됆	doailm
+됇	doailb
+됈	doails
+됉	doailt
+됊	doailp
+됋	doailh
+됌	doaim
+됍	doaib
+됎	doaibs
+됏	doais
+됐	doaiss
+됑	doaing
+됒	doaij
+됓	doaic
+됔	doaik
+됕	doait
+됖	doaip
+됗	doaih
+되	doi
+됙	doig
+됚	doigg
+됛	doigs
+된	doin
+됝	doinj
+됞	doinh
+됟	doid
+될	doil
+됡	doilg
+됢	doilm
+됣	doilb
+됤	doils
+됥	doilt
+됦	doilp
+됧	doilh
+됨	doim
+됩	doib
+됪	doibs
+됫	dois
+됬	doiss
+됭	doing
+됮	doij
+됯	doic
+됰	doik
+됱	doit
+됲	doip
+됳	doih
+됴	dio
+됵	diog
+됶	diogg
+됷	diogs
+됸	dion
+됹	dionj
+됺	dionh
+됻	diod
+됼	diol
+됽	diolg
+됾	diolm
+됿	diolb
+둀	diols
+둁	diolt
+둂	diolp
+둃	diolh
+둄	diom
+둅	diob
+둆	diobs
+둇	dios
+둈	dioss
+둉	diong
+둊	dioj
+둋	dioc
+둌	diok
+둍	diot
+둎	diop
+둏	dioh
+두	du
+둑	dug
+둒	dugg
+둓	dugs
+둔	dun
+둕	dunj
+둖	dunh
+둗	dud
+둘	dul
+둙	dulg
+둚	dulm
+둛	dulb
+둜	duls
+둝	dult
+둞	dulp
+둟	dulh
+둠	dum
+둡	dub
+둢	dubs
+둣	dus
+둤	duss
+둥	dung
+둦	duj
+둧	duc
+둨	duk
+둩	dut
+둪	dup
+둫	duh
+둬	due
+둭	dueg
+둮	duegg
+둯	duegs
+둰	duen
+둱	duenj
+둲	duenh
+둳	dued
+둴	duel
+둵	duelg
+둶	duelm
+둷	duelb
+둸	duels
+둹	duelt
+둺	duelp
+둻	duelh
+둼	duem
+둽	dueb
+둾	duebs
+둿	dues
+뒀	duess
+뒁	dueng
+뒂	duej
+뒃	duec
+뒄	duek
+뒅	duet
+뒆	duep
+뒇	dueh
+뒈	duei
+뒉	dueig
+뒊	dueigg
+뒋	dueigs
+뒌	duein
+뒍	dueinj
+뒎	dueinh
+뒏	dueid
+뒐	dueil
+뒑	dueilg
+뒒	dueilm
+뒓	dueilb
+뒔	dueils
+뒕	dueilt
+뒖	dueilp
+뒗	dueilh
+뒘	dueim
+뒙	dueib
+뒚	dueibs
+뒛	dueis
+뒜	dueiss
+뒝	dueing
+뒞	dueij
+뒟	dueic
+뒠	dueik
+뒡	dueit
+뒢	dueip
+뒣	dueih
+뒤	dui
+뒥	duig
+뒦	duigg
+뒧	duigs
+뒨	duin
+뒩	duinj
+뒪	duinh
+뒫	duid
+뒬	duil
+뒭	duilg
+뒮	duilm
+뒯	duilb
+뒰	duils
+뒱	duilt
+뒲	duilp
+뒳	duilh
+뒴	duim
+뒵	duib
+뒶	duibs
+뒷	duis
+뒸	duiss
+뒹	duing
+뒺	duij
+뒻	duic
+뒼	duik
+뒽	duit
+뒾	duip
+뒿	duih
+듀	diu
+듁	diug
+듂	diugg
+듃	diugs
+듄	diun
+듅	diunj
+듆	diunh
+듇	diud
+듈	diul
+듉	diulg
+듊	diulm
+듋	diulb
+듌	diuls
+듍	diult
+듎	diulp
+듏	diulh
+듐	dium
+듑	diub
+듒	diubs
+듓	dius
+듔	diuss
+듕	diung
+듖	diuj
+듗	diuc
+듘	diuk
+듙	diut
+듚	diup
+듛	diuh
+드	dy
+득	dyg
+듞	dygg
+듟	dygs
+든	dyn
+듡	dynj
+듢	dynh
+듣	dyd
+들	dyl
+듥	dylg
+듦	dylm
+듧	dylb
+듨	dyls
+듩	dylt
+듪	dylp
+듫	dylh
+듬	dym
+듭	dyb
+듮	dybs
+듯	dys
+듰	dyss
+등	dyng
+듲	dyj
+듳	dyc
+듴	dyk
+듵	dyt
+듶	dyp
+듷	dyh
+듸	dyi
+듹	dyig
+듺	dyigg
+듻	dyigs
+듼	dyin
+듽	dyinj
+듾	dyinh
+듿	dyid
+딀	dyil
+딁	dyilg
+딂	dyilm
+딃	dyilb
+딄	dyils
+딅	dyilt
+딆	dyilp
+딇	dyilh
+딈	dyim
+딉	dyib
+딊	dyibs
+딋	dyis
+딌	dyiss
+딍	dying
+딎	dyij
+딏	dyic
+딐	dyik
+딑	dyit
+딒	dyip
+딓	dyih
+디	di
+딕	dig
+딖	digg
+딗	digs
+딘	din
+딙	dinj
+딚	dinh
+딛	did
+딜	dil
+딝	dilg
+딞	dilm
+딟	dilb
+딠	dils
+딡	dilt
+딢	dilp
+딣	dilh
+딤	dim
+딥	dib
+딦	dibs
+딧	dis
+딨	diss
+딩	ding
+딪	dij
+딫	dic
+딬	dik
+딭	dit
+딮	dip
+딯	dih
+따	dda
+딱	ddag
+딲	ddagg
+딳	ddags
+딴	ddan
+딵	ddanj
+딶	ddanh
+딷	ddad
+딸	ddal
+딹	ddalg
+딺	ddalm
+딻	ddalb
+딼	ddals
+딽	ddalt
+딾	ddalp
+딿	ddalh
+땀	ddam
+땁	ddab
+땂	ddabs
+땃	ddas
+땄	ddass
+땅	ddang
+땆	ddaj
+땇	ddac
+땈	ddak
+땉	ddat
+땊	ddap
+땋	ddah
+때	ddai
+땍	ddaig
+땎	ddaigg
+땏	ddaigs
+땐	ddain
+땑	ddainj
+땒	ddainh
+땓	ddaid
+땔	ddail
+땕	ddailg
+땖	ddailm
+땗	ddailb
+땘	ddails
+땙	ddailt
+땚	ddailp
+땛	ddailh
+땜	ddaim
+땝	ddaib
+땞	ddaibs
+땟	ddais
+땠	ddaiss
+땡	ddaing
+땢	ddaij
+땣	ddaic
+땤	ddaik
+땥	ddait
+땦	ddaip
+땧	ddaih
+땨	ddia
+땩	ddiag
+땪	ddiagg
+땫	ddiags
+땬	ddian
+땭	ddianj
+땮	ddianh
+땯	ddiad
+땰	ddial
+땱	ddialg
+땲	ddialm
+땳	ddialb
+땴	ddials
+땵	ddialt
+땶	ddialp
+땷	ddialh
+땸	ddiam
+땹	ddiab
+땺	ddiabs
+땻	ddias
+땼	ddiass
+땽	ddiang
+땾	ddiaj
+땿	ddiac
+떀	ddiak
+떁	ddiat
+떂	ddiap
+떃	ddiah
+떄	ddiai
+떅	ddiaig
+떆	ddiaigg
+떇	ddiaigs
+떈	ddiain
+떉	ddiainj
+떊	ddiainh
+떋	ddiaid
+떌	ddiail
+떍	ddiailg
+떎	ddiailm
+떏	ddiailb
+떐	ddiails
+떑	ddiailt
+떒	ddiailp
+떓	ddiailh
+떔	ddiaim
+떕	ddiaib
+떖	ddiaibs
+떗	ddiais
+떘	ddiaiss
+떙	ddiaing
+떚	ddiaij
+떛	ddiaic
+떜	ddiaik
+떝	ddiait
+떞	ddiaip
+떟	ddiaih
+떠	dde
+떡	ddeg
+떢	ddegg
+떣	ddegs
+떤	dden
+떥	ddenj
+떦	ddenh
+떧	dded
+떨	ddel
+떩	ddelg
+떪	ddelm
+떫	ddelb
+떬	ddels
+떭	ddelt
+떮	ddelp
+떯	ddelh
+떰	ddem
+떱	ddeb
+떲	ddebs
+떳	ddes
+떴	ddess
+떵	ddeng
+떶	ddej
+떷	ddec
+떸	ddek
+떹	ddet
+떺	ddep
+떻	ddeh
+떼	ddei
+떽	ddeig
+떾	ddeigg
+떿	ddeigs
+뗀	ddein
+뗁	ddeinj
+뗂	ddeinh
+뗃	ddeid
+뗄	ddeil
+뗅	ddeilg
+뗆	ddeilm
+뗇	ddeilb
+뗈	ddeils
+뗉	ddeilt
+뗊	ddeilp
+뗋	ddeilh
+뗌	ddeim
+뗍	ddeib
+뗎	ddeibs
+뗏	ddeis
+뗐	ddeiss
+뗑	ddeing
+뗒	ddeij
+뗓	ddeic
+뗔	ddeik
+뗕	ddeit
+뗖	ddeip
+뗗	ddeih
+뗘	ddie
+뗙	ddieg
+뗚	ddiegg
+뗛	ddiegs
+뗜	ddien
+뗝	ddienj
+뗞	ddienh
+뗟	ddied
+뗠	ddiel
+뗡	ddielg
+뗢	ddielm
+뗣	ddielb
+뗤	ddiels
+뗥	ddielt
+뗦	ddielp
+뗧	ddielh
+뗨	ddiem
+뗩	ddieb
+뗪	ddiebs
+뗫	ddies
+뗬	ddiess
+뗭	ddieng
+뗮	ddiej
+뗯	ddiec
+뗰	ddiek
+뗱	ddiet
+뗲	ddiep
+뗳	ddieh
+뗴	ddiei
+뗵	ddieig
+뗶	ddieigg
+뗷	ddieigs
+뗸	ddiein
+뗹	ddieinj
+뗺	ddieinh
+뗻	ddieid
+뗼	ddieil
+뗽	ddieilg
+뗾	ddieilm
+뗿	ddieilb
+똀	ddieils
+똁	ddieilt
+똂	ddieilp
+똃	ddieilh
+똄	ddieim
+똅	ddieib
+똆	ddieibs
+똇	ddieis
+똈	ddieiss
+똉	ddieing
+똊	ddieij
+똋	ddieic
+똌	ddieik
+똍	ddieit
+똎	ddieip
+똏	ddieih
+또	ddo
+똑	ddog
+똒	ddogg
+똓	ddogs
+똔	ddon
+똕	ddonj
+똖	ddonh
+똗	ddod
+똘	ddol
+똙	ddolg
+똚	ddolm
+똛	ddolb
+똜	ddols
+똝	ddolt
+똞	ddolp
+똟	ddolh
+똠	ddom
+똡	ddob
+똢	ddobs
+똣	ddos
+똤	ddoss
+똥	ddong
+똦	ddoj
+똧	ddoc
+똨	ddok
+똩	ddot
+똪	ddop
+똫	ddoh
+똬	ddoa
+똭	ddoag
+똮	ddoagg
+똯	ddoags
+똰	ddoan
+똱	ddoanj
+똲	ddoanh
+똳	ddoad
+똴	ddoal
+똵	ddoalg
+똶	ddoalm
+똷	ddoalb
+똸	ddoals
+똹	ddoalt
+똺	ddoalp
+똻	ddoalh
+똼	ddoam
+똽	ddoab
+똾	ddoabs
+똿	ddoas
+뙀	ddoass
+뙁	ddoang
+뙂	ddoaj
+뙃	ddoac
+뙄	ddoak
+뙅	ddoat
+뙆	ddoap
+뙇	ddoah
+뙈	ddoai
+뙉	ddoaig
+뙊	ddoaigg
+뙋	ddoaigs
+뙌	ddoain
+뙍	ddoainj
+뙎	ddoainh
+뙏	ddoaid
+뙐	ddoail
+뙑	ddoailg
+뙒	ddoailm
+뙓	ddoailb
+뙔	ddoails
+뙕	ddoailt
+뙖	ddoailp
+뙗	ddoailh
+뙘	ddoaim
+뙙	ddoaib
+뙚	ddoaibs
+뙛	ddoais
+뙜	ddoaiss
+뙝	ddoaing
+뙞	ddoaij
+뙟	ddoaic
+뙠	ddoaik
+뙡	ddoait
+뙢	ddoaip
+뙣	ddoaih
+뙤	ddoi
+뙥	ddoiɡ
+뙦	ddoiɡɡ
+뙧	ddoiɡs
+뙨	ddoin
+뙩	ddoinj
+뙪	ddoinh
+뙫	ddoid
+뙬	ddoil
+뙭	ddoilɡ
+뙮	ddoilm
+뙯	ddoilb
+뙰	ddoils
+뙱	ddoilt
+뙲	ddoilp
+뙳	ddoilh
+뙴	ddoim
+뙵	ddoib
+뙶	ddoibs
+뙷	ddois
+뙸	ddoiss
+뙹	ddoing
+뙺	ddoij
+뙻	ddoic
+뙼	ddoik
+뙽	ddoit
+뙾	ddoip
+뙿	ddoih
+뚀	ddio
+뚁	ddioɡ
+뚂	ddioɡɡ
+뚃	ddioɡs
+뚄	ddion
+뚅	ddionj
+뚆	ddionh
+뚇	ddiod
+뚈	ddiol
+뚉	ddiolɡ
+뚊	ddiolm
+뚋	ddiolb
+뚌	ddiols
+뚍	ddiolt
+뚎	ddiolp
+뚏	ddiolh
+뚐	ddiom
+뚑	ddiob
+뚒	ddiobs
+뚓	ddios
+뚔	ddioss
+뚕	ddiong
+뚖	ddioj
+뚗	ddioc
+뚘	ddiok
+뚙	ddiot
+뚚	ddiop
+뚛	ddioh
+뚜	ddu
+뚝	dduɡ
+뚞	dduɡɡ
+뚟	dduɡs
+뚠	ddun
+뚡	ddunj
+뚢	ddunh
+뚣	ddud
+뚤	ddul
+뚥	ddulɡ
+뚦	ddulm
+뚧	ddulb
+뚨	dduls
+뚩	ddult
+뚪	ddulp
+뚫	ddulh
+뚬	ddum
+뚭	ddub
+뚮	ddubs
+뚯	ddus
+뚰	dduss
+뚱	ddung
+뚲	dduj
+뚳	dduc
+뚴	dduk
+뚵	ddut
+뚶	ddup
+뚷	dduh
+뚸	ddue
+뚹	ddueɡ
+뚺	ddueɡɡ
+뚻	ddueɡs
+뚼	dduen
+뚽	dduenj
+뚾	dduenh
+뚿	ddued
+뛀	dduel
+뛁	dduelɡ
+뛂	dduelm
+뛃	dduelb
+뛄	dduels
+뛅	dduelt
+뛆	dduelp
+뛇	dduelh
+뛈	dduem
+뛉	ddueb
+뛊	dduebs
+뛋	ddues
+뛌	dduess
+뛍	ddueng
+뛎	dduej
+뛏	dduec
+뛐	dduek
+뛑	dduet
+뛒	dduep
+뛓	ddueh
+뛔	dduei
+뛕	ddueiɡ
+뛖	ddueiɡɡ
+뛗	ddueiɡs
+뛘	dduein
+뛙	ddueinj
+뛚	ddueinh
+뛛	ddueid
+뛜	ddueil
+뛝	ddueilɡ
+뛞	ddueilm
+뛟	ddueilb
+뛠	ddueils
+뛡	ddueilt
+뛢	ddueilp
+뛣	ddueilh
+뛤	ddueim
+뛥	ddueib
+뛦	ddueibs
+뛧	ddueis
+뛨	ddueiss
+뛩	ddueing
+뛪	ddueij
+뛫	ddueic
+뛬	ddueik
+뛭	ddueit
+뛮	ddueip
+뛯	ddueih
+뛰	ddui
+뛱	dduiɡ
+뛲	dduiɡɡ
+뛳	dduiɡs
+뛴	dduin
+뛵	dduinj
+뛶	dduinh
+뛷	dduid
+뛸	dduil
+뛹	dduilɡ
+뛺	dduilm
+뛻	dduilb
+뛼	dduils
+뛽	dduilt
+뛾	dduilp
+뛿	dduilh
+뜀	dduim
+뜁	dduib
+뜂	dduibs
+뜃	dduis
+뜄	dduiss
+뜅	dduing
+뜆	dduij
+뜇	dduic
+뜈	dduik
+뜉	dduit
+뜊	dduip
+뜋	dduih
+뜌	ddiu
+뜍	ddiuɡ
+뜎	ddiuɡɡ
+뜏	ddiuɡs
+뜐	ddiun
+뜑	ddiunj
+뜒	ddiunh
+뜓	ddiud
+뜔	ddiul
+뜕	ddiulɡ
+뜖	ddiulm
+뜗	ddiulb
+뜘	ddiuls
+뜙	ddiult
+뜚	ddiulp
+뜛	ddiulh
+뜜	ddium
+뜝	ddiub
+뜞	ddiubs
+뜟	ddius
+뜠	ddiuss
+뜡	ddiung
+뜢	ddiuj
+뜣	ddiuc
+뜤	ddiuk
+뜥	ddiut
+뜦	ddiup
+뜧	ddiuh
+뜨	ddy
+뜩	ddyg
+뜪	ddygg
+뜫	ddygs
+뜬	ddyn
+뜭	ddynj
+뜮	ddynh
+뜯	ddyd
+뜰	ddyl
+뜱	ddylg
+뜲	ddylm
+뜳	ddylb
+뜴	ddyls
+뜵	ddylt
+뜶	ddylp
+뜷	ddylh
+뜸	ddym
+뜹	ddyb
+뜺	ddybs
+뜻	ddys
+뜼	ddyss
+뜽	ddyng
+뜾	ddyj
+뜿	ddyc
+띀	ddyk
+띁	ddyt
+띂	ddyp
+띃	ddyh
+띄	ddyi
+띅	ddyig
+띆	ddyigg
+띇	ddyigs
+띈	ddyin
+띉	ddyinj
+띊	ddyinh
+띋	ddyid
+띌	ddyil
+띍	ddyilg
+띎	ddyilm
+띏	ddyilb
+띐	ddyils
+띑	ddyilt
+띒	ddyilp
+띓	ddyilh
+띔	ddyim
+띕	ddyib
+띖	ddyibs
+띗	ddyis
+띘	ddyiss
+띙	ddying
+띚	ddyij
+띛	ddyic
+띜	ddyik
+띝	ddyit
+띞	ddyip
+띟	ddyih
+띠	ddi
+띡	ddig
+띢	ddigg
+띣	ddigs
+띤	ddin
+띥	ddinj
+띦	ddinh
+띧	ddid
+띨	ddil
+띩	ddilg
+띪	ddilm
+띫	ddilb
+띬	ddils
+띭	ddilt
+띮	ddilp
+띯	ddilh
+띰	ddim
+띱	ddib
+띲	ddibs
+띳	ddis
+띴	ddiss
+띵	dding
+띶	ddij
+띷	ddic
+띸	ddik
+띹	ddit
+띺	ddip
+띻	ddih
+라	la
+락	lag
+띾	lagg
+띿	lags
+란	lan
+랁	lanj
+랂	lanh
+랃	lad
+랄	lal
+랅	lalg
+랆	lalm
+랇	lalb
+랈	lals
+랉	lalt
+랊	lalp
+랋	lalh
+람	lam
+랍	lab
+랎	labs
+랏	las
+랐	lass
+랑	lang
+랒	laj
+랓	lac
+랔	lak
+랕	lat
+랖	lap
+랗	lah
+래	lai
+랙	laig
+랚	laigg
+랛	laigs
+랜	lain
+랝	lainj
+랞	lainh
+랟	laid
+랠	lail
+랡	lailg
+랢	lailm
+랣	lailb
+랤	lails
+랥	lailt
+랦	lailp
+랧	lailh
+램	laim
+랩	laib
+랪	laibs
+랫	lais
+랬	laiss
+랭	laing
+랮	laij
+랯	laic
+랰	laik
+랱	lait
+랲	laip
+랳	laih
+랴	lia
+략	liag
+랶	liagg
+랷	liags
+랸	lian
+랹	lianj
+랺	lianh
+랻	liad
+랼	lial
+랽	lialg
+랾	lialm
+랿	lialb
+럀	lials
+럁	lialt
+럂	lialp
+럃	lialh
+럄	liam
+럅	liab
+럆	liabs
+럇	lias
+럈	liass
+량	liang
+럊	liaj
+럋	liac
+럌	liak
+럍	liat
+럎	liap
+럏	liah
+럐	liai
+럑	liaig
+럒	liaigg
+럓	liaigs
+럔	liain
+럕	liainj
+럖	liainh
+럗	liaid
+럘	liail
+럙	liailg
+럚	liailm
+럛	liailb
+럜	liails
+럝	liailt
+럞	liailp
+럟	liailh
+럠	liaim
+럡	liaib
+럢	liaibs
+럣	liais
+럤	liaiss
+럥	liaing
+럦	liaij
+럧	liaic
+럨	liaik
+럩	liait
+럪	liaip
+럫	liaih
+러	le
+럭	leg
+럮	legg
+럯	legs
+런	len
+럱	lenj
+럲	lenh
+럳	led
+럴	lel
+럵	lelg
+럶	lelm
+럷	lelb
+럸	lels
+럹	lelt
+럺	lelp
+럻	lelh
+럼	lem
+럽	leb
+럾	lebs
+럿	les
+렀	less
+렁	leng
+렂	lej
+렃	lec
+렄	lek
+렅	let
+렆	lep
+렇	leh
+레	lei
+렉	leig
+렊	leigg
+렋	leigs
+렌	lein
+렍	leinj
+렎	leinh
+렏	leid
+렐	leil
+렑	leilg
+렒	leilm
+렓	leilb
+렔	leils
+렕	leilt
+렖	leilp
+렗	leolh
+렘	leim
+렙	leib
+렚	leibs
+렛	leis
+렜	leiss
+렝	leing
+렞	leij
+렟	leic
+렠	leik
+렡	leit
+렢	leip
+렣	leih
+려	lie
+력	lieg
+렦	liegg
+렧	liegs
+련	lien
+렩	lienj
+렪	lienh
+렫	lied
+렬	liel
+렭	lielg
+렮	lielm
+렯	lielb
+렰	liels
+렱	lielt
+렲	lielp
+렳	lielh
+렴	liem
+렵	lieb
+렶	liebs
+렷	lies
+렸	liess
+령	lieng
+렺	liej
+렻	liec
+렼	like
+렽	liet
+렾	liep
+렿	lieh
+례	liei
+롁	lieig
+롂	lieigg
+롃	lieigs
+롄	liein
+롅	lieinj
+롆	lieinh
+롇	lieid
+롈	lieil
+롉	lieilg
+롊	lieilm
+롋	lieilb
+롌	lieils
+롍	lieilt
+롎	lieilp
+롏	lieilh
+롐	lieim
+롑	lieib
+롒	lieibs
+롓	lieis
+롔	lieiss
+롕	lieing
+롖	lieij
+롗	lieic
+롘	lieik
+롙	lieit
+롚	lieip
+롛	lieih
+로	lo
+록	log
+롞	logg
+롟	logs
+론	lon
+롡	lonj
+롢	lonh
+롣	lod
+롤	lol
+롥	lolg
+롦	lolm
+롧	lolb
+롨	lols
+롩	lolt
+롪	lolp
+롫	lolh
+롬	lom
+롭	lob
+롮	lobs
+롯	los
+롰	loss
+롱	long
+롲	loj
+롳	loc
+롴	lok
+롵	lot
+롶	lop
+롷	loh
+롸	loa
+롹	loag
+롺	loagg
+롻	loags
+롼	loan
+롽	loanj
+롾	loanh
+롿	load
+뢀	loal
+뢁	loalg
+뢂	loalm
+뢃	loalb
+뢄	loals
+뢅	loalt
+뢆	loalp
+뢇	loalh
+뢈	loam
+뢉	loab
+뢊	loabs
+뢋	loas
+뢌	loass
+뢍	loang
+뢎	loaj
+뢏	loac
+뢐	loak
+뢑	loat
+뢒	loap
+뢓	loah
+뢔	loai
+뢕	loaig
+뢖	loaigg
+뢗	loaigs
+뢘	loain
+뢙	loainj
+뢚	loainh
+뢛	loaid
+뢜	loail
+뢝	loailg
+뢞	loailm
+뢟	loailb
+뢠	loails
+뢡	loailt
+뢢	loailp
+뢣	loailh
+뢤	loaim
+뢥	loaib
+뢦	loaibs
+뢧	loais
+뢨	loaiss
+뢩	loaing
+뢪	loaij
+뢫	loaic
+뢬	loaik
+뢭	loait
+뢮	loaip
+뢯	loaih
+뢰	loi
+뢱	loig
+뢲	loigg
+뢳	loigs
+뢴	loin
+뢵	loinj
+뢶	loinh
+뢷	loid
+뢸	loil
+뢹	loilg
+뢺	loilm
+뢻	loilb
+뢼	loils
+뢽	loilt
+뢾	loilp
+뢿	loilh
+룀	loim
+룁	loib
+룂	loibs
+룃	lois
+룄	loiss
+룅	loing
+룆	loij
+룇	loic
+룈	loik
+룉	loit
+룊	loip
+룋	loih
+료	lio
+룍	liog
+룎	liogg
+룏	liogs
+룐	lion
+룑	lionj
+룒	lionh
+룓	liod
+룔	liol
+룕	liolg
+룖	liolm
+룗	liolb
+룘	liols
+룙	liolt
+룚	liolp
+룛	liolh
+룜	liom
+룝	liob
+룞	liobs
+룟	lios
+룠	lioss
+룡	liong
+룢	lioj
+룣	lioc
+룤	liok
+룥	liot
+룦	liop
+룧	lioh
+루	lu
+룩	lug
+룪	lugg
+룫	lugs
+룬	lun
+룭	lunj
+룮	lunh
+룯	lud
+룰	lul
+룱	lulg
+룲	lulm
+룳	lulb
+룴	luls
+룵	lult
+룶	lulp
+룷	lulh
+룸	lum
+룹	lub
+룺	lubs
+룻	lus
+룼	luss
+룽	lung
+룾	luj
+룿	luc
+뤀	luk
+뤁	lut
+뤂	lup
+뤃	luh
+뤄	lue
+뤅	lueg
+뤆	luegg
+뤇	luegs
+뤈	luen
+뤉	luenj
+뤊	luenh
+뤋	lued
+뤌	luel
+뤍	luelg
+뤎	luelm
+뤏	luelb
+뤐	luels
+뤑	luelt
+뤒	luelp
+뤓	luelh
+뤔	luem
+뤕	lueb
+뤖	luebs
+뤗	lues
+뤘	luess
+뤙	lueng
+뤚	luej
+뤛	luec
+뤜	luek
+뤝	luet
+뤞	luep
+뤟	lueh
+뤠	luei
+뤡	lueig
+뤢	lueigg
+뤣	lueigs
+뤤	luein
+뤥	lueinj
+뤦	lueinh
+뤧	lueid
+뤨	lueil
+뤩	lueilg
+뤪	lueilm
+뤫	lueilb
+뤬	lueils
+뤭	lueilt
+뤮	lueilp
+뤯	lueilh
+뤰	lueim
+뤱	lueib
+뤲	lueibs
+뤳	lueis
+뤴	lueiss
+뤵	lueing
+뤶	lueij
+뤷	lueic
+뤸	lueik
+뤹	lueit
+뤺	lueip
+뤻	lueih
+뤼	lui
+뤽	luig
+뤾	luigg
+뤿	luigs
+륀	luin
+륁	luinj
+륂	luinh
+륃	luid
+륄	luil
+륅	luilg
+륆	luilm
+륇	luilb
+륈	luils
+륉	luilt
+륊	luilp
+륋	luilh
+륌	luim
+륍	luib
+륎	luibs
+륏	luis
+륐	luiss
+륑	luing
+륒	luij
+륓	luic
+륔	luik
+륕	luit
+륖	luip
+륗	luih
+류	liu
+륙	liug
+륚	liugg
+륛	liugs
+륜	liun
+륝	liunj
+륞	liunh
+륟	liud
+률	liul
+륡	liulg
+륢	liulm
+륣	liulb
+륤	liuls
+륥	liult
+륦	liulp
+륧	liulh
+륨	lium
+륩	liub
+륪	liubs
+륫	lius
+륬	liuss
+륭	liung
+륮	liuj
+륯	liuc
+륰	liuk
+륱	liut
+륲	liup
+륳	liuh
+르	ly
+륵	lyg
+륶	lygg
+륷	lygs
+른	lyn
+륹	lynj
+륺	lynh
+륻	lyd
+를	lyl
+륽	lylg
+륾	lylm
+륿	lylb
+릀	lyls
+릁	lylt
+릂	lylp
+릃	lylh
+름	lym
+릅	lyb
+릆	lybs
+릇	lys
+릈	lyss
+릉	lyng
+릊	lyj
+릋	lyc
+릌	lyk
+릍	lyt
+릎	lyp
+릏	lyh
+릐	lyi
+릑	lyig
+릒	lyigg
+릓	lyigs
+릔	lyin
+릕	lyinj
+릖	lyinh
+릗	lyid
+릘	lyil
+릙	lyilg
+릚	lyilm
+릛	lyilb
+릜	lyils
+릝	lyilt
+릞	lyilp
+릟	lyilh
+릠	lyim
+릡	lyib
+릢	lyibs
+릣	lyis
+릤	lyiss
+릥	lying
+릦	lyij
+릧	lyic
+릨	lyik
+릩	lyit
+릪	lyip
+릫	lyih
+리	li
+릭	lig
+릮	ligg
+릯	ligs
+린	lin
+릱	linj
+릲	linh
+릳	lid
+릴	lil
+릵	lilg
+릶	lilm
+릷	lilb
+릸	lils
+릹	lilt
+릺	lilp
+릻	lilh
+림	lim
+립	lib
+릾	libs
+릿	lis
+맀	liss
+링	ling
+맂	lij
+맃	lic
+맄	lik
+맅	lit
+맆	lip
+맇	lih
+마	ma
+막	mag
+맊	magg
+맋	mags
+만	man
+맍	manj
+많	manh
+맏	mad
+말	mal
+맑	malg
+맒	malm
+맓	malb
+맔	mals
+맕	malt
+맖	malp
+맗	malh
+맘	mam
+맙	mab
+맚	mabs
+맛	mas
+맜	mass
+망	mang
+맞	maj
+맟	mac
+맠	mak
+맡	mat
+맢	map
+맣	mah
+매	mai
+맥	maig
+맦	maigg
+맧	maigs
+맨	main
+맩	mainj
+맪	mainh
+맫	maid
+맬	mail
+맭	mailg
+맮	mailm
+맯	mailb
+맰	mails
+맱	mailt
+맲	mailp
+맳	mailh
+맴	maim
+맵	maib
+맶	maibs
+맷	mais
+맸	maiss
+맹	maing
+맺	maij
+맻	maic
+맼	maik
+맽	mait
+맾	maip
+맿	maih
+먀	mia
+먁	miag
+먂	miagg
+먃	miags
+먄	mian
+먅	mianj
+먆	mianh
+먇	miad
+먈	mial
+먉	mialg
+먊	mialm
+먋	mialb
+먌	mials
+먍	mialt
+먎	mialp
+먏	mialh
+먐	miam
+먑	miab
+먒	miabs
+먓	mias
+먔	miass
+먕	miang
+먖	miaj
+먗	miac
+먘	miak
+먙	miat
+먚	miap
+먛	miah
+먜	miai
+먝	miaig
+먞	miaigg
+먟	miaigs
+먠	miain
+먡	miainj
+먢	miainh
+먣	miaid
+먤	miail
+먥	miailg
+먦	miailm
+먧	miailb
+먨	miails
+먩	miailt
+먪	miailp
+먫	miailh
+먬	miaim
+먭	miaib
+먮	miaibs
+먯	miais
+먰	miaiss
+먱	miaing
+먲	miaij
+먳	miaic
+먴	miaik
+먵	miait
+먶	miaip
+먷	miaih
+머	me
+먹	meg
+먺	megg
+먻	megs
+먼	men
+먽	menj
+먾	menh
+먿	med
+멀	mel
+멁	melg
+멂	melm
+멃	melb
+멄	mels
+멅	melt
+멆	melp
+멇	melh
+멈	mem
+멉	meb
+멊	mebs
+멋	mes
+멌	mess
+멍	meng
+멎	mej
+멏	mec
+멐	mek
+멑	met
+멒	mep
+멓	meh
+메	mei
+멕	meig
+멖	meigg
+멗	meigs
+멘	mein
+멙	meinj
+멚	meinh
+멛	meid
+멜	meil
+멝	meilg
+멞	meilm
+멟	meilb
+멠	meils
+멡	meilt
+멢	meilp
+멣	meilh
+멤	meim
+멥	meib
+멦	meibs
+멧	meis
+멨	meiss
+멩	meing
+멪	meij
+멫	meic
+멬	meik
+멭	meit
+멮	meip
+멯	meih
+며	mie
+멱	mieg
+멲	miegg
+멳	miegs
+면	mien
+멵	mienj
+멶	mienh
+멷	mied
+멸	miel
+멹	mielg
+멺	mielm
+멻	mielb
+멼	miels
+멽	mielt
+멾	mielp
+멿	mielh
+몀	miem
+몁	mieb
+몂	miebs
+몃	mies
+몄	miess
+명	mieng
+몆	miej
+몇	miec
+몈	miek
+몉	miet
+몊	miep
+몋	mieh
+몌	miei
+몍	mieig
+몎	mieigg
+몏	mieigs
+몐	miein
+몑	mieinj
+몒	mieinh
+몓	mieid
+몔	mieil
+몕	mieilg
+몖	mieilm
+몗	mieilb
+몘	mieils
+몙	mieilt
+몚	mieilp
+몛	mieilh
+몜	mieim
+몝	mieib
+몞	mieibs
+몟	mieis
+몠	mieiss
+몡	mieing
+몢	mieij
+몣	mieic
+몤	mieik
+몥	mieit
+몦	mieip
+몧	mieih
+모	mo
+목	mog
+몪	mogg
+몫	mogs
+몬	mon
+몭	monj
+몮	monh
+몯	mod
+몰	mol
+몱	molg
+몲	molm
+몳	molb
+몴	mols
+몵	molt
+몶	molp
+몷	molh
+몸	mom
+몹	mob
+몺	mobs
+못	mos
+몼	moss
+몽	mong
+몾	moj
+몿	moc
+뫀	mok
+뫁	mot
+뫂	mop
+뫃	moh
+뫄	moa
+뫅	moag
+뫆	moagg
+뫇	moags
+뫈	moan
+뫉	moanj
+뫊	moanh
+뫋	moad
+뫌	moal
+뫍	moalg
+뫎	moalm
+뫏	moalb
+뫐	moals
+뫑	moalt
+뫒	moalp
+뫓	moalh
+뫔	moam
+뫕	moab
+뫖	moabs
+뫗	moas
+뫘	moass
+뫙	moang
+뫚	moaj
+뫛	moac
+뫜	moak
+뫝	moat
+뫞	moap
+뫟	moah
+뫠	moai
+뫡	moaig
+뫢	moaigg
+뫣	moaigs
+뫤	moain
+뫥	moainj
+뫦	moainh
+뫧	moaid
+뫨	moail
+뫩	moailg
+뫪	moailm
+뫫	moailb
+뫬	moails
+뫭	moailt
+뫮	moailp
+뫯	moailh
+뫰	moaim
+뫱	moaib
+뫲	moaibs
+뫳	moais
+뫴	moaiss
+뫵	moaing
+뫶	moaij
+뫷	moaic
+뫸	moaik
+뫹	moait
+뫺	moaip
+뫻	moaih
+뫼	moi
+뫽	moig
+뫾	moigg
+뫿	moigs
+묀	moin
+묁	moinj
+묂	moinh
+묃	moid
+묄	moil
+묅	moilg
+묆	moilm
+묇	moilb
+묈	moils
+묉	moilt
+묊	moilp
+묋	moilh
+묌	moim
+묍	moib
+묎	moibs
+묏	mois
+묐	moiss
+묑	moing
+묒	moij
+묓	moic
+묔	moik
+묕	moit
+묖	moip
+묗	moih
+묘	mio
+묙	miog
+묚	miogg
+묛	miogs
+묜	mion
+묝	mionj
+묞	mionh
+묟	miod
+묠	miol
+묡	miolg
+묢	miolm
+묣	miolb
+묤	miols
+묥	miolt
+묦	miolp
+묧	miolh
+묨	miom
+묩	miob
+묪	miobs
+묫	mios
+묬	mioss
+묭	miong
+묮	mioj
+묯	mioc
+묰	miok
+묱	miot
+묲	miop
+묳	mioh
+무	mu
+묵	mug
+묶	mugg
+묷	mugs
+문	mun
+묹	munj
+묺	munh
+묻	mud
+물	mul
+묽	mulg
+묾	mulm
+묿	mulb
+뭀	muls
+뭁	mult
+뭂	mulp
+뭃	mulh
+뭄	mum
+뭅	mub
+뭆	mubs
+뭇	mus
+뭈	muss
+뭉	mung
+뭊	muj
+뭋	muc
+뭌	muk
+뭍	mut
+뭎	mup
+뭏	muh
+뭐	mue
+뭑	mueg
+뭒	muegg
+뭓	muegs
+뭔	muen
+뭕	muenj
+뭖	muenh
+뭗	mued
+뭘	muel
+뭙	muelg
+뭚	muelm
+뭛	muelb
+뭜	muels
+뭝	muelt
+뭞	muelp
+뭟	muelh
+뭠	muem
+뭡	mueb
+뭢	muebs
+뭣	mues
+뭤	muess
+뭥	mueng
+뭦	muej
+뭧	muec
+뭨	muek
+뭩	muet
+뭪	muep
+뭫	mueh
+뭬	muei
+뭭	mueig
+뭮	mueigg
+뭯	mueigs
+뭰	muein
+뭱	mueinj
+뭲	mueinh
+뭳	mueid
+뭴	mueil
+뭵	mueilg
+뭶	mueilm
+뭷	mueilb
+뭸	mueils
+뭹	mueilt
+뭺	mueilp
+뭻	mueilh
+뭼	mueim
+뭽	mueib
+뭾	mueibs
+뭿	mueis
+뮀	mueiss
+뮁	mueing
+뮂	mueij
+뮃	mueic
+뮄	mueik
+뮅	mueit
+뮆	mueip
+뮇	mueih
+뮈	mui
+뮉	muig
+뮊	muigg
+뮋	muigs
+뮌	muin
+뮍	muinj
+뮎	muinh
+뮏	muid
+뮐	muil
+뮑	muilg
+뮒	muilm
+뮓	muilb
+뮔	muils
+뮕	muilt
+뮖	muilp
+뮗	muilh
+뮘	muim
+뮙	muib
+뮚	muibs
+뮛	muis
+뮜	muiss
+뮝	muing
+뮞	muij
+뮟	muic
+뮠	muik
+뮡	muit
+뮢	muip
+뮣	muih
+뮤	miu
+뮥	miug
+뮦	miugg
+뮧	miugs
+뮨	miun
+뮩	miunj
+뮪	miunh
+뮫	miud
+뮬	miul
+뮭	miulg
+뮮	miulm
+뮯	miulb
+뮰	miuls
+뮱	miult
+뮲	miulp
+뮳	miulh
+뮴	mium
+뮵	miub
+뮶	miubs
+뮷	mius
+뮸	miuss
+뮹	miung
+뮺	miuj
+뮻	miuc
+뮼	miuk
+뮽	miut
+뮾	miup
+뮿	miuh
+므	my
+믁	myg
+믂	mygg
+믃	mygs
+믄	myn
+믅	mynj
+믆	mynh
+믇	myd
+믈	myl
+믉	mylg
+믊	mylm
+믋	mylb
+믌	myls
+믍	mylt
+믎	mylp
+믏	mylh
+믐	mym
+믑	myb
+믒	mybs
+믓	mys
+믔	myss
+믕	myng
+믖	myj
+믗	myc
+믘	myk
+믙	myt
+믚	myp
+믛	myh
+믜	myi
+믝	myig
+믞	myigg
+믟	myigs
+믠	myin
+믡	myinj
+믢	myinh
+믣	myid
+믤	myil
+믥	myilg
+믦	myilm
+믧	myilb
+믨	myils
+믩	myilt
+믪	myilp
+믫	myilh
+믬	myim
+믭	myib
+믮	myibs
+믯	myis
+믰	myiss
+믱	mying
+믲	myij
+믳	myic
+믴	myik
+믵	myit
+믶	myip
+믷	myih
+미	mi
+믹	mig
+믺	migg
+믻	migs
+민	min
+믽	minj
+믾	minh
+믿	mid
+밀	mil
+밁	milg
+밂	milm
+밃	milb
+밄	mils
+밅	milt
+밆	milp
+밇	milh
+밈	mim
+밉	mib
+밊	mibs
+밋	mis
+밌	miss
+밍	ming
+밎	mij
+및	mic
+밐	mik
+밑	mit
+밒	mip
+밓	mih
+바	ba
+박	bag
+밖	bagg
+밗	bags
+반	ban
+밙	banj
+밚	banh
+받	bad
+발	bal
+밝	balg
+밞	balm
+밟	balb
+밠	bals
+밡	balt
+밢	balp
+밣	balh
+밤	bam
+밥	bab
+밦	babs
+밧	bas
+밨	bass
+방	bang
+밪	baj
+밫	bac
+밬	bak
+밭	bat
+밮	bap
+밯	bah
+배	bai
+백	baig
+밲	baigg
+밳	baigs
+밴	bain
+밵	bainj
+밶	bainh
+밷	baid
+밸	bail
+밹	bailg
+밺	bailm
+밻	bailb
+밼	bails
+밽	bailt
+밾	bailp
+밿	bailh
+뱀	baim
+뱁	baib
+뱂	baibs
+뱃	bais
+뱄	baiss
+뱅	baing
+뱆	baij
+뱇	baic
+뱈	baik
+뱉	bait
+뱊	baip
+뱋	baih
+뱌	bia
+뱍	biag
+뱎	biagg
+뱏	biags
+뱐	bian
+뱑	bianj
+뱒	bianh
+뱓	biad
+뱔	bial
+뱕	bialg
+뱖	bialm
+뱗	bialb
+뱘	bials
+뱙	bialt
+뱚	bialp
+뱛	bialh
+뱜	biam
+뱝	biab
+뱞	biabs
+뱟	bias
+뱠	biass
+뱡	biang
+뱢	biaj
+뱣	biac
+뱤	biak
+뱥	biat
+뱦	biap
+뱧	biah
+뱨	biai
+뱩	biaig
+뱪	biaigg
+뱫	biaigs
+뱬	biain
+뱭	biainj
+뱮	biainh
+뱯	biaid
+뱰	biail
+뱱	biailg
+뱲	biailm
+뱳	biailb
+뱴	biails
+뱵	biailt
+뱶	biailp
+뱷	biailh
+뱸	biaim
+뱹	biaib
+뱺	biaibs
+뱻	biais
+뱼	biaiss
+뱽	biaing
+뱾	biaij
+뱿	biaic
+벀	biaik
+벁	biait
+벂	biaip
+벃	biaih
+버	be
+벅	beg
+벆	begg
+벇	begs
+번	ben
+벉	benj
+벊	benh
+벋	bed
+벌	bel
+벍	belg
+벎	belm
+벏	belb
+벐	bels
+벑	belt
+벒	belp
+벓	belh
+범	bem
+법	beb
+벖	bebs
+벗	bes
+벘	bess
+벙	beng
+벚	bej
+벛	bec
+벜	bek
+벝	bet
+벞	bep
+벟	beh
+베	bei
+벡	beig
+벢	beigg
+벣	beigs
+벤	bein
+벥	beinj
+벦	beinh
+벧	beid
+벨	beil
+벩	beilg
+벪	beilm
+벫	beilb
+벬	beils
+벭	beilt
+벮	beilp
+벯	beilh
+벰	beim
+벱	beib
+벲	beibs
+벳	beis
+벴	beiss
+벵	being
+벶	beij
+벷	beic
+벸	beik
+벹	beit
+벺	beip
+벻	beih
+벼	bie
+벽	bieg
+벾	biegg
+벿	biegs
+변	bien
+볁	bienj
+볂	bienh
+볃	bied
+별	biel
+볅	bielg
+볆	bielm
+볇	bielb
+볈	biels
+볉	bielt
+볊	bielp
+볋	bielh
+볌	biem
+볍	bieb
+볎	biebs
+볏	bies
+볐	biess
+병	bieng
+볒	biej
+볓	biec
+볔	biek
+볕	biet
+볖	biep
+볗	bieh
+볘	biei
+볙	bieig
+볚	bieigg
+볛	bieigs
+볜	biein
+볝	bieinj
+볞	bieinh
+볟	bieid
+볠	bieil
+볡	bieilg
+볢	bieilm
+볣	bieilb
+볤	bieils
+볥	bieilt
+볦	bieilp
+볧	bieilh
+볨	bieim
+볩	bieib
+볪	bieibs
+볫	bieis
+볬	bieiss
+볭	bieing
+볮	bieij
+볯	bieic
+볰	bieik
+볱	bieit
+볲	bieip
+볳	bieih
+보	bo
+복	bog
+볶	bogg
+볷	bogs
+본	bon
+볹	bonj
+볺	bonh
+볻	bod
+볼	bol
+볽	bolg
+볾	bolm
+볿	bolb
+봀	bols
+봁	bolt
+봂	bolp
+봃	bolh
+봄	bom
+봅	bob
+봆	bobs
+봇	bos
+봈	boss
+봉	bong
+봊	boj
+봋	boc
+봌	bok
+봍	bot
+봎	bop
+봏	boh
+봐	boa
+봑	boag
+봒	boagg
+봓	boags
+봔	boan
+봕	boanj
+봖	boanh
+봗	boad
+봘	boal
+봙	boalg
+봚	boalm
+봛	boalb
+봜	boals
+봝	boalt
+봞	boalp
+봟	boalh
+봠	boam
+봡	boab
+봢	boabs
+봣	boas
+봤	boass
+봥	boang
+봦	boaj
+봧	boac
+봨	boak
+봩	boat
+봪	boap
+봫	boah
+봬	boai
+봭	boaig
+봮	boaigg
+봯	boaigs
+봰	boain
+봱	boainj
+봲	boainh
+봳	boaid
+봴	boail
+봵	boailg
+봶	boailm
+봷	boailb
+봸	boails
+봹	boailt
+봺	boailp
+봻	boailh
+봼	boaim
+봽	boaib
+봾	boaibs
+봿	boais
+뵀	boaiss
+뵁	boaing
+뵂	boaij
+뵃	boaic
+뵄	boaik
+뵅	boait
+뵆	boaip
+뵇	boaih
+뵈	boi
+뵉	boig
+뵊	boigg
+뵋	boigs
+뵌	boin
+뵍	boinj
+뵎	boinh
+뵏	boid
+뵐	boil
+뵑	boilg
+뵒	boilm
+뵓	boilb
+뵔	boils
+뵕	boilt
+뵖	boilp
+뵗	boilh
+뵘	boim
+뵙	boib
+뵚	boibs
+뵛	bois
+뵜	boiss
+뵝	boing
+뵞	boij
+뵟	boic
+뵠	boik
+뵡	boit
+뵢	boip
+뵣	boih
+뵤	bio
+뵥	biog
+뵦	biogg
+뵧	biogs
+뵨	bion
+뵩	bionj
+뵪	bionh
+뵫	biod
+뵬	biol
+뵭	biolg
+뵮	biolm
+뵯	biolb
+뵰	biols
+뵱	biolt
+뵲	biolp
+뵳	biolh
+뵴	biom
+뵵	biob
+뵶	biobs
+뵷	bios
+뵸	bioss
+뵹	biong
+뵺	bioj
+뵻	bioc
+뵼	biok
+뵽	biot
+뵾	biop
+뵿	bioh
+부	bu
+북	bug
+붂	bugg
+붃	bugs
+분	bun
+붅	bunj
+붆	bunh
+붇	bud
+불	bul
+붉	bulg
+붊	bulm
+붋	bulb
+붌	buls
+붍	bult
+붎	bulp
+붏	bulh
+붐	bum
+붑	bub
+붒	bubs
+붓	bus
+붔	buss
+붕	bung
+붖	buj
+붗	buc
+붘	buk
+붙	but
+붚	bup
+붛	buh
+붜	bue
+붝	bueg
+붞	buegg
+붟	buegs
+붠	buen
+붡	buenj
+붢	buenh
+붣	bued
+붤	buel
+붥	buelg
+붦	buelm
+붧	buelb
+붨	buels
+붩	buelt
+붪	buelp
+붫	buelh
+붬	buem
+붭	bueb
+붮	buebs
+붯	bues
+붰	buess
+붱	bueng
+붲	buej
+붳	buec
+붴	buek
+붵	buet
+붶	buep
+붷	bueh
+붸	buei
+붹	bueig
+붺	bueigg
+붻	bueigs
+붼	buein
+붽	bueinj
+붾	bueinh
+붿	bueid
+뷀	bueil
+뷁	bueilg
+뷂	bueilm
+뷃	bueilb
+뷄	bueils
+뷅	bueilt
+뷆	bueilp
+뷇	bueilh
+뷈	bueim
+뷉	bueib
+뷊	bueibs
+뷋	bueis
+뷌	bueiss
+뷍	bueing
+뷎	bueij
+뷏	bueic
+뷐	bueik
+뷑	bueit
+뷒	bueip
+뷓	bueih
+뷔	bui
+뷕	buig
+뷖	buigg
+뷗	buigs
+뷘	buin
+뷙	buinj
+뷚	buinh
+뷛	buid
+뷜	buil
+뷝	builg
+뷞	builm
+뷟	builb
+뷠	buils
+뷡	built
+뷢	builp
+뷣	builh
+뷤	buim
+뷥	buib
+뷦	buibs
+뷧	buis
+뷨	buiss
+뷩	buing
+뷪	buij
+뷫	buic
+뷬	buik
+뷭	buit
+뷮	buip
+뷯	buih
+뷰	biu
+뷱	biug
+뷲	biugg
+뷳	biugs
+뷴	biun
+뷵	biunj
+뷶	biunh
+뷷	biud
+뷸	biul
+뷹	biulg
+뷺	biulm
+뷻	biulb
+뷼	biuls
+뷽	biult
+뷾	biulp
+뷿	biulh
+븀	bium
+븁	biub
+븂	biubs
+븃	bius
+븄	biuss
+븅	biung
+븆	biuj
+븇	biuc
+븈	biuk
+븉	biut
+븊	biup
+븋	biuh
+브	by
+븍	byg
+븎	bygg
+븏	bygs
+븐	byn
+븑	bynj
+븒	bynh
+븓	byd
+블	byl
+븕	bylg
+븖	bylm
+븗	bylb
+븘	byls
+븙	bylt
+븚	bylp
+븛	bylh
+븜	bym
+븝	byb
+븞	bybs
+븟	bys
+븠	byss
+븡	byng
+븢	byj
+븣	byc
+븤	byk
+븥	byt
+븦	byp
+븧	byh
+븨	byi
+븩	byig
+븪	byigg
+븫	byigs
+븬	byin
+븭	byinj
+븮	byinh
+븯	byid
+븰	byil
+븱	byilg
+븲	byilm
+븳	byilb
+븴	byils
+븵	byilt
+븶	byilp
+븷	byilh
+븸	byim
+븹	byib
+븺	byibs
+븻	byis
+븼	byiss
+븽	bying
+븾	byij
+븿	byic
+빀	byik
+빁	byit
+빂	byip
+빃	byih
+비	bi
+빅	big
+빆	bigg
+빇	bigs
+빈	bin
+빉	binj
+빊	binh
+빋	bid
+빌	bil
+빍	bilg
+빎	bilm
+빏	bilb
+빐	bils
+빑	bilt
+빒	bilp
+빓	bilh
+빔	bim
+빕	bib
+빖	bibs
+빗	bis
+빘	biss
+빙	bing
+빚	bij
+빛	bic
+빜	bik
+빝	bit
+빞	bip
+빟	bih
+빠	bba
+빡	bbag
+빢	bbagg
+빣	bbags
+빤	bban
+빥	bbanj
+빦	bbanh
+빧	bbad
+빨	bbal
+빩	bbalɡ
+빪	bbalm
+빫	bbalb
+빬	bbals
+빭	bbalt
+빮	bbalp
+빯	bbalh
+빰	bbam
+빱	bbab
+빲	bbabs
+빳	bbas
+빴	bbass
+빵	bbang
+빶	bbaj
+빷	bbac
+빸	bbak
+빹	bbat
+빺	bbap
+빻	bbah
+빼	bbai
+빽	bbaig
+빾	bbaigg
+빿	bbaiɡs
+뺀	bbain
+뺁	bbainj
+뺂	bbainh
+뺃	bbaid
+뺄	bbail
+뺅	bbailg
+뺆	bbailm
+뺇	bbailb
+뺈	bbails
+뺉	bbailt
+뺊	bbailp
+뺋	bbailh
+뺌	bbaim
+뺍	bbaib
+뺎	bbaibs
+뺏	bbais
+뺐	bbaiss
+뺑	bbaing
+뺒	bbaij
+뺓	bbaic
+뺔	bbaik
+뺕	bbait
+뺖	bbaip
+뺗	bbaih
+뺘	bbia
+뺙	bbiag
+뺚	bbiagg
+뺛	bbiaɡs
+뺜	bbian
+뺝	bbianj
+뺞	bbianh
+뺟	bbiad
+뺠	bbial
+뺡	bbialg
+뺢	bbialm
+뺣	bbialb
+뺤	bbials
+뺥	bbialt
+뺦	bbialp
+뺧	bbialh
+뺨	bbiam
+뺩	bbiab
+뺪	bbiabs
+뺫	bbias
+뺬	bbiass
+뺭	bbiang
+뺮	bbiaj
+뺯	bbiac
+뺰	bbiak
+뺱	bbiat
+뺲	bbiap
+뺳	bbiah
+뺴	bbiai
+뺵	bbiaig
+뺶	bbiaigg
+뺷	bbiaigs
+뺸	bbiain
+뺹	bbiainj
+뺺	bbiainh
+뺻	bbiaid
+뺼	bbiail
+뺽	bbiailg
+뺾	bbiailm
+뺿	bbiailb
+뻀	bbiails
+뻁	bbiailt
+뻂	bbiailp
+뻃	bbiailh
+뻄	bbiaim
+뻅	bbiaib
+뻆	bbiaibs
+뻇	bbiais
+뻈	bbiaiss
+뻉	bbiaing
+뻊	bbiaij
+뻋	bbiaic
+뻌	bbiaik
+뻍	bbiait
+뻎	bbiaip
+뻏	bbiaih
+뻐	bbe
+뻑	bbeg
+뻒	bbegg
+뻓	bbegs
+뻔	bben
+뻕	bbenj
+뻖	bbenh
+뻗	bbed
+뻘	bbel
+뻙	bbelɡ
+뻚	bbelm
+뻛	bbelb
+뻜	bbels
+뻝	bbelt
+뻞	bbelp
+뻟	bbelh
+뻠	bbem
+뻡	bbeb
+뻢	bbebs
+뻣	bbes
+뻤	bbess
+뻥	bbeng
+뻦	bbej
+뻧	bbec
+뻨	bbek
+뻩	bbet
+뻪	bbep
+뻫	bbeh
+뻬	bbei
+뻭	bbeig
+뻮	bbeigg
+뻯	bbeiɡs
+뻰	bbein
+뻱	bbeinj
+뻲	bbeinh
+뻳	bbeid
+뻴	bbeil
+뻵	bbeilg
+뻶	bbeilm
+뻷	bbeilb
+뻸	bbeils
+뻹	bbeilt
+뻺	bbeilp
+뻻	bbeilh
+뻼	bbeim
+뻽	bbeib
+뻾	bbeibs
+뻿	bbeis
+뼀	bbeiss
+뼁	bbeing
+뼂	bbeij
+뼃	bbeic
+뼄	bbeik
+뼅	bbeit
+뼆	bbeip
+뼇	bbeih
+뼈	bbie
+뼉	bbieg
+뼊	bbiegg
+뼋	bbieɡs
+뼌	bbien
+뼍	bbienj
+뼎	bbienh
+뼏	bbied
+뼐	bbiel
+뼑	bbielg
+뼒	bbielm
+뼓	bbielb
+뼔	bbiels
+뼕	bbielt
+뼖	bbielp
+뼗	bbielh
+뼘	bbiem
+뼙	bbieb
+뼚	bbiebs
+뼛	bbies
+뼜	bbiess
+뼝	bbieng
+뼞	bbiej
+뼟	bbiec
+뼠	bbiek
+뼡	bbiet
+뼢	bbiep
+뼣	bbieh
+뼤	bbiei
+뼥	bbieig
+뼦	bbieigg
+뼧	bbieigs
+뼨	bbiein
+뼩	bbieinj
+뼪	bbieinh
+뼫	bbieid
+뼬	bbieil
+뼭	bbieilg
+뼮	bbieilm
+뼯	bbieilb
+뼰	bbieils
+뼱	bbieilt
+뼲	bbieilp
+뼳	bbieilh
+뼴	bbieim
+뼵	bbieib
+뼶	bbieibs
+뼷	bbieis
+뼸	bbieiss
+뼹	bbieing
+뼺	bbieij
+뼻	bbieic
+뼼	bbieik
+뼽	bbieit
+뼾	bbieip
+뼿	bbieih
+뽀	bbo
+뽁	bbog
+뽂	bbogg
+뽃	bbogs
+뽄	bbon
+뽅	bbonj
+뽆	bbonh
+뽇	bbod
+뽈	bbol
+뽉	bbolɡ
+뽊	bbolm
+뽋	bbolb
+뽌	bbols
+뽍	bbolt
+뽎	bbolp
+뽏	bbolh
+뽐	bbom
+뽑	bbob
+뽒	bbobs
+뽓	bbos
+뽔	bboss
+뽕	bbong
+뽖	bboj
+뽗	bboc
+뽘	bbok
+뽙	bbot
+뽚	bbop
+뽛	bboh
+뽜	bboa
+뽝	bboag
+뽞	bboagg
+뽟	bboags
+뽠	bboan
+뽡	bboanj
+뽢	bboanh
+뽣	bboad
+뽤	bboal
+뽥	bboalg
+뽦	bboalm
+뽧	bboalb
+뽨	bbosls
+뽩	bboalt
+뽪	bboalp
+뽫	bboalh
+뽬	bboam
+뽭	bboab
+뽮	bboalbs
+뽯	bboas
+뽰	bboass
+뽱	bboang
+뽲	bboaj
+뽳	bboac
+뽴	bboak
+뽵	bboat
+뽶	bboap
+뽷	bboah
+뽸	bboai
+뽹	bboaig
+뽺	bboaigg
+뽻	bboaigs
+뽼	bboain
+뽽	bboainj
+뽾	bboainh
+뽿	bboaid
+뾀	bboail
+뾁	bboailg
+뾂	bboailm
+뾃	bboailb
+뾄	bboails
+뾅	bboailt
+뾆	bboailp
+뾇	bboailh
+뾈	bboaim
+뾉	bboaib
+뾊	bboaibs
+뾋	bboais
+뾌	bboaiss
+뾍	bboaing
+뾎	bboaij
+뾏	bboaic
+뾐	bboaik
+뾑	bboait
+뾒	bboaip
+뾓	bboaih
+뾔	bboi
+뾕	bboig
+뾖	bboigg
+뾗	bboiɡs
+뾘	bboin
+뾙	bboinj
+뾚	bboinh
+뾛	bboid
+뾜	bboil
+뾝	bboilg
+뾞	bboilm
+뾟	bboilb
+뾠	bboils
+뾡	bboilt
+뾢	bboilp
+뾣	bboilh
+뾤	bboim
+뾥	bboib
+뾦	bboibs
+뾧	bbois
+뾨	bboiss
+뾩	bboing
+뾪	bboij
+뾫	bboic
+뾬	bboik
+뾭	bboit
+뾮	bboip
+뾯	bboih
+뾰	bbio
+뾱	bbiog
+뾲	bbiogg
+뾳	bbiogs
+뾴	bbion
+뾵	bbionj
+뾶	bbionh
+뾷	bbiod
+뾸	bbiol
+뾹	bbiolg
+뾺	bbiolm
+뾻	bbiolb
+뾼	bbiols
+뾽	bbiolt
+뾾	bbiolp
+뾿	bbiolh
+뿀	bbiom
+뿁	bbiob
+뿂	bbiobs
+뿃	bbios
+뿄	bbioss
+뿅	bbiong
+뿆	bbioj
+뿇	bbioc
+뿈	bbiok
+뿉	bbiot
+뿊	bbiop
+뿋	bbioh
+뿌	bbu
+뿍	bbug
+뿎	bbugg
+뿏	bbugs
+뿐	bbun
+뿑	bbunj
+뿒	bbunh
+뿓	bbud
+뿔	bbul
+뿕	bbulɡ
+뿖	bbulm
+뿗	bbulb
+뿘	bbuls
+뿙	bbult
+뿚	bbulp
+뿛	bbulh
+뿜	bbum
+뿝	bbub
+뿞	bbubs
+뿟	bbus
+뿠	bbuss
+뿡	bbung
+뿢	bbuj
+뿣	bbuc
+뿤	bbuk
+뿥	bbut
+뿦	bbup
+뿧	bbuh
+뿨	bbue
+뿩	bbueg
+뿪	bbuegg
+뿫	bbuegs
+뿬	bbuen
+뿭	bbuenj
+뿮	bbuenh
+뿯	bbued
+뿰	bbuel
+뿱	bbuelg
+뿲	bbuelm
+뿳	bbuelb
+뿴	bbuels
+뿵	bbuelt
+뿶	bbuelp
+뿷	bbuelh
+뿸	bbuem
+뿹	bbueb
+뿺	bbuebs
+뿻	bbues
+뿼	bbuess
+뿽	bbueng
+뿾	bbuej
+뿿	bbuec
+쀀	bbuek
+쀁	bbuet
+쀂	bbuep
+쀃	bbueh
+쀄	bbuei
+쀅	bbueig
+쀆	bbueigg
+쀇	bbueigs
+쀈	bbuein
+쀉	bbueinj
+쀊	bbueinh
+쀋	bbueid
+쀌	bbueil
+쀍	bbueilg
+쀎	bbueilm
+쀏	bbueilb
+쀐	bbueils
+쀑	bbueilt
+쀒	bbueilp
+쀓	bbueilh
+쀔	bbueim
+쀕	bbueib
+쀖	bbueibs
+쀗	bbueis
+쀘	bbueiss
+쀙	bbueing
+쀚	bbueij
+쀛	bbueic
+쀜	bbueik
+쀝	bbueit
+쀞	bbueip
+쀟	bbueih
+쀠	bbui
+쀡	bbuig
+쀢	bbuigg
+쀣	bbuigs
+쀤	bbuin
+쀥	bbuinj
+쀦	bbuinh
+쀧	bbuid
+쀨	bbuil
+쀩	bbuilg
+쀪	bbuilm
+쀫	bbuilb
+쀬	bbuils
+쀭	bbuilt
+쀮	bbuilp
+쀯	bbuilh
+쀰	bbuim
+쀱	bbuib
+쀲	bbuibs
+쀳	bbuis
+쀴	bbuiss
+쀵	bbuing
+쀶	bbuij
+쀷	bbbuic
+쀸	bbuik
+쀹	bbuit
+쀺	bbuip
+쀻	bbuih
+쀼	bbiu
+쀽	bbiug
+쀾	bbiugg
+쀿	bbiugs
+쁀	bbiun
+쁁	bbiunj
+쁂	bbiunh
+쁃	bbiud
+쁄	bbiul
+쁅	bbiulg
+쁆	bbiulm
+쁇	bbiulb
+쁈	bbiuls
+쁉	bbiult
+쁊	bbiulp
+쁋	bbiulh
+쁌	bbium
+쁍	bbiub
+쁎	bbiubs
+쁏	bbius
+쁐	bbiuss
+쁑	bbiung
+쁒	bbiuj
+쁓	bbiuc
+쁔	bbiuk
+쁕	bbiut
+쁖	bbiup
+쁗	bbiuh
+쁘	bby
+쁙	bbyg
+쁚	bbygg
+쁛	bbygs
+쁜	bbyn
+쁝	bbynj
+쁞	bbynh
+쁟	bbyd
+쁠	bbyl
+쁡	bbbylg
+쁢	bbylm
+쁣	bbylb
+쁤	bbyls
+쁥	bbylt
+쁦	bbylp
+쁧	bbylh
+쁨	bbym
+쁩	bbyb
+쁪	bbybs
+쁫	bbys
+쁬	bbyss
+쁭	bbyng
+쁮	bbyj
+쁯	bbyc
+쁰	bbyk
+쁱	bbyt
+쁲	bbyp
+쁳	bbyh
+쁴	bbyi
+쁵	bbyig
+쁶	bbyigg
+쁷	bbyigs
+쁸	bbyin
+쁹	bbyinj
+쁺	bbyinh
+쁻	bbyid
+쁼	bbyil
+쁽	bbyilɡ
+쁾	bbyilm
+쁿	bbyilb
+삀	bbyils
+삁	bbyilt
+삂	bbyilp
+삃	bbyilh
+삄	bbyim
+삅	bbyib
+삆	bbyibs
+삇	bbyis
+삈	bbyiss
+삉	bbying
+삊	bbyij
+삋	bbyic
+삌	bbyik
+삍	bbyit
+삎	bbyip
+삏	bbyih
+삐	bbi
+삑	bbig
+삒	bbigg
+삓	bbigs
+삔	bbin
+삕	bbinj
+삖	bbinh
+삗	bbid
+삘	bbil
+삙	bbilg
+삚	bbilm
+삛	bbilb
+삜	bbils
+삝	bbilt
+삞	bbilp
+삟	bbilh
+삠	bbim
+삡	bbib
+삢	bbibs
+삣	bbis
+삤	bbiss
+삥	bbing
+삦	bbij
+삧	bbic
+삨	bbik
+삩	bbit
+삪	bbip
+삫	bbih
+사	sa
+삭	sag
+삮	sagg
+삯	sags
+산	san
+삱	sanj
+삲	sanh
+삳	sad
+살	sal
+삵	salg
+삶	salm
+삷	salb
+삸	sals
+삹	salt
+삺	salp
+삻	salh
+삼	sam
+삽	sab
+삾	sabs
+삿	sas
+샀	sass
+상	sang
+샂	saj
+샃	sac
+샄	sak
+샅	sat
+샆	sap
+샇	sah
+새	sai
+색	saig
+샊	saigg
+샋	saigs
+샌	sain
+샍	sainj
+샎	sainh
+샏	said
+샐	sail
+샑	sailg
+샒	sailm
+샓	sailb
+샔	sails
+샕	sailt
+샖	sailp
+샗	sailh
+샘	saim
+샙	saib
+샚	saibs
+샛	sais
+샜	saiss
+생	saing
+샞	saij
+샟	saic
+샠	saik
+샡	sait
+샢	saip
+샣	saih
+샤	sia
+샥	siag
+샦	siagg
+샧	siags
+샨	sian
+샩	sianj
+샪	sianh
+샫	siad
+샬	sial
+샭	sialg
+샮	sialm
+샯	sialb
+샰	sials
+샱	sialt
+샲	sialp
+샳	sialh
+샴	siam
+샵	siab
+샶	siabs
+샷	sias
+샸	siass
+샹	siang
+샺	siaj
+샻	siac
+샼	siak
+샽	siat
+샾	siap
+샿	siah
+섀	siai
+섁	siaig
+섂	siaigg
+섃	siaigs
+섄	siain
+섅	siainj
+섆	siainh
+섇	siaid
+섈	siail
+섉	siailg
+섊	siailm
+섋	siailb
+섌	siails
+섍	siailt
+섎	siailp
+섏	siailh
+섐	siaim
+섑	siaib
+섒	siaibs
+섓	siais
+섔	siaiss
+섕	siaing
+섖	siaij
+섗	siaic
+섘	siaik
+섙	siait
+섚	siaip
+섛	siaih
+서	se
+석	seg
+섞	segg
+섟	segs
+선	sen
+섡	senj
+섢	senh
+섣	sed
+설	sel
+섥	selg
+섦	selm
+섧	selb
+섨	sels
+섩	selt
+섪	selp
+섫	selh
+섬	sem
+섭	seb
+섮	sebs
+섯	ses
+섰	sess
+성	seng
+섲	sej
+섳	sec
+섴	sek
+섵	set
+섶	sep
+섷	seh
+세	sei
+섹	seig
+섺	seigg
+섻	seigs
+센	sein
+섽	seinj
+섾	seinh
+섿	seid
+셀	seil
+셁	seilg
+셂	seilm
+셃	seilb
+셄	seils
+셅	seilt
+셆	seilp
+셇	seilh
+셈	seim
+셉	seib
+셊	seibs
+셋	seis
+셌	seiss
+셍	seing
+셎	seij
+셏	seic
+셐	seik
+셑	seit
+셒	seip
+셓	seih
+셔	sie
+셕	sieg
+셖	siegg
+셗	siegs
+션	sien
+셙	sienj
+셚	sienh
+셛	sied
+셜	siel
+셝	sielg
+셞	sielm
+셟	sielb
+셠	siels
+셡	sielt
+셢	sielp
+셣	sielh
+셤	siem
+셥	sieb
+셦	siebs
+셧	sies
+셨	siess
+셩	sieng
+셪	siej
+셫	siec
+셬	siek
+셭	siet
+셮	siep
+셯	sieh
+셰	siei
+셱	sieig
+셲	sieigg
+셳	sieigs
+셴	siein
+셵	sieinj
+셶	sieinh
+셷	sieid
+셸	sieil
+셹	sieilg
+셺	sieilm
+셻	sieilb
+셼	sieils
+셽	sieilt
+셾	sieilp
+셿	sieilh
+솀	sieim
+솁	sieib
+솂	sieibs
+솃	sieis
+솄	sieiss
+솅	sieing
+솆	sieij
+솇	sieic
+솈	sieik
+솉	sieit
+솊	sieip
+솋	sieih
+소	so
+속	sog
+솎	sogg
+솏	sogs
+손	son
+솑	sonj
+솒	sonh
+솓	sod
+솔	sol
+솕	solg
+솖	solm
+솗	solb
+솘	sols
+솙	solt
+솚	solp
+솛	solh
+솜	som
+솝	sob
+솞	sobs
+솟	sos
+솠	soss
+송	song
+솢	soj
+솣	soc
+솤	sok
+솥	sot
+솦	sop
+솧	soh
+솨	soa
+솩	soag
+솪	soagg
+솫	soags
+솬	soan
+솭	soanj
+솮	soanh
+솯	soad
+솰	soal
+솱	soalg
+솲	soalm
+솳	soalb
+솴	soals
+솵	soalt
+솶	soalp
+솷	soalh
+솸	soam
+솹	soab
+솺	soabs
+솻	soas
+솼	soass
+솽	soang
+솾	soaj
+솿	soac
+쇀	soak
+쇁	soat
+쇂	soap
+쇃	soah
+쇄	soai
+쇅	soaig
+쇆	soaigg
+쇇	soaigs
+쇈	soain
+쇉	soainj
+쇊	soainh
+쇋	soaid
+쇌	soail
+쇍	soailg
+쇎	soailm
+쇏	soailb
+쇐	soails
+쇑	soailt
+쇒	soailp
+쇓	soailh
+쇔	soaim
+쇕	soaib
+쇖	soaibs
+쇗	soais
+쇘	soaiss
+쇙	soaing
+쇚	soaij
+쇛	soaic
+쇜	soaik
+쇝	soait
+쇞	soaip
+쇟	soaih
+쇠	soi
+쇡	soig
+쇢	soigg
+쇣	soigs
+쇤	soin
+쇥	soinj
+쇦	soinh
+쇧	soid
+쇨	soil
+쇩	soilg
+쇪	soilm
+쇫	soilb
+쇬	soils
+쇭	soilt
+쇮	soilp
+쇯	soilh
+쇰	soim
+쇱	soib
+쇲	soibs
+쇳	sois
+쇴	soiss
+쇵	soing
+쇶	soij
+쇷	soic
+쇸	soik
+쇹	soit
+쇺	soip
+쇻	soih
+쇼	sio
+쇽	siog
+쇾	siogg
+쇿	siogs
+숀	sion
+숁	sionj
+숂	sionh
+숃	siod
+숄	siol
+숅	siolg
+숆	siolm
+숇	siolb
+숈	siols
+숉	siolt
+숊	siolp
+숋	siolh
+숌	siom
+숍	siob
+숎	siobs
+숏	sios
+숐	sioss
+숑	siong
+숒	sioj
+숓	sioc
+숔	siok
+숕	siot
+숖	siop
+숗	sioh
+수	su
+숙	sug
+숚	sugg
+숛	sugs
+순	sun
+숝	sunj
+숞	sunh
+숟	sud
+술	sul
+숡	sulg
+숢	sulm
+숣	sulb
+숤	suls
+숥	sult
+숦	sulp
+숧	sulh
+숨	sum
+숩	sub
+숪	subs
+숫	sus
+숬	suss
+숭	sung
+숮	suj
+숯	suc
+숰	suk
+숱	sut
+숲	sup
+숳	suh
+숴	sue
+숵	sueg
+숶	suegg
+숷	suegs
+숸	suen
+숹	suenj
+숺	suenh
+숻	sued
+숼	suel
+숽	suelg
+숾	suelm
+숿	suelb
+쉀	suels
+쉁	suelt
+쉂	suelp
+쉃	suelh
+쉄	suem
+쉅	sueb
+쉆	suebs
+쉇	sues
+쉈	suess
+쉉	sueng
+쉊	suej
+쉋	suec
+쉌	suek
+쉍	suet
+쉎	suep
+쉏	sueh
+쉐	suei
+쉑	sueig
+쉒	sueigg
+쉓	sueigs
+쉔	suein
+쉕	sueinj
+쉖	sueinh
+쉗	sueid
+쉘	sueil
+쉙	sueilg
+쉚	sueilm
+쉛	sueilb
+쉜	sueils
+쉝	sueilt
+쉞	sueilp
+쉟	sueilh
+쉠	sueim
+쉡	sueib
+쉢	sueibs
+쉣	sueis
+쉤	sueiss
+쉥	sueing
+쉦	sueij
+쉧	sueic
+쉨	sueik
+쉩	sueit
+쉪	sueip
+쉫	sueih
+쉬	sui
+쉭	suig
+쉮	suigg
+쉯	suigs
+쉰	suin
+쉱	suinj
+쉲	suinh
+쉳	suid
+쉴	suil
+쉵	suilg
+쉶	suilm
+쉷	suilb
+쉸	suils
+쉹	suilt
+쉺	suilp
+쉻	suilh
+쉼	suim
+쉽	suib
+쉾	suibs
+쉿	suis
+슀	suiss
+슁	suing
+슂	suij
+슃	suic
+슄	suik
+슅	suit
+슆	suip
+슇	suih
+슈	siu
+슉	siug
+슊	siugg
+슋	siugs
+슌	siun
+슍	siunj
+슎	siunh
+슏	siud
+슐	siul
+슑	siulg
+슒	siulm
+슓	siulb
+슔	siuls
+슕	siult
+슖	siulp
+슗	siulh
+슘	sium
+슙	siub
+슚	siubs
+슛	sius
+슜	siuss
+슝	siung
+슞	siuj
+슟	siuc
+슠	siuk
+슡	siut
+슢	siup
+슣	siuh
+스	sy
+슥	syg
+슦	sygg
+슧	sygs
+슨	syn
+슩	synj
+슪	synh
+슫	syd
+슬	syl
+슭	sylg
+슮	sylm
+슯	sylb
+슰	syls
+슱	sylt
+슲	sylp
+슳	sylh
+슴	sym
+습	syb
+슶	sybs
+슷	sys
+슸	syss
+승	syng
+슺	syj
+슻	syc
+슼	syk
+슽	syt
+슾	syp
+슿	syh
+싀	syi
+싁	syig
+싂	syigg
+싃	syigs
+싄	syin
+싅	syinj
+싆	syinh
+싇	syid
+싈	syil
+싉	syilg
+싊	syilm
+싋	syilb
+싌	syils
+싍	syilt
+싎	syilp
+싏	syilh
+싐	syim
+싑	syib
+싒	syibs
+싓	syis
+싔	syiss
+싕	sying
+싖	syij
+싗	syic
+싘	syik
+싙	syit
+싚	syip
+싛	syih
+시	si
+식	sig
+싞	sigg
+싟	sigs
+신	sin
+싡	sinj
+싢	sinh
+싣	sid
+실	sil
+싥	silg
+싦	silm
+싧	silb
+싨	sils
+싩	silt
+싪	silp
+싫	silh
+심	sim
+십	sib
+싮	sibs
+싯	sis
+싰	siss
+싱	sing
+싲	sij
+싳	sic
+싴	sik
+싵	sit
+싶	sip
+싷	sih
+싸	ssa
+싹	ssag
+싺	ssagg
+싻	ssags
+싼	ssan
+싽	ssanj
+싾	ssanh
+싿	ssad
+쌀	ssal
+쌁	ssalg
+쌂	ssalm
+쌃	ssalb
+쌄	ssals
+쌅	ssalt
+쌆	ssalp
+쌇	ssalh
+쌈	ssam
+쌉	ssab
+쌊	ssabs
+쌋	ssas
+쌌	ssass
+쌍	ssang
+쌎	ssaj
+쌏	ssac
+쌐	ssak
+쌑	ssat
+쌒	ssap
+쌓	ssah
+쌔	ssai
+쌕	ssaig
+쌖	ssaigg
+쌗	ssaigs
+쌘	ssain
+쌙	ssainj
+쌚	ssainh
+쌛	ssaid
+쌜	ssail
+쌝	ssailg
+쌞	ssailm
+쌟	ssailb
+쌠	ssails
+쌡	ssailt
+쌢	ssailp
+쌣	ssailh
+쌤	ssaim
+쌥	ssaib
+쌦	ssaibs
+쌧	ssais
+쌨	ssaiss
+쌩	ssaing
+쌪	ssaij
+쌫	ssaic
+쌬	ssaik
+쌭	ssait
+쌮	ssaip
+쌯	ssaih
+쌰	ssia
+쌱	ssiag
+쌲	ssiagg
+쌳	ssiags
+쌴	ssian
+쌵	ssianj
+쌶	ssianh
+쌷	ssiad
+쌸	ssial
+쌹	ssialg
+쌺	ssialm
+쌻	ssialb
+쌼	ssials
+쌽	ssialt
+쌾	ssialp
+쌿	ssialh
+썀	ssiam
+썁	ssiab
+썂	ssiabs
+썃	ssias
+썄	ssiass
+썅	ssiang
+썆	ssiaj
+썇	ssiac
+썈	ssiak
+썉	ssiat
+썊	ssiap
+썋	ssiah
+썌	ssiai
+썍	ssiaig
+썎	ssiaigg
+썏	ssiaigs
+썐	ssiain
+썑	ssiainj
+썒	ssiainh
+썓	ssiaid
+썔	ssiail
+썕	ssiailg
+썖	ssiailm
+썗	ssiailb
+썘	ssiails
+썙	ssiailt
+썚	ssiailp
+썛	ssiailh
+썜	ssiaim
+썝	ssiaib
+썞	ssiaibs
+썟	ssiais
+썠	ssiaiss
+썡	ssiaing
+썢	ssiaij
+썣	ssiaic
+썤	ssiaik
+썥	ssiait
+썦	ssiaip
+썧	ssiaih
+써	sse
+썩	sseg
+썪	ssegg
+썫	ssegs
+썬	ssen
+썭	ssenj
+썮	ssenh
+썯	ssed
+썰	ssel
+썱	sselg
+썲	sselm
+썳	sselb
+썴	ssels
+썵	sselt
+썶	sselp
+썷	sselh
+썸	ssem
+썹	sseb
+썺	ssebs
+썻	sses
+썼	ssess
+썽	sseng
+썾	ssej
+썿	ssec
+쎀	ssek
+쎁	sset
+쎂	ssep
+쎃	sseh
+쎄	ssei
+쎅	sseig
+쎆	sseigg
+쎇	sseigs
+쎈	ssein
+쎉	sseinj
+쎊	sseinh
+쎋	sseid
+쎌	sseil
+쎍	sseilg
+쎎	sseilm
+쎏	sseilb
+쎐	sseils
+쎑	sseilt
+쎒	sseilp
+쎓	sseilh
+쎔	sseim
+쎕	sseib
+쎖	sseibs
+쎗	sseis
+쎘	sseiss
+쎙	sseing
+쎚	sseij
+쎛	sseic
+쎜	sseik
+쎝	sseit
+쎞	sseip
+쎟	sseih
+쎠	ssie
+쎡	ssieg
+쎢	ssiegg
+쎣	ssiegs
+쎤	ssien
+쎥	ssienj
+쎦	ssienh
+쎧	ssied
+쎨	ssiel
+쎩	ssielg
+쎪	ssielm
+쎫	ssielb
+쎬	ssiels
+쎭	ssielt
+쎮	ssielp
+쎯	sssielh
+쎰	ssiem
+쎱	ssieb
+쎲	ssiebs
+쎳	ssies
+쎴	ssiess
+쎵	ssieng
+쎶	ssiej
+쎷	ssiec
+쎸	ssiek
+쎹	ssiet
+쎺	ssiep
+쎻	ssieh
+쎼	ssiei
+쎽	ssieig
+쎾	ssieigg
+쎿	ssieigs
+쏀	ssiein
+쏁	ssieinj
+쏂	ssieinh
+쏃	ssieid
+쏄	ssieil
+쏅	ssieilg
+쏆	ssieilm
+쏇	ssieilb
+쏈	ssieils
+쏉	ssieilt
+쏊	ssieilp
+쏋	ssieilh
+쏌	ssieim
+쏍	ssieib
+쏎	ssieibs
+쏏	ssieis
+쏐	ssieiss
+쏑	ssieing
+쏒	ssieij
+쏓	ssieic
+쏔	ssieik
+쏕	ssieit
+쏖	ssieip
+쏗	ssieih
+쏘	sso
+쏙	ssog
+쏚	ssogg
+쏛	ssogs
+쏜	sson
+쏝	ssonj
+쏞	ssonh
+쏟	ssod
+쏠	ssol
+쏡	ssolg
+쏢	ssolm
+쏣	ssolb
+쏤	ssols
+쏥	ssolt
+쏦	ssolp
+쏧	ssolh
+쏨	ssom
+쏩	ssob
+쏪	ssobs
+쏫	ssos
+쏬	ssoss
+쏭	ssong
+쏮	ssoj
+쏯	ssoc
+쏰	ssok
+쏱	ssot
+쏲	ssop
+쏳	ssoh
+쏴	ssoa
+쏵	ssoag
+쏶	ssoagg
+쏷	ssoags
+쏸	ssoan
+쏹	ssoanj
+쏺	ssoanh
+쏻	ssoad
+쏼	ssoal
+쏽	ssoalg
+쏾	ssoalm
+쏿	ssoalb
+쐀	ssoals
+쐁	ssoalt
+쐂	ssoalp
+쐃	ssoalh
+쐄	ssoam
+쐅	ssoab
+쐆	ssoabs
+쐇	ssoas
+쐈	ssoass
+쐉	ssoang
+쐊	ssoaj
+쐋	ssoac
+쐌	ssoak
+쐍	ssoat
+쐎	ssoap
+쐏	ssoah
+쐐	ssoai
+쐑	ssoaig
+쐒	ssoaigg
+쐓	ssoaigs
+쐔	ssoain
+쐕	ssoainj
+쐖	ssoainh
+쐗	ssoaid
+쐘	ssoail
+쐙	ssoailg
+쐚	ssoailm
+쐛	ssoailb
+쐜	ssoails
+쐝	ssoailt
+쐞	ssoailp
+쐟	ssoailh
+쐠	ssoaim
+쐡	ssoaib
+쐢	ssoaibs
+쐣	ssoais
+쐤	ssoaiss
+쐥	ssoaing
+쐦	ssoaij
+쐧	ssoaic
+쐨	ssoaik
+쐩	ssoait
+쐪	ssoaip
+쐫	ssoaih
+쐬	ssoi
+쐭	ssoig
+쐮	ssoigg
+쐯	ssoigs
+쐰	ssoin
+쐱	ssoinj
+쐲	ssoinh
+쐳	ssoid
+쐴	ssoil
+쐵	ssoilg
+쐶	ssoilm
+쐷	ssoilb
+쐸	ssoils
+쐹	ssoilt
+쐺	ssoilp
+쐻	ssoilh
+쐼	ssoim
+쐽	ssoib
+쐾	ssoibs
+쐿	ssois
+쑀	ssoiss
+쑁	ssoing
+쑂	ssoij
+쑃	ssoic
+쑄	ssoik
+쑅	ssoit
+쑆	ssoip
+쑇	ssoih
+쑈	ssio
+쑉	ssiog
+쑊	ssiogg
+쑋	ssiogs
+쑌	ssion
+쑍	ssionj
+쑎	ssionh
+쑏	ssiod
+쑐	ssiol
+쑑	ssiolg
+쑒	ssiolm
+쑓	ssiolb
+쑔	ssiols
+쑕	ssiolt
+쑖	ssiolp
+쑗	ssiolh
+쑘	ssiom
+쑙	ssiob
+쑚	ssiobs
+쑛	ssios
+쑜	ssioss
+쑝	ssiong
+쑞	ssioj
+쑟	ssioc
+쑠	ssiok
+쑡	ssiot
+쑢	ssiop
+쑣	ssioh
+쑤	ssu
+쑥	ssug
+쑦	ssugg
+쑧	ssugs
+쑨	ssun
+쑩	ssunj
+쑪	ssunh
+쑫	ssud
+쑬	ssul
+쑭	ssulg
+쑮	ssulm
+쑯	ssulb
+쑰	ssuls
+쑱	ssult
+쑲	ssulp
+쑳	ssulh
+쑴	ssum
+쑵	ssub
+쑶	ssubs
+쑷	ssus
+쑸	ssuss
+쑹	ssung
+쑺	ssuj
+쑻	ssuc
+쑼	ssuk
+쑽	ssut
+쑾	ssup
+쑿	ssuh
+쒀	ssue
+쒁	ssueg
+쒂	ssuegg
+쒃	ssuegs
+쒄	ssuen
+쒅	ssuenj
+쒆	ssuenh
+쒇	ssued
+쒈	ssuel
+쒉	ssuelg
+쒊	ssuelm
+쒋	ssuelb
+쒌	ssuels
+쒍	ssuelt
+쒎	ssuelp
+쒏	ssuelh
+쒐	ssuem
+쒑	ssueb
+쒒	ssuebs
+쒓	ssues
+쒔	ssuess
+쒕	ssueng
+쒖	ssuej
+쒗	ssuec
+쒘	ssuek
+쒙	ssuet
+쒚	ssuep
+쒛	ssueh
+쒜	ssuei
+쒝	ssueig
+쒞	ssueigg
+쒟	ssueigs
+쒠	ssuein
+쒡	ssueinj
+쒢	ssueinh
+쒣	ssueid
+쒤	ssueil
+쒥	ssueilg
+쒦	ssueilm
+쒧	ssueilb
+쒨	ssueils
+쒩	ssueilt
+쒪	ssueilp
+쒫	ssueilh
+쒬	ssueim
+쒭	ssueib
+쒮	ssueibs
+쒯	ssueis
+쒰	ssueiss
+쒱	ssueing
+쒲	ssueij
+쒳	ssueic
+쒴	ssueik
+쒵	ssueit
+쒶	ssueip
+쒷	ssueih
+쒸	ssui
+쒹	ssuig
+쒺	ssuigg
+쒻	ssuigs
+쒼	ssuin
+쒽	ssuinj
+쒾	ssuinh
+쒿	ssuid
+쓀	ssuil
+쓁	ssuilg
+쓂	ssuilm
+쓃	ssuilb
+쓄	ssuils
+쓅	ssuilt
+쓆	ssuilp
+쓇	ssuilh
+쓈	ssuim
+쓉	ssuib
+쓊	ssuibs
+쓋	ssuis
+쓌	ssuiss
+쓍	ssuing
+쓎	ssuij
+쓏	ssuic
+쓐	ssuik
+쓑	ssuit
+쓒	ssuip
+쓓	ssuih
+쓔	ssiu
+쓕	ssiug
+쓖	ssiugg
+쓗	ssiugs
+쓘	ssiun
+쓙	ssiunj
+쓚	ssiunh
+쓛	ssiud
+쓜	ssiul
+쓝	ssiulg
+쓞	ssiulm
+쓟	ssiulb
+쓠	ssiuls
+쓡	ssiult
+쓢	ssiulp
+쓣	ssiulh
+쓤	ssium
+쓥	ssiub
+쓦	ssiubs
+쓧	ssius
+쓨	ssiuss
+쓩	ssiung
+쓪	ssiuj
+쓫	ssiuc
+쓬	ssiuk
+쓭	ssiut
+쓮	ssiup
+쓯	ssiuh
+쓰	ssy
+쓱	ssyg
+쓲	ssygg
+쓳	ssygs
+쓴	ssyn
+쓵	ssynj
+쓶	ssynh
+쓷	ssyd
+쓸	ssyl
+쓹	ssylg
+쓺	ssylm
+쓻	ssylb
+쓼	ssyls
+쓽	ssylt
+쓾	ssylp
+쓿	ssylh
+씀	ssym
+씁	ssyb
+씂	ssybs
+씃	ssys
+씄	ssyss
+씅	ssyng
+씆	ssyj
+씇	ssyc
+씈	ssyk
+씉	ssyt
+씊	ssyp
+씋	ssyh
+씌	ssyi
+씍	ssyig
+씎	ssyigg
+씏	ssyigs
+씐	ssyin
+씑	ssyinj
+씒	ssyinh
+씓	ssyid
+씔	ssyil
+씕	ssyilg
+씖	ssyilm
+씗	ssyilb
+씘	ssyils
+씙	ssyilt
+씚	ssyilp
+씛	ssyilh
+씜	ssyim
+씝	ssyib
+씞	ssyibs
+씟	ssyis
+씠	ssyiss
+씡	ssying
+씢	ssyij
+씣	ssyic
+씤	ssyik
+씥	ssyit
+씦	ssyip
+씧	ssyih
+씨	ssi
+씩	ssig
+씪	ssigg
+씫	ssigs
+씬	ssin
+씭	ssinj
+씮	ssinh
+씯	ssid
+씰	ssil
+씱	ssilg
+씲	ssilm
+씳	ssilb
+씴	ssils
+씵	ssilt
+씶	ssilp
+씷	ssilh
+씸	ssim
+씹	ssib
+씺	ssibs
+씻	ssis
+씼	ssiss
+씽	ssing
+씾	ssij
+씿	ssic
+앀	ssik
+앁	ssit
+앂	ssip
+앃	ssih
+아	qa
+악	qag
+앆	qagg
+앇	qags
+안	qan
+앉	qanj
+않	qanh
+앋	qad
+알	qal
+앍	qalg
+앎	qalm
+앏	qalb
+앐	qals
+앑	qalt
+앒	qalp
+앓	qalh
+암	qam
+압	qab
+앖	qabs
+앗	qas
+았	qass
+앙	qang
+앚	qaj
+앛	qac
+앜	qak
+앝	qat
+앞	qap
+앟	qah
+애	qai
+액	qaig
+앢	qaigg
+앣	qaigs
+앤	qain
+앥	qainj
+앦	qainh
+앧	qaid
+앨	qail
+앩	qailg
+앪	qailm
+앫	qailb
+앬	qails
+앭	qailt
+앮	qailp
+앯	qailh
+앰	qaim
+앱	qaib
+앲	qaibs
+앳	qais
+앴	qaiss
+앵	qaing
+앶	qaij
+앷	qaic
+앸	qaik
+앹	qait
+앺	qaip
+앻	qaih
+야	qia
+약	qiag
+앾	qiagg
+앿	qiags
+얀	qian
+얁	qianj
+얂	qianh
+얃	qiad
+얄	qial
+얅	qialg
+얆	qialm
+얇	qialb
+얈	qials
+얉	qialt
+얊	qialp
+얋	qialh
+얌	qiam
+얍	qiab
+얎	qiabs
+얏	qias
+얐	qiass
+양	qiang
+얒	qiaj
+얓	qiac
+얔	qiak
+얕	qiat
+얖	qiap
+얗	qiah
+얘	qiai
+얙	qiaig
+얚	qiaigg
+얛	qiaigs
+얜	qiain
+얝	qiainj
+얞	qiainh
+얟	qiaid
+얠	qiail
+얡	qiailg
+얢	qiailm
+얣	qiailb
+얤	qiails
+얥	qiailt
+얦	qiailp
+얧	qiailh
+얨	qiaim
+얩	qiaib
+얪	qiaibs
+얫	qiais
+얬	qiaiss
+얭	qiaing
+얮	qiaij
+얯	qiaic
+얰	qiaik
+얱	qiait
+얲	qiaip
+얳	qiaih
+어	qe
+억	qeg
+얶	qegg
+얷	qegs
+언	qen
+얹	qenj
+얺	qenh
+얻	qed
+얼	qel
+얽	qelg
+얾	qelm
+얿	qelb
+엀	qels
+엁	qelt
+엂	qelp
+엃	qelh
+엄	qem
+업	qeb
+없	qebs
+엇	qes
+었	qess
+엉	qeng
+엊	qej
+엋	qec
+엌	qek
+엍	qet
+엎	qep
+엏	qeh
+에	qei
+엑	qeig
+엒	qeigg
+엓	qeigs
+엔	qein
+엕	qeinj
+엖	qeinh
+엗	qeid
+엘	qeil
+엙	qeilg
+엚	qeilm
+엛	qeilb
+엜	qeils
+엝	qeilt
+엞	qeilp
+엟	qeilh
+엠	qeim
+엡	qeib
+엢	qeibs
+엣	qeis
+엤	qeiss
+엥	qeing
+엦	qeij
+엧	qeic
+엨	qeik
+엩	qeit
+엪	qeip
+엫	qeih
+여	qie
+역	qieg
+엮	qiegg
+엯	qiegs
+연	qien
+엱	qienj
+엲	qienh
+엳	qied
+열	qiel
+엵	qielg
+엶	qielm
+엷	qielb
+엸	qiels
+엹	qielt
+엺	qielp
+엻	qielh
+염	qiem
+엽	qieb
+엾	qiebs
+엿	qies
+였	qiess
+영	qieng
+옂	qiej
+옃	qiec
+옄	qiek
+옅	qiet
+옆	qoep
+옇	qieh
+예	qiei
+옉	qieig
+옊	qieigg
+옋	qieigs
+옌	qiein
+옍	qieinj
+옎	qieinh
+옏	qieid
+옐	qieil
+옑	qieilg
+옒	qieilm
+옓	qieilb
+옔	qieils
+옕	qieilt
+옖	qieilp
+옗	qieilh
+옘	qieim
+옙	qieib
+옚	qieibs
+옛	qieis
+옜	qieiss
+옝	qieing
+옞	qieij
+옟	qieic
+옠	qieik
+옡	qieit
+옢	qieip
+옣	qieih
+오	qo
+옥	qog
+옦	qogg
+옧	qogs
+온	qon
+옩	qonj
+옪	qonh
+옫	qod
+올	qol
+옭	qolg
+옮	qolm
+옯	qolb
+옰	qols
+옱	qolt
+옲	qolp
+옳	qolh
+옴	qom
+옵	qob
+옶	qobs
+옷	qos
+옸	qoss
+옹	qong
+옺	qoj
+옻	qoc
+옼	qok
+옽	qot
+옾	qop
+옿	qoh
+와	qoa
+왁	qoag
+왂	qoagg
+왃	qoags
+완	qoan
+왅	qoanj
+왆	qoanh
+왇	qoad
+왈	qoal
+왉	qoalg
+왊	qoalm
+왋	qoalb
+왌	qoals
+왍	qoalt
+왎	qoalp
+왏	qoalh
+왐	qoam
+왑	qoab
+왒	qoabs
+왓	qoas
+왔	qoass
+왕	qoang
+왖	qoaj
+왗	qoac
+왘	qoak
+왙	qoat
+왚	qoap
+왛	qoah
+왜	qoai
+왝	qoaig
+왞	qoaigg
+왟	qoaigs
+왠	qoain
+왡	qoainj
+왢	qoainh
+왣	qoaid
+왤	qoail
+왥	qoailg
+왦	qoailm
+왧	qoailb
+왨	qoails
+왩	qoailt
+왪	qoailp
+왫	qoailh
+왬	qoaim
+왭	qoaib
+왮	qoaibs
+왯	qoais
+왰	qoaiss
+왱	qoaing
+왲	qoaij
+왳	qoaic
+왴	qoaik
+왵	qoait
+왶	qoaip
+왷	qoaih
+외	qoi
+왹	qoig
+왺	qoigg
+왻	qoigs
+왼	qoin
+왽	qoinj
+왾	qoinh
+왿	qoid
+욀	qoil
+욁	qoilg
+욂	qoilm
+욃	qoilb
+욄	qoils
+욅	qoilt
+욆	qoilp
+욇	qoilh
+욈	qoim
+욉	qoib
+욊	qoibs
+욋	qois
+욌	qoiss
+욍	qoing
+욎	qoij
+욏	qoic
+욐	qoik
+욑	qoit
+욒	qoip
+욓	qoih
+요	qio
+욕	qiog
+욖	qiogg
+욗	qiogs
+욘	qion
+욙	qionj
+욚	qionh
+욛	qiod
+욜	qiol
+욝	qiolg
+욞	qiolm
+욟	qiolb
+욠	qiols
+욡	qiolt
+욢	qiolp
+욣	qiolh
+욤	qiom
+욥	qiob
+욦	qiobs
+욧	qios
+욨	qioss
+용	qiong
+욪	qioj
+욫	qioc
+욬	qiok
+욭	qiot
+욮	qiop
+욯	qioh
+우	qu
+욱	qug
+욲	qugg
+욳	qugs
+운	qun
+욵	qunj
+욶	qunh
+욷	qud
+울	qul
+욹	qulg
+욺	qulm
+욻	qulb
+욼	quls
+욽	qult
+욾	qulp
+욿	qulh
+움	qum
+웁	qub
+웂	qubs
+웃	qus
+웄	quss
+웅	qung
+웆	quj
+웇	quc
+웈	quk
+웉	qut
+웊	qup
+웋	quh
+워	que
+웍	queg
+웎	quegg
+웏	quegs
+원	quen
+웑	quenj
+웒	quenh
+웓	qued
+월	quel
+웕	quelg
+웖	quelm
+웗	quelb
+웘	quels
+웙	quelt
+웚	quelp
+웛	quelh
+웜	quem
+웝	queb
+웞	quebs
+웟	ques
+웠	quess
+웡	queng
+웢	quej
+웣	quec
+웤	quek
+웥	quet
+웦	quep
+웧	queh
+웨	quei
+웩	queig
+웪	queigg
+웫	queigs
+웬	quein
+웭	queinj
+웮	queinh
+웯	queid
+웰	queil
+웱	queilg
+웲	queilm
+웳	queilb
+웴	queils
+웵	queilt
+웶	queilp
+웷	queilh
+웸	queim
+웹	queib
+웺	queibs
+웻	queis
+웼	queiss
+웽	queing
+웾	queij
+웿	queic
+윀	queik
+윁	queit
+윂	queip
+윃	queih
+위	qui
+윅	quig
+윆	quigg
+윇	quigs
+윈	quin
+윉	quinj
+윊	quinh
+윋	quid
+윌	quil
+윍	quilg
+윎	quilm
+윏	quilb
+윐	quils
+윑	quilt
+윒	quilp
+윓	quilh
+윔	quim
+윕	quib
+윖	quilbs
+윗	quis
+윘	quiss
+윙	quing
+윚	quij
+윛	quic
+윜	quik
+윝	quit
+윞	quip
+윟	quih
+유	qiu
+육	qiug
+윢	qiugg
+윣	qiugs
+윤	qiun
+윥	qiunj
+윦	qiunh
+윧	qiud
+율	qiul
+윩	qiulg
+윪	qiulm
+윫	qiulb
+윬	qiuls
+윭	qiult
+윮	qiulp
+윯	qiulh
+윰	qium
+윱	qiub
+윲	qiubs
+윳	qius
+윴	qiuss
+융	qiung
+윶	qiuj
+윷	qiuc
+윸	qiuk
+윹	qiut
+윺	qiup
+윻	qiuh
+으	qy
+윽	qyg
+윾	qygg
+윿	qygs
+은	qyn
+읁	qynj
+읂	qynh
+읃	qyd
+을	qyl
+읅	qylg
+읆	qylm
+읇	qylb
+읈	qyls
+읉	qylt
+읊	qylp
+읋	qylh
+음	qym
+읍	qyb
+읎	qybs
+읏	qys
+읐	qyss
+응	qyng
+읒	qyj
+읓	qyc
+읔	qyk
+읕	qyt
+읖	qyp
+읗	qyh
+의	qyi
+읙	qyig
+읚	qyigg
+읛	qyigs
+읜	qyin
+읝	qyinj
+읞	qyinh
+읟	qyid
+읠	qyil
+읡	qyilg
+읢	qyilm
+읣	qyilb
+읤	qyils
+읥	qyilt
+읦	qyilp
+읧	qyilh
+읨	qyim
+읩	qyib
+읪	qyibs
+읫	qyis
+읬	qyiss
+읭	qying
+읮	qyij
+읯	qyic
+읰	qyik
+읱	qyit
+읲	qyip
+읳	qyih
+이	qi
+익	qig
+읶	qigg
+읷	qigs
+인	qin
+읹	qinj
+읺	qinh
+읻	qid
+일	qil
+읽	qilg
+읾	qilm
+읿	qilb
+잀	qils
+잁	qilt
+잂	qilp
+잃	qilh
+임	qim
+입	qib
+잆	qibs
+잇	qis
+있	qiss
+잉	qing
+잊	qij
+잋	qic
+잌	qik
+잍	qit
+잎	qip
+잏	qih
+자	ja
+작	jag
+잒	jagg
+잓	jags
+잔	jan
+잕	janj
+잖	janh
+잗	jad
+잘	jal
+잙	jalg
+잚	jalm
+잛	jalb
+잜	jals
+잝	jalt
+잞	jalp
+잟	jalh
+잠	jam
+잡	jab
+잢	jabs
+잣	jas
+잤	jass
+장	jang
+잦	jaj
+잧	jac
+잨	jak
+잩	jat
+잪	jap
+잫	jah
+재	jai
+잭	jaig
+잮	jaigg
+잯	jaigs
+잰	jain
+잱	jainj
+잲	jainh
+잳	jaid
+잴	jail
+잵	jailg
+잶	jailm
+잷	jailb
+잸	jails
+잹	jailt
+잺	jailp
+잻	jailh
+잼	jaim
+잽	jaib
+잾	jaibs
+잿	jais
+쟀	jaiss
+쟁	jaing
+쟂	jaij
+쟃	jaic
+쟄	jaik
+쟅	jait
+쟆	jaip
+쟇	jaih
+쟈	jia
+쟉	jiag
+쟊	jiagg
+쟋	jiags
+쟌	jian
+쟍	jianj
+쟎	jianh
+쟏	jiad
+쟐	jial
+쟑	jialg
+쟒	jialm
+쟓	jialb
+쟔	jials
+쟕	jialt
+쟖	jialp
+쟗	jialh
+쟘	jiam
+쟙	jiab
+쟚	jiabs
+쟛	jias
+쟜	jiass
+쟝	jiang
+쟞	jiaj
+쟟	jiac
+쟠	jiak
+쟡	jiat
+쟢	jiap
+쟣	jiah
+쟤	jiai
+쟥	jiaig
+쟦	jiaigg
+쟧	jiaigs
+쟨	jiain
+쟩	jiainj
+쟪	jiainh
+쟫	jiaid
+쟬	jiail
+쟭	jiailg
+쟮	jiailm
+쟯	jiailb
+쟰	jiails
+쟱	jiailt
+쟲	jiailp
+쟳	jiailh
+쟴	jiaim
+쟵	jiaib
+쟶	jiaibs
+쟷	jiais
+쟸	jiaiss
+쟹	jiaing
+쟺	jiaij
+쟻	jiaic
+쟼	jiaik
+쟽	jiait
+쟾	jiaip
+쟿	jiaih
+저	je
+적	jeg
+젂	jegg
+젃	jegs
+전	jen
+젅	jenj
+젆	jenh
+젇	jed
+절	jel
+젉	jelg
+젊	jelm
+젋	jelb
+젌	jels
+젍	jelt
+젎	jelp
+젏	jelh
+점	jem
+접	jeb
+젒	jebs
+젓	jes
+젔	jess
+정	jeng
+젖	jej
+젗	jec
+젘	jek
+젙	jet
+젚	jep
+젛	jeh
+제	jei
+젝	jeig
+젞	jeigg
+젟	jeigs
+젠	jein
+젡	jeinj
+젢	jeinh
+젣	jeid
+젤	jeil
+젥	jeilg
+젦	jeilm
+젧	jeilb
+젨	jeils
+젩	jeilt
+젪	jeilp
+젫	jeilh
+젬	jeim
+젭	jeib
+젮	jeibs
+젯	jeis
+젰	jeiss
+젱	jeing
+젲	jeij
+젳	jeic
+젴	jeik
+젵	jeit
+젶	jeip
+젷	jeih
+져	jie
+젹	jieg
+젺	jiegg
+젻	jiegs
+젼	jien
+젽	jienj
+젾	jienh
+젿	jied
+졀	jiel
+졁	jielg
+졂	jielm
+졃	jielb
+졄	jiels
+졅	jielt
+졆	jielp
+졇	jielh
+졈	jiem
+졉	jieb
+졊	jiebs
+졋	jies
+졌	jiess
+졍	jieng
+졎	jiej
+졏	jiec
+졐	jiek
+졑	jiet
+졒	jiep
+졓	jieh
+졔	jiei
+졕	jieig
+졖	jieigg
+졗	jieigs
+졘	jiein
+졙	jieinj
+졚	jieinh
+졛	jieid
+졜	jieil
+졝	jieilg
+졞	jieilm
+졟	jieilb
+졠	jieils
+졡	jieilt
+졢	jieilp
+졣	jieilh
+졤	jieim
+졥	jieib
+졦	jieibs
+졧	jieis
+졨	jieiss
+졩	jieing
+졪	jieij
+졫	jieic
+졬	jieik
+졭	jieit
+졮	jieip
+졯	jieih
+조	jo
+족	jog
+졲	jogg
+졳	jogs
+존	jon
+졵	jonj
+졶	jonh
+졷	jod
+졸	jol
+졹	jolg
+졺	jolm
+졻	jolb
+졼	jols
+졽	jolt
+졾	jolp
+졿	jolh
+좀	jom
+좁	job
+좂	jobs
+좃	jos
+좄	joss
+종	jong
+좆	joj
+좇	joc
+좈	jok
+좉	jot
+좊	jop
+좋	joh
+좌	joa
+좍	joag
+좎	joagg
+좏	joags
+좐	joan
+좑	joanj
+좒	joanh
+좓	joad
+좔	joal
+좕	joalg
+좖	joalm
+좗	joalb
+좘	joals
+좙	joalt
+좚	joalp
+좛	joalh
+좜	joam
+좝	joab
+좞	joabs
+좟	joas
+좠	joass
+좡	joang
+좢	joaj
+좣	joac
+좤	joak
+좥	joat
+좦	joap
+좧	joah
+좨	joai
+좩	joaig
+좪	joaigg
+좫	joaigs
+좬	joain
+좭	joainj
+좮	joainh
+좯	joaid
+좰	joail
+좱	joailg
+좲	joailm
+좳	joailb
+좴	joails
+좵	joailt
+좶	joailp
+좷	joailh
+좸	joaim
+좹	joaib
+좺	joaibs
+좻	joais
+좼	joaiss
+좽	joaing
+좾	joaij
+좿	joaic
+죀	joaik
+죁	joait
+죂	joaip
+죃	joaih
+죄	joi
+죅	joig
+죆	joigg
+죇	joigs
+죈	join
+죉	joinj
+죊	joinh
+죋	joid
+죌	joil
+죍	joilg
+죎	joilm
+죏	joilb
+죐	joils
+죑	joilt
+죒	joilp
+죓	joilh
+죔	joim
+죕	joib
+죖	joibs
+죗	jois
+죘	joiss
+죙	joing
+죚	joij
+죛	joic
+죜	joik
+죝	joit
+죞	joip
+죟	joih
+죠	jio
+죡	jiog
+죢	jiogg
+죣	jiogs
+죤	jion
+죥	jionj
+죦	jionh
+죧	jiod
+죨	jiol
+죩	jiolg
+죪	jiolm
+죫	jiolb
+죬	jiols
+죭	jiolt
+죮	jiolp
+죯	jiolh
+죰	jiom
+죱	jiob
+죲	jiobs
+죳	jios
+죴	jioss
+죵	jiong
+죶	jioj
+죷	jioc
+죸	jiok
+죹	jiot
+죺	jiop
+죻	jioh
+주	ju
+죽	jug
+죾	jugg
+죿	jugs
+준	jun
+줁	junj
+줂	junh
+줃	jud
+줄	jul
+줅	julg
+줆	julm
+줇	julb
+줈	juls
+줉	jult
+줊	julp
+줋	julh
+줌	jum
+줍	jub
+줎	jubs
+줏	jus
+줐	juss
+중	jung
+줒	juj
+줓	juc
+줔	juk
+줕	jut
+줖	jup
+줗	juh
+줘	jue
+줙	jueg
+줚	juegg
+줛	juegs
+줜	juen
+줝	juenj
+줞	juenh
+줟	jued
+줠	juel
+줡	juelg
+줢	juelm
+줣	juelb
+줤	juels
+줥	juelt
+줦	juelp
+줧	juelh
+줨	juem
+줩	jueb
+줪	juebs
+줫	jues
+줬	juess
+줭	jueng
+줮	juej
+줯	juec
+줰	juek
+줱	juet
+줲	juep
+줳	jueh
+줴	juei
+줵	jueig
+줶	jueigg
+줷	jueigs
+줸	juein
+줹	jueinj
+줺	jueinh
+줻	jueid
+줼	jueil
+줽	jueilg
+줾	jueilm
+줿	jueilb
+쥀	jueils
+쥁	jueilt
+쥂	jueilp
+쥃	jueilh
+쥄	jueim
+쥅	jueib
+쥆	jueibs
+쥇	jueis
+쥈	jueiss
+쥉	jueing
+쥊	jueij
+쥋	jueic
+쥌	jueik
+쥍	jueit
+쥎	jueip
+쥏	jueih
+쥐	jui
+쥑	juig
+쥒	juigg
+쥓	juigs
+쥔	juin
+쥕	juinj
+쥖	juinh
+쥗	juid
+쥘	juil
+쥙	juilg
+쥚	juilm
+쥛	juilb
+쥜	juils
+쥝	juilt
+쥞	juilp
+쥟	juilh
+쥠	juim
+쥡	juib
+쥢	juibs
+쥣	juis
+쥤	juiss
+쥥	juing
+쥦	juij
+쥧	juic
+쥨	juik
+쥩	juit
+쥪	juip
+쥫	juih
+쥬	jiu
+쥭	jiug
+쥮	jiugg
+쥯	jiugs
+쥰	jiun
+쥱	jiunj
+쥲	jiunh
+쥳	jiud
+쥴	jiul
+쥵	jiulg
+쥶	jiulm
+쥷	jiulb
+쥸	jiuls
+쥹	jiult
+쥺	jiulp
+쥻	jiulh
+쥼	jium
+쥽	jiub
+쥾	jiubs
+쥿	jius
+즀	jiuss
+즁	jiung
+즂	jiuj
+즃	jiuc
+즄	jiuk
+즅	jiut
+즆	jiup
+즇	jiuh
+즈	jy
+즉	jyg
+즊	jygg
+즋	jygs
+즌	jyn
+즍	jynj
+즎	jynh
+즏	jyd
+즐	jyl
+즑	jylg
+즒	jylm
+즓	jylb
+즔	jyls
+즕	jylt
+즖	jylp
+즗	jylh
+즘	jym
+즙	jyb
+즚	jybs
+즛	jys
+즜	jyss
+증	jyng
+즞	jyj
+즟	jyc
+즠	jyk
+즡	jyt
+즢	jyp
+즣	jyh
+즤	jyi
+즥	jyig
+즦	jyigg
+즧	jyigs
+즨	jyin
+즩	jyinj
+즪	jyinh
+즫	jyid
+즬	jyil
+즭	jyilg
+즮	jyilm
+즯	jyilb
+즰	jyils
+즱	jyilt
+즲	jyilp
+즳	jyilh
+즴	jyim
+즵	jyib
+즶	jyibs
+즷	jyis
+즸	jyiss
+즹	jying
+즺	jyij
+즻	jyic
+즼	jyik
+즽	jyit
+즾	jyip
+즿	jyih
+지	ji
+직	jig
+짂	jigg
+짃	jigs
+진	jin
+짅	jinj
+짆	jinh
+짇	jid
+질	jil
+짉	jilg
+짊	jilm
+짋	jilb
+짌	jils
+짍	jilt
+짎	jilp
+짏	jilh
+짐	jim
+집	jib
+짒	jibs
+짓	jis
+짔	jiss
+징	jing
+짖	jij
+짗	jic
+짘	jik
+짙	jit
+짚	jip
+짛	jih
+짜	jja
+짝	jjag
+짞	jjagg
+짟	jjags
+짠	jjan
+짡	jjanj
+짢	jjanh
+짣	jjad
+짤	jjal
+짥	jjalg
+짦	jjalm
+짧	jjalb
+짨	jjals
+짩	jjalt
+짪	jjalp
+짫	jjalh
+짬	jjam
+짭	jjab
+짮	jjabs
+짯	jjas
+짰	jjass
+짱	jjang
+짲	jjaj
+짳	jjac
+짴	jjak
+짵	jjat
+짶	jjap
+짷	jjah
+째	jjai
+짹	jjaig
+짺	jjaigg
+짻	jjaigs
+짼	jjain
+짽	jjainj
+짾	jjainh
+짿	jjaid
+쨀	jjail
+쨁	jjailg
+쨂	jjailm
+쨃	jjailb
+쨄	jjails
+쨅	jjailt
+쨆	jjailp
+쨇	jjailh
+쨈	jjaim
+쨉	jjaib
+쨊	jjaibs
+쨋	jjais
+쨌	jjaiss
+쨍	jjaing
+쨎	jjaij
+쨏	jjaic
+쨐	jjaik
+쨑	jjait
+쨒	jjaip
+쨓	jjaih
+쨔	jjia
+쨕	jjiag
+쨖	jjiagg
+쨗	jjiags
+쨘	jjian
+쨙	jjianj
+쨚	jjianh
+쨛	jjiad
+쨜	jjial
+쨝	jjialg
+쨞	jjialm
+쨟	jjialb
+쨠	jjials
+쨡	jjialt
+쨢	jjialp
+쨣	jjialh
+쨤	jjiam
+쨥	jjiab
+쨦	jjiabs
+쨧	jjias
+쨨	jjiass
+쨩	jjiang
+쨪	jjiaj
+쨫	jjiac
+쨬	jjiak
+쨭	jjiat
+쨮	jjiap
+쨯	jjiah
+쨰	jjiai
+쨱	jjiaig
+쨲	jjiaigg
+쨳	jjiaigs
+쨴	jjiain
+쨵	jjiainj
+쨶	jjiainh
+쨷	jjiaid
+쨸	jjiail
+쨹	jjiailg
+쨺	jjiailm
+쨻	jjiailb
+쨼	jjiails
+쨽	jjiailt
+쨾	jjiailp
+쨿	jjiailh
+쩀	jjiaim
+쩁	jjiaib
+쩂	jjiaibs
+쩃	jjiais
+쩄	jjiaiss
+쩅	jjiaing
+쩆	jjiaij
+쩇	jjiaic
+쩈	jjiaik
+쩉	jjiait
+쩊	jjiaip
+쩋	jjiaih
+쩌	jje
+쩍	jjeg
+쩎	jjegg
+쩏	jjegs
+쩐	jjen
+쩑	jjenj
+쩒	jjenh
+쩓	jjed
+쩔	jjel
+쩕	jjelg
+쩖	jjelm
+쩗	jjelb
+쩘	jjels
+쩙	jjelt
+쩚	jjelp
+쩛	jjelh
+쩜	jjem
+쩝	jjeb
+쩞	jjebs
+쩟	jjes
+쩠	jjess
+쩡	jjeng
+쩢	jjej
+쩣	jjec
+쩤	jjek
+쩥	jjet
+쩦	jjep
+쩧	jjeh
+쩨	jjei
+쩩	jjeig
+쩪	jjeigg
+쩫	jjeigs
+쩬	jjein
+쩭	jjeinj
+쩮	jjeinh
+쩯	jjeid
+쩰	jjeil
+쩱	jjeilg
+쩲	jjeilm
+쩳	jjeilb
+쩴	jjeils
+쩵	jjeilt
+쩶	jjeilp
+쩷	jjeilh
+쩸	jjeim
+쩹	jjeib
+쩺	jjeibs
+쩻	jjeis
+쩼	jjeiss
+쩽	jjeing
+쩾	jjeij
+쩿	jjeic
+쪀	jjeik
+쪁	jjeit
+쪂	jjeip
+쪃	jjeih
+쪄	jjie
+쪅	jjieg
+쪆	jjiegg
+쪇	jjiegs
+쪈	jjien
+쪉	jjienj
+쪊	jjienh
+쪋	jjied
+쪌	jjiel
+쪍	jjielg
+쪎	jjielm
+쪏	jjielb
+쪐	jjiels
+쪑	jjielt
+쪒	jjielp
+쪓	jjielh
+쪔	jjiem
+쪕	jjieb
+쪖	jjiebs
+쪗	jjies
+쪘	jjiess
+쪙	jjieng
+쪚	jjiej
+쪛	jjiec
+쪜	jjiek
+쪝	jjiet
+쪞	jjiep
+쪟	jjieh
+쪠	jjiei
+쪡	jjieig
+쪢	jjieigg
+쪣	jjieigs
+쪤	jjiein
+쪥	jjieinj
+쪦	jjieinh
+쪧	jjieid
+쪨	jjieil
+쪩	jjieilgs
+쪪	jjieilm
+쪫	jjieilb
+쪬	jjieils
+쪭	jjieilt
+쪮	jjieilp
+쪯	jjieilh
+쪰	jjieim
+쪱	jjieib
+쪲	jjieibs
+쪳	jjieis
+쪴	jjieiss
+쪵	jjieing
+쪶	jjieij
+쪷	jjieic
+쪸	jjieik
+쪹	jjieit
+쪺	jjieip
+쪻	jjieih
+쪼	jjo
+쪽	jjog
+쪾	jjogg
+쪿	jjogs
+쫀	jjon
+쫁	jjonj
+쫂	jjonh
+쫃	jjod
+쫄	jjol
+쫅	jjolg
+쫆	jjolm
+쫇	jjolb
+쫈	jjols
+쫉	jjolt
+쫊	jjolp
+쫋	jjolh
+쫌	jjom
+쫍	jjob
+쫎	jjobs
+쫏	jjos
+쫐	jjoss
+쫑	jjong
+쫒	jjoj
+쫓	jjoc
+쫔	jjok
+쫕	jjot
+쫖	jjop
+쫗	jjoh
+쫘	jjoa
+쫙	jjoag
+쫚	jjoagg
+쫛	jjoags
+쫜	jjoan
+쫝	jjoanj
+쫞	jjoanh
+쫟	jjoad
+쫠	jjoal
+쫡	jjoalg
+쫢	jjoalm
+쫣	jjoalb
+쫤	jjoals
+쫥	jjoalt
+쫦	jjoalp
+쫧	jjoalh
+쫨	jjoam
+쫩	jjoab
+쫪	jjoabs
+쫫	jjoas
+쫬	jjoass
+쫭	jjoang
+쫮	jjoaj
+쫯	jjoac
+쫰	jjoak
+쫱	jjoat
+쫲	jjoap
+쫳	jjoah
+쫴	jjoai
+쫵	jjoaig
+쫶	jjoaigg
+쫷	jjoaigs
+쫸	jjoain
+쫹	jjoainj
+쫺	jjoainh
+쫻	jjoaid
+쫼	jjoail
+쫽	jjoailg
+쫾	jjoailm
+쫿	jjoailb
+쬀	jjoails
+쬁	jjoailt
+쬂	jjoailp
+쬃	jjoailh
+쬄	jjoaim
+쬅	jjoaib
+쬆	jjoaibs
+쬇	jjoais
+쬈	jjoaiss
+쬉	jjoaing
+쬊	jjoaij
+쬋	jjoaic
+쬌	jjoaik
+쬍	jjoait
+쬎	jjoaip
+쬏	jjoaih
+쬐	jjoi
+쬑	jjoig
+쬒	jjoigg
+쬓	jjoigs
+쬔	jjoin
+쬕	jjoinj
+쬖	jjoinh
+쬗	jjoid
+쬘	jjoil
+쬙	jjoilg
+쬚	jjoilm
+쬛	jjoilb
+쬜	jjoils
+쬝	jjoilt
+쬞	jjoilp
+쬟	jjoilh
+쬠	jjoim
+쬡	jjoib
+쬢	jjoibs
+쬣	jjois
+쬤	jjoiss
+쬥	jjoing
+쬦	jjoij
+쬧	jjoic
+쬨	jjoik
+쬩	jjoit
+쬪	jjoip
+쬫	jjoih
+쬬	jjio
+쬭	jjiog
+쬮	jjiogg
+쬯	jjiogs
+쬰	jjion
+쬱	jjionj
+쬲	jjionh
+쬳	jjiod
+쬴	jjiol
+쬵	jjiolg
+쬶	jjiolm
+쬷	jjiolb
+쬸	jjiols
+쬹	jjiolt
+쬺	jjiolp
+쬻	jjiolh
+쬼	jjiom
+쬽	jjiob
+쬾	jjiobs
+쬿	jjios
+쭀	jjioss
+쭁	jjiong
+쭂	jjioj
+쭃	jjioc
+쭄	jjiok
+쭅	jjiot
+쭆	jjiop
+쭇	jjioh
+쭈	jju
+쭉	jjug
+쭊	jjugg
+쭋	jjugs
+쭌	jjun
+쭍	jjunj
+쭎	jjunh
+쭏	jjud
+쭐	jjul
+쭑	jjulg
+쭒	jjulm
+쭓	jjulb
+쭔	jjuls
+쭕	jjult
+쭖	jjulp
+쭗	jjulh
+쭘	jjum
+쭙	jjub
+쭚	jjubs
+쭛	jjus
+쭜	jjuss
+쭝	jjung
+쭞	jjuj
+쭟	jjuc
+쭠	jjuk
+쭡	jjut
+쭢	jjup
+쭣	jjuh
+쭤	jjue
+쭥	jjueg
+쭦	jjuegg
+쭧	jjuegs
+쭨	jjuen
+쭩	jjuenc
+쭪	jjuenh
+쭫	jjued
+쭬	jjuel
+쭭	jjuelg
+쭮	jjuelm
+쭯	jjuelb
+쭰	jjuels
+쭱	jjuelt
+쭲	jjuelp
+쭳	jjuelh
+쭴	jjuem
+쭵	jjueb
+쭶	jjuebs
+쭷	jjues
+쭸	jjuess
+쭹	jjueng
+쭺	jjuej
+쭻	jjuec
+쭼	jjuek
+쭽	jjuet
+쭾	jjuep
+쭿	jjueh
+쮀	jjuei
+쮁	jjueig
+쮂	jjueigg
+쮃	jjueigs
+쮄	jjuein
+쮅	jjueinj
+쮆	jjueinh
+쮇	jjueid
+쮈	jjueil
+쮉	jjueilg
+쮊	jjueilm
+쮋	jjueilb
+쮌	jjueils
+쮍	jjueilt
+쮎	jjueilp
+쮏	jjueilh
+쮐	jjueim
+쮑	jjueib
+쮒	jjueibs
+쮓	jjueis
+쮔	jjueiss
+쮕	jjueing
+쮖	jjueij
+쮗	jjueic
+쮘	jjueik
+쮙	jjueit
+쮚	jjueip
+쮛	jjueih
+쮜	jjui
+쮝	jjuig
+쮞	jjuigg
+쮟	jjuigs
+쮠	jjuin
+쮡	jjuinj
+쮢	jjuinh
+쮣	jjuid
+쮤	jjuil
+쮥	jjuilg
+쮦	jjuilm
+쮧	jjuilb
+쮨	jjuils
+쮩	jjuilt
+쮪	jjuilp
+쮫	jjuilh
+쮬	jjuim
+쮭	jjuib
+쮮	jjuibs
+쮯	jjuis
+쮰	jjuiss
+쮱	jjuing
+쮲	jjuij
+쮳	jjuic
+쮴	jjuik
+쮵	jjuit
+쮶	jjuip
+쮷	jjuih
+쮸	jjiu
+쮹	jjiug
+쮺	jjiugg
+쮻	jjiugs
+쮼	jjiun
+쮽	jjiunj
+쮾	jjiunh
+쮿	jjiud
+쯀	jjiul
+쯁	jjiulg
+쯂	jjiulm
+쯃	jjiulb
+쯄	jjiuls
+쯅	jjiult
+쯆	jjiulp
+쯇	jjiulh
+쯈	jjium
+쯉	jjiub
+쯊	jjiubs
+쯋	jjius
+쯌	jjiuss
+쯍	jjiung
+쯎	jjiuj
+쯏	jjiuc
+쯐	jjiuk
+쯑	jjiut
+쯒	jjiup
+쯓	jjiuh
+쯔	jjy
+쯕	jjyg
+쯖	jjygg
+쯗	jjygs
+쯘	jjyn
+쯙	jjynj
+쯚	jjynh
+쯛	jjyd
+쯜	jjyl
+쯝	jjylg
+쯞	jjylm
+쯟	jjylb
+쯠	jjyls
+쯡	jjylt
+쯢	jjylp
+쯣	jjylh
+쯤	jjym
+쯥	jjyb
+쯦	jjybs
+쯧	jjys
+쯨	jjyss
+쯩	jjyng
+쯪	jjyj
+쯫	jjyc
+쯬	jjyk
+쯭	jjyt
+쯮	jjyp
+쯯	jjyh
+쯰	jjyi
+쯱	jjyig
+쯲	jjyigg
+쯳	jjyigs
+쯴	jjyin
+쯵	jjyinj
+쯶	jjyinh
+쯷	jjyid
+쯸	jjyil
+쯹	jjyilg
+쯺	jjyilm
+쯻	jjyilb
+쯼	jjyils
+쯽	jjyilt
+쯾	jjyilp
+쯿	jjyilh
+찀	jjyim
+찁	jjyib
+찂	jjyibs
+찃	jjyis
+찄	jjyiss
+찅	jjying
+찆	jjyij
+찇	jjyic
+찈	jjyik
+찉	jjyit
+찊	jjyip
+찋	jjyih
+찌	jji
+찍	jjig
+찎	jjigg
+찏	jjigs
+찐	jjin
+찑	jjinj
+찒	jjinh
+찓	jjid
+찔	jjil
+찕	jjilg
+찖	jjilm
+찗	jjilb
+찘	jjils
+찙	jjilt
+찚	jjilp
+찛	jjilh
+찜	jjim
+찝	jjib
+찞	jjibs
+찟	jjis
+찠	jjiss
+찡	jjing
+찢	jjij
+찣	jjic
+찤	jjik
+찥	jjit
+찦	jjip
+찧	jjih
+차	ca
+착	cag
+찪	cagg
+찫	cags
+찬	can
+찭	canj
+찮	canh
+찯	cad
+찰	cal
+찱	calg
+찲	calm
+찳	calb
+찴	cals
+찵	calt
+찶	calp
+찷	calh
+참	cam
+찹	cab
+찺	cabs
+찻	cas
+찼	cass
+창	cang
+찾	caj
+찿	cac
+챀	cak
+챁	cat
+챂	cap
+챃	cah
+채	cai
+책	caig
+챆	caigg
+챇	caigs
+챈	cain
+챉	cainj
+챊	cainh
+챋	caid
+챌	cail
+챍	cailg
+챎	cailm
+챏	cailb
+챐	cails
+챑	cailt
+챒	cailp
+챓	cailh
+챔	caim
+챕	caib
+챖	caibs
+챗	cais
+챘	caiss
+챙	caing
+챚	caij
+챛	caic
+챜	caik
+챝	cait
+챞	caip
+챟	caih
+챠	cia
+챡	ciag
+챢	ciagg
+챣	ciags
+챤	cian
+챥	cianj
+챦	cianh
+챧	ciad
+챨	cial
+챩	cialg
+챪	cialm
+챫	cialb
+챬	cials
+챭	cialt
+챮	cialp
+챯	cialh
+챰	ciam
+챱	ciab
+챲	ciabs
+챳	cias
+챴	ciass
+챵	ciang
+챶	ciaj
+챷	ciac
+챸	ciak
+챹	ciat
+챺	ciap
+챻	ciah
+챼	ciai
+챽	ciaig
+챾	ciaigg
+챿	ciaigs
+첀	ciain
+첁	ciainj
+첂	ciainh
+첃	ciaid
+첄	ciail
+첅	ciailg
+첆	ciailm
+첇	ciailb
+첈	ciails
+첉	ciailt
+첊	ciailp
+첋	ciailh
+첌	ciaim
+첍	ciaib
+첎	ciaibs
+첏	ciais
+첐	ciaiss
+첑	ciaing
+첒	ciaij
+첓	ciaic
+첔	ciaik
+첕	ciait
+첖	ciaip
+첗	ciaih
+처	ce
+척	ceg
+첚	cegg
+첛	cegs
+천	cen
+첝	cenj
+첞	cenh
+첟	ced
+철	cel
+첡	celg
+첢	celm
+첣	celb
+첤	cels
+첥	celt
+첦	celp
+첧	celh
+첨	cem
+첩	ceb
+첪	cebs
+첫	ces
+첬	cess
+청	ceng
+첮	cej
+첯	cec
+첰	cek
+첱	cet
+첲	cep
+첳	ceh
+체	cei
+첵	ceig
+첶	ceigg
+첷	ceigs
+첸	cein
+첹	ceinj
+첺	ceinh
+첻	ceid
+첼	ceil
+첽	ceilg
+첾	ceilm
+첿	ceilb
+쳀	ceils
+쳁	ceilt
+쳂	ceilp
+쳃	ceilh
+쳄	ceim
+쳅	ceib
+쳆	ceibs
+쳇	ceis
+쳈	ceiss
+쳉	ceing
+쳊	ceij
+쳋	ceic
+쳌	ceik
+쳍	ceit
+쳎	ceip
+쳏	ceih
+쳐	cie
+쳑	cieg
+쳒	ciegg
+쳓	ciegs
+쳔	cien
+쳕	cienj
+쳖	cienh
+쳗	cied
+쳘	ciel
+쳙	cielg
+쳚	cielm
+쳛	cielb
+쳜	ciels
+쳝	cielt
+쳞	cielp
+쳟	cielh
+쳠	ciem
+쳡	cieb
+쳢	ciebs
+쳣	cies
+쳤	ciess
+쳥	cieng
+쳦	ciej
+쳧	ciec
+쳨	ciek
+쳩	ciet
+쳪	ciep
+쳫	cieh
+쳬	ciei
+쳭	cieig
+쳮	cieigg
+쳯	cieigs
+쳰	ciein
+쳱	cieinj
+쳲	cieinh
+쳳	cieid
+쳴	cieil
+쳵	cieilg
+쳶	cieilm
+쳷	cieilb
+쳸	cieils
+쳹	cieilt
+쳺	cieilp
+쳻	cieilh
+쳼	cieim
+쳽	cieib
+쳾	cieibs
+쳿	cieis
+촀	cieiss
+촁	cieing
+촂	cieij
+촃	cieic
+촄	cieik
+촅	cieit
+촆	cieip
+촇	cieih
+초	co
+촉	cog
+촊	cogg
+촋	cogs
+촌	con
+촍	conj
+촎	conh
+촏	cod
+촐	col
+촑	colg
+촒	colm
+촓	colb
+촔	cols
+촕	colt
+촖	colp
+촗	colh
+촘	com
+촙	cob
+촚	cobs
+촛	cos
+촜	coss
+총	cong
+촞	coj
+촟	coc
+촠	cok
+촡	cot
+촢	cop
+촣	coh
+촤	coa
+촥	coag
+촦	coagg
+촧	coags
+촨	coan
+촩	coanj
+촪	coanh
+촫	coad
+촬	coal
+촭	coalg
+촮	coalm
+촯	coalb
+촰	coals
+촱	coalt
+촲	coalp
+촳	coalh
+촴	coam
+촵	coab
+촶	coabs
+촷	coas
+촸	coass
+촹	coang
+촺	coaj
+촻	coac
+촼	coak
+촽	coat
+촾	coap
+촿	coah
+쵀	coai
+쵁	coaig
+쵂	coaigg
+쵃	coaigs
+쵄	coain
+쵅	coainj
+쵆	coainh
+쵇	coaid
+쵈	coail
+쵉	coailg
+쵊	coailm
+쵋	coailb
+쵌	coails
+쵍	coailt
+쵎	coailp
+쵏	coailh
+쵐	coaim
+쵑	coaib
+쵒	coaibs
+쵓	coais
+쵔	coaiss
+쵕	coaing
+쵖	coaij
+쵗	coaic
+쵘	coaik
+쵙	coait
+쵚	coaip
+쵛	coaih
+최	coi
+쵝	coig
+쵞	coigg
+쵟	coigs
+쵠	coin
+쵡	coinj
+쵢	coinh
+쵣	coid
+쵤	coil
+쵥	coilg
+쵦	coilm
+쵧	coilb
+쵨	coils
+쵩	coilt
+쵪	coilp
+쵫	coilh
+쵬	coim
+쵭	coib
+쵮	coibs
+쵯	cois
+쵰	coiss
+쵱	coing
+쵲	coij
+쵳	coic
+쵴	coik
+쵵	coit
+쵶	coip
+쵷	coih
+쵸	cio
+쵹	ciog
+쵺	ciogg
+쵻	ciogs
+쵼	cion
+쵽	cionj
+쵾	cionh
+쵿	ciod
+춀	ciol
+춁	ciolg
+춂	ciolm
+춃	ciolb
+춄	ciols
+춅	ciolt
+춆	ciolp
+춇	ciolh
+춈	ciom
+춉	ciob
+춊	ciobs
+춋	cios
+춌	cioss
+춍	ciong
+춎	cioj
+춏	cioc
+춐	ciok
+춑	ciot
+춒	ciop
+춓	cioh
+추	cu
+축	cug
+춖	cugg
+춗	cugs
+춘	cun
+춙	cunj
+춚	cunh
+춛	cud
+출	cul
+춝	culg
+춞	culm
+춟	culb
+춠	culs
+춡	cult
+춢	culp
+춣	culh
+춤	cum
+춥	cub
+춦	cubs
+춧	cus
+춨	cuss
+충	cung
+춪	cuj
+춫	cuc
+춬	cuk
+춭	cut
+춮	cup
+춯	cuh
+춰	cue
+춱	cueg
+춲	cuegg
+춳	cuegs
+춴	cuen
+춵	cuenj
+춶	cuenh
+춷	cued
+춸	cuel
+춹	cuelg
+춺	cuelm
+춻	cuelb
+춼	cuels
+춽	cuelt
+춾	cuelp
+춿	cuelh
+췀	cuem
+췁	cueb
+췂	cuebs
+췃	cues
+췄	cuess
+췅	cueng
+췆	cuej
+췇	cuec
+췈	cuek
+췉	cuet
+췊	cuep
+췋	cueh
+췌	cuei
+췍	cueig
+췎	cueigg
+췏	cueigs
+췐	cuein
+췑	cueinj
+췒	cueinh
+췓	cueid
+췔	cueil
+췕	cueilg
+췖	cueilm
+췗	cueilb
+췘	cueils
+췙	cueilt
+췚	cueilp
+췛	cueilh
+췜	cueim
+췝	cueib
+췞	cueibs
+췟	cueis
+췠	cueiss
+췡	cueing
+췢	cueij
+췣	cueic
+췤	cueik
+췥	cueit
+췦	cueip
+췧	cueih
+취	cui
+췩	cuig
+췪	cuigg
+췫	cuigs
+췬	cuin
+췭	cuinj
+췮	cuinh
+췯	cuid
+췰	cuil
+췱	cuilg
+췲	cuilm
+췳	cuilb
+췴	cuils
+췵	cuilt
+췶	cuilp
+췷	cuilh
+췸	cuim
+췹	cuib
+췺	cuibs
+췻	cuis
+췼	cuiss
+췽	cuing
+췾	cuij
+췿	cuic
+츀	cuik
+츁	cuit
+츂	cuip
+츃	cuih
+츄	ciu
+츅	ciug
+츆	ciugg
+츇	ciugs
+츈	ciun
+츉	ciunj
+츊	ciunh
+츋	ciud
+츌	ciul
+츍	ciulg
+츎	ciulm
+츏	ciulb
+츐	ciuls
+츑	ciult
+츒	ciulp
+츓	ciulh
+츔	cium
+츕	ciub
+츖	ciubs
+츗	cius
+츘	ciuss
+츙	ciung
+츚	ciuj
+츛	ciuc
+츜	ciuk
+츝	ciut
+츞	ciup
+츟	ciuh
+츠	cy
+측	cyg
+츢	cygg
+츣	cygs
+츤	cyn
+츥	cynj
+츦	cynh
+츧	cyd
+츨	cyl
+츩	cylg
+츪	cylm
+츫	cylb
+츬	cyls
+츭	cylt
+츮	cylp
+츯	cylh
+츰	cym
+츱	cyb
+츲	cybs
+츳	cys
+츴	cyss
+층	cyng
+츶	cyj
+츷	cyc
+츸	cyk
+츹	cyt
+츺	cyp
+츻	cyh
+츼	cyi
+츽	cyig
+츾	cyigg
+츿	cyigs
+칀	cyin
+칁	cyinj
+칂	cyinh
+칃	cyid
+칄	cyil
+칅	cyilg
+칆	cyilm
+칇	cyilb
+칈	cyils
+칉	cyilt
+칊	cyilp
+칋	cyilh
+칌	cyim
+칍	cyib
+칎	cyibs
+칏	cyis
+칐	cyiss
+칑	cying
+칒	cyij
+칓	cyic
+칔	cyik
+칕	cyit
+칖	cyip
+칗	cyih
+치	ci
+칙	cig
+칚	cigg
+칛	cigs
+친	cin
+칝	cinj
+칞	cinh
+칟	cid
+칠	cil
+칡	cilg
+칢	cilm
+칣	cilb
+칤	cils
+칥	cilt
+칦	cilp
+칧	cilh
+침	cim
+칩	cib
+칪	cibs
+칫	cis
+칬	ciss
+칭	cing
+칮	cij
+칯	cic
+칰	cik
+칱	cit
+칲	cip
+칳	cih
+카	ka
+칵	kag
+칶	kagg
+칷	kags
+칸	kan
+칹	kanj
+칺	kanh
+칻	kad
+칼	kal
+칽	kalg
+칾	kalm
+칿	kalb
+캀	kals
+캁	kalt
+캂	kalp
+캃	kalh
+캄	kam
+캅	kab
+캆	kabs
+캇	kas
+캈	kass
+캉	kang
+캊	kaj
+캋	kac
+캌	kak
+캍	kat
+캎	kap
+캏	kah
+캐	kai
+캑	kaig
+캒	kaigg
+캓	kaigs
+캔	kain
+캕	kainj
+캖	kainh
+캗	kaid
+캘	kail
+캙	kailg
+캚	kailm
+캛	kailb
+캜	kails
+캝	kailt
+캞	kailp
+캟	kailh
+캠	kaim
+캡	kaib
+캢	kaibs
+캣	kais
+캤	kaiss
+캥	kaing
+캦	kaij
+캧	kaic
+캨	kaik
+캩	kait
+캪	kaip
+캫	kaih
+캬	kia
+캭	kiag
+캮	kiagg
+캯	kiags
+캰	kian
+캱	kianj
+캲	kianh
+캳	kiad
+캴	kial
+캵	kialg
+캶	kialm
+캷	kialb
+캸	kials
+캹	kialt
+캺	kialp
+캻	kialh
+캼	kiam
+캽	kiab
+캾	kiabs
+캿	kias
+컀	kiass
+컁	kiang
+컂	kiaj
+컃	kiac
+컄	kiak
+컅	kiat
+컆	kiap
+컇	kiah
+컈	kiai
+컉	kiaig
+컊	kiaigg
+컋	kiaigs
+컌	kiain
+컍	kiainj
+컎	kiainh
+컏	kiaid
+컐	kiail
+컑	kiailg
+컒	kiailm
+컓	kiailb
+컔	kiails
+컕	kiailt
+컖	kiailp
+컗	kiailh
+컘	kiaim
+컙	kiaib
+컚	kiaibs
+컛	kiais
+컜	kiaiss
+컝	kiaing
+컞	kiaij
+컟	kiaic
+컠	kiaik
+컡	kiait
+컢	kiaip
+컣	kiaih
+커	ke
+컥	keg
+컦	kegg
+컧	kegs
+컨	ken
+컩	kenj
+컪	kenh
+컫	ked
+컬	kel
+컭	kelg
+컮	kelm
+컯	kelb
+컰	kels
+컱	kelt
+컲	kelp
+컳	kelh
+컴	kem
+컵	keb
+컶	kebs
+컷	kes
+컸	kess
+컹	keng
+컺	kej
+컻	kec
+컼	kek
+컽	ket
+컾	kep
+컿	keh
+케	kei
+켁	keig
+켂	keigg
+켃	keigs
+켄	kein
+켅	keinj
+켆	keinh
+켇	keid
+켈	keil
+켉	keilg
+켊	keilm
+켋	keilb
+켌	keils
+켍	keilt
+켎	keilp
+켏	keilh
+켐	keim
+켑	keib
+켒	keibs
+켓	keis
+켔	keiss
+켕	keing
+켖	keij
+켗	keic
+켘	keik
+켙	keit
+켚	keip
+켛	keih
+켜	kie
+켝	kieg
+켞	kiegg
+켟	kiegs
+켠	kien
+켡	kienj
+켢	kienh
+켣	kied
+켤	kiel
+켥	kielg
+켦	kielm
+켧	kielb
+켨	kiels
+켩	kielt
+켪	kielp
+켫	kielh
+켬	kiem
+켭	kieb
+켮	kiebs
+켯	kies
+켰	kiess
+켱	kieng
+켲	kiej
+켳	kiec
+켴	kiek
+켵	kiet
+켶	kiep
+켷	kieh
+켸	kiei
+켹	kieig
+켺	kieigg
+켻	kieigs
+켼	kiein
+켽	kieinj
+켾	kieinh
+켿	kieid
+콀	kieil
+콁	kieilg
+콂	kieilm
+콃	kieilb
+콄	kieils
+콅	kieilt
+콆	kieilp
+콇	kieilh
+콈	kieim
+콉	kieib
+콊	kieibs
+콋	kieis
+콌	kieiss
+콍	kieing
+콎	kieij
+콏	kieic
+콐	kieik
+콑	kieit
+콒	kieip
+콓	kieih
+코	ko
+콕	kog
+콖	kogg
+콗	kogs
+콘	kon
+콙	konj
+콚	konh
+콛	kod
+콜	kol
+콝	kolg
+콞	kolm
+콟	kolb
+콠	kols
+콡	kolt
+콢	kolp
+콣	kolh
+콤	kom
+콥	kob
+콦	kobs
+콧	kos
+콨	koss
+콩	kong
+콪	koj
+콫	koc
+콬	kok
+콭	kot
+콮	kop
+콯	koh
+콰	koa
+콱	koag
+콲	koagg
+콳	koags
+콴	koan
+콵	koanj
+콶	koanh
+콷	koad
+콸	koal
+콹	koalg
+콺	koalm
+콻	koalb
+콼	koals
+콽	koalt
+콾	koalp
+콿	koalh
+쾀	koam
+쾁	koab
+쾂	koabs
+쾃	koas
+쾄	koass
+쾅	koang
+쾆	koaj
+쾇	koac
+쾈	koak
+쾉	koat
+쾊	koap
+쾋	koah
+쾌	koai
+쾍	koaig
+쾎	koaigg
+쾏	koaigs
+쾐	koain
+쾑	koainj
+쾒	koainh
+쾓	koaid
+쾔	koail
+쾕	koailg
+쾖	koailm
+쾗	koailb
+쾘	koails
+쾙	koailt
+쾚	koailp
+쾛	koailh
+쾜	koaim
+쾝	koaib
+쾞	koaibs
+쾟	koais
+쾠	koaiss
+쾡	koaing
+쾢	koaij
+쾣	koaic
+쾤	koaik
+쾥	koait
+쾦	koaip
+쾧	koaih
+쾨	koi
+쾩	koig
+쾪	koigg
+쾫	koigs
+쾬	koin
+쾭	koinj
+쾮	koinh
+쾯	koid
+쾰	koil
+쾱	koilg
+쾲	koilm
+쾳	koilb
+쾴	koils
+쾵	koilt
+쾶	koilp
+쾷	koilh
+쾸	koim
+쾹	koib
+쾺	koibs
+쾻	kois
+쾼	koiss
+쾽	koing
+쾾	koij
+쾿	koic
+쿀	koik
+쿁	koit
+쿂	koip
+쿃	koih
+쿄	kio
+쿅	kiog
+쿆	kiogg
+쿇	kiogs
+쿈	kion
+쿉	kionj
+쿊	kionh
+쿋	kiod
+쿌	kiol
+쿍	kiolg
+쿎	kiolm
+쿏	kiolb
+쿐	kiols
+쿑	kiolt
+쿒	kiolp
+쿓	kiolh
+쿔	kiom
+쿕	kiob
+쿖	kiobs
+쿗	kios
+쿘	kioss
+쿙	kiong
+쿚	kioj
+쿛	kioc
+쿜	kiok
+쿝	kiot
+쿞	kiop
+쿟	kioh
+쿠	ku
+쿡	kug
+쿢	kugg
+쿣	kugs
+쿤	kun
+쿥	kunj
+쿦	kunh
+쿧	kud
+쿨	kul
+쿩	kulg
+쿪	kulm
+쿫	kulb
+쿬	kuls
+쿭	kult
+쿮	kulp
+쿯	kulh
+쿰	kum
+쿱	kub
+쿲	kubs
+쿳	kus
+쿴	kuss
+쿵	kung
+쿶	kuj
+쿷	kuc
+쿸	kuk
+쿹	kut
+쿺	kup
+쿻	kuh
+쿼	kue
+쿽	kueg
+쿾	kuegg
+쿿	kuegs
+퀀	kuen
+퀁	kuenj
+퀂	kuenh
+퀃	kued
+퀄	kuel
+퀅	kuelg
+퀆	kuelm
+퀇	kuelb
+퀈	kuels
+퀉	kuelt
+퀊	kuelp
+퀋	kuelh
+퀌	kuem
+퀍	kueb
+퀎	kuebs
+퀏	kues
+퀐	kuess
+퀑	kueng
+퀒	kuej
+퀓	kuec
+퀔	kuek
+퀕	kuet
+퀖	kuep
+퀗	kueh
+퀘	kuei
+퀙	kueig
+퀚	kueigg
+퀛	kueigs
+퀜	kuein
+퀝	kueinj
+퀞	kueinh
+퀟	kueid
+퀠	kueil
+퀡	kueilg
+퀢	kueilm
+퀣	kueilb
+퀤	kueils
+퀥	kueilt
+퀦	kueilp
+퀧	kueilh
+퀨	kueim
+퀩	kueib
+퀪	kueibs
+퀫	kueis
+퀬	kueiss
+퀭	kueing
+퀮	kueij
+퀯	kueic
+퀰	kueik
+퀱	kueit
+퀲	kueip
+퀳	kueih
+퀴	kui
+퀵	kuig
+퀶	kuigg
+퀷	kuigs
+퀸	kuin
+퀹	kuinj
+퀺	kuinh
+퀻	kuid
+퀼	kuil
+퀽	kuilg
+퀾	kuilm
+퀿	kuilb
+큀	kuils
+큁	kuilt
+큂	kuilp
+큃	kuilh
+큄	kuim
+큅	kuib
+큆	kuibs
+큇	kuis
+큈	kuiss
+큉	kuing
+큊	kuij
+큋	kuic
+큌	kuik
+큍	kuit
+큎	kuip
+큏	kuih
+큐	kiu
+큑	kiug
+큒	kiugg
+큓	kiugs
+큔	kiun
+큕	kiunj
+큖	kiunh
+큗	kiud
+큘	kiul
+큙	kiulg
+큚	kiulm
+큛	kiulb
+큜	kiuls
+큝	kiult
+큞	kiulp
+큟	kiulh
+큠	kium
+큡	kiub
+큢	kiubs
+큣	kius
+큤	kiuss
+큥	kiung
+큦	kiuj
+큧	kiuc
+큨	kiuk
+큩	kiut
+큪	kiup
+큫	kiuh
+크	ky
+큭	kyg
+큮	kygg
+큯	kygs
+큰	kyn
+큱	kynj
+큲	kynh
+큳	kyd
+클	kyl
+큵	kylg
+큶	kylm
+큷	kylb
+큸	kyls
+큹	kylt
+큺	kylp
+큻	kylh
+큼	kym
+큽	kyb
+큾	kybs
+큿	kys
+킀	kyss
+킁	kyng
+킂	kyj
+킃	kyc
+킄	kyk
+킅	kyt
+킆	kyp
+킇	kyh
+킈	kyi
+킉	kyig
+킊	kyigg
+킋	kyigs
+킌	kyin
+킍	kyinj
+킎	kyinh
+킏	kyid
+킐	kyil
+킑	kyilg
+킒	kyilm
+킓	kyilb
+킔	kyils
+킕	kyilt
+킖	kyilp
+킗	kyilh
+킘	kyim
+킙	kyib
+킚	kyibs
+킛	kyis
+킜	kyiss
+킝	kying
+킞	kyij
+킟	kyic
+킠	kyik
+킡	kyit
+킢	kyip
+킣	kyih
+키	ki
+킥	kig
+킦	kigg
+킧	kigs
+킨	kin
+킩	kinj
+킪	kinh
+킫	kid
+킬	kil
+킭	kilg
+킮	kilm
+킯	kilb
+킰	kils
+킱	kilt
+킲	kilp
+킳	kilh
+킴	kim
+킵	kib
+킶	kibs
+킷	kis
+킸	kiss
+킹	king
+킺	kij
+킻	kic
+킼	kik
+킽	kit
+킾	kip
+킿	kih
+타	ta
+탁	tag
+탂	tagg
+탃	tags
+탄	tan
+탅	tanj
+탆	tanh
+탇	tad
+탈	tal
+탉	talg
+탊	talm
+탋	talb
+탌	tals
+탍	talt
+탎	talp
+탏	talh
+탐	tam
+탑	tab
+탒	tabs
+탓	tas
+탔	tass
+탕	tang
+탖	taj
+탗	tac
+탘	tak
+탙	tat
+탚	tap
+탛	tah
+태	tai
+택	taig
+탞	taigg
+탟	taigs
+탠	tain
+탡	tainj
+탢	tainh
+탣	taid
+탤	tail
+탥	tailg
+탦	tailm
+탧	tailb
+탨	tails
+탩	tailt
+탪	tailp
+탫	tailh
+탬	taim
+탭	taib
+탮	taibs
+탯	tais
+탰	taiss
+탱	taing
+탲	taij
+탳	taic
+탴	taik
+탵	tait
+탶	taip
+탷	taih
+탸	tia
+탹	tiag
+탺	tiagg
+탻	tiags
+탼	tian
+탽	tianj
+탾	tianh
+탿	tiad
+턀	tial
+턁	tialg
+턂	tialm
+턃	tialb
+턄	tials
+턅	tialt
+턆	tialp
+턇	tialh
+턈	tiam
+턉	tiab
+턊	tiabs
+턋	tias
+턌	tiass
+턍	tiang
+턎	tiaj
+턏	tiac
+턐	tiak
+턑	tiat
+턒	tiap
+턓	tiah
+턔	tiai
+턕	tiaig
+턖	tiaigg
+턗	tiaigs
+턘	tiain
+턙	tiainj
+턚	tiainh
+턛	tiaid
+턜	tiail
+턝	tiailg
+턞	tiailm
+턟	tiailb
+턠	tiails
+턡	tiailt
+턢	tiailp
+턣	tiailh
+턤	tiaim
+턥	tiaib
+턦	tiaibs
+턧	tiais
+턨	tiaiss
+턩	tiaing
+턪	tiaij
+턫	tiaic
+턬	tiaik
+턭	tiait
+턮	tiaip
+턯	tiaih
+터	te
+턱	teg
+턲	tegg
+턳	tegs
+턴	ten
+턵	tenj
+턶	tenh
+턷	ted
+털	tel
+턹	telg
+턺	telm
+턻	telb
+턼	tels
+턽	telt
+턾	telp
+턿	telh
+텀	tem
+텁	teb
+텂	tebs
+텃	tes
+텄	tess
+텅	teng
+텆	tej
+텇	tec
+텈	tek
+텉	tet
+텊	tep
+텋	teh
+테	tei
+텍	teig
+텎	teigg
+텏	teigs
+텐	tein
+텑	teinj
+텒	teinh
+텓	teid
+텔	teil
+텕	teilg
+텖	teilm
+텗	teilb
+텘	teils
+텙	teilt
+텚	teilp
+텛	teilh
+템	teim
+텝	teib
+텞	teibs
+텟	teis
+텠	teiss
+텡	teing
+텢	teij
+텣	teic
+텤	teik
+텥	teit
+텦	teip
+텧	teih
+텨	tie
+텩	tieg
+텪	tiegg
+텫	tiegs
+텬	tien
+텭	tienj
+텮	tienh
+텯	tied
+텰	tiel
+텱	tielg
+텲	tielm
+텳	tielb
+텴	tiels
+텵	tielt
+텶	tielp
+텷	tielh
+텸	tiem
+텹	tieb
+텺	tiebs
+텻	ties
+텼	tiess
+텽	tieng
+텾	tiej
+텿	tiec
+톀	tiek
+톁	tiet
+톂	tiep
+톃	tieh
+톄	tiei
+톅	tieig
+톆	tieigg
+톇	tieigs
+톈	tiein
+톉	tieinj
+톊	tieinh
+톋	tieid
+톌	tieil
+톍	tieilg
+톎	tieilm
+톏	tieilb
+톐	tieils
+톑	tieilt
+톒	tieilp
+톓	tieilh
+톔	tieim
+톕	tieib
+톖	tieibs
+톗	tieis
+톘	tieiss
+톙	tieing
+톚	tieij
+톛	tieic
+톜	tieik
+톝	tieit
+톞	tieip
+톟	tieih
+토	to
+톡	tog
+톢	togg
+톣	togs
+톤	ton
+톥	tonj
+톦	tonh
+톧	tod
+톨	tol
+톩	tolg
+톪	tolm
+톫	tolb
+톬	tols
+톭	tolt
+톮	tolp
+톯	tolh
+톰	tom
+톱	tob
+톲	tobs
+톳	tos
+톴	toss
+통	tong
+톶	toj
+톷	toc
+톸	tok
+톹	tot
+톺	top
+톻	toh
+톼	toa
+톽	toag
+톾	toagg
+톿	toags
+퇀	toan
+퇁	toanj
+퇂	toanh
+퇃	toad
+퇄	toal
+퇅	toalg
+퇆	toalm
+퇇	toalb
+퇈	toals
+퇉	toalt
+퇊	toalp
+퇋	toalh
+퇌	toam
+퇍	toab
+퇎	toabs
+퇏	toas
+퇐	toass
+퇑	toang
+퇒	toaj
+퇓	toac
+퇔	toak
+퇕	toat
+퇖	toap
+퇗	toah
+퇘	toai
+퇙	toaig
+퇚	toaigg
+퇛	toaigs
+퇜	toain
+퇝	toainj
+퇞	toainh
+퇟	toaid
+퇠	toail
+퇡	toailg
+퇢	toailm
+퇣	toailb
+퇤	toails
+퇥	toailt
+퇦	toailp
+퇧	toailh
+퇨	toaim
+퇩	toaib
+퇪	toaibs
+퇫	toais
+퇬	toaiss
+퇭	toaing
+퇮	toaij
+퇯	toaic
+퇰	toaik
+퇱	toait
+퇲	toaip
+퇳	toaih
+퇴	toi
+퇵	toig
+퇶	toigg
+퇷	toigs
+퇸	toin
+퇹	toinj
+퇺	toinh
+퇻	toid
+퇼	toil
+퇽	toilg
+퇾	toilm
+퇿	toilb
+툀	toils
+툁	toilt
+툂	toilp
+툃	toilh
+툄	toim
+툅	toib
+툆	toibs
+툇	tois
+툈	toiss
+툉	toing
+툊	toij
+툋	toic
+툌	toik
+툍	toit
+툎	toip
+툏	toih
+툐	tio
+툑	tiog
+툒	tiogg
+툓	tiogs
+툔	tion
+툕	tionj
+툖	tionh
+툗	tiod
+툘	tiol
+툙	tiolg
+툚	tiolm
+툛	tiolb
+툜	tiols
+툝	tiolt
+툞	tiolp
+툟	tiolh
+툠	tiom
+툡	tiob
+툢	tiobs
+툣	tios
+툤	tioss
+툥	tiong
+툦	tioj
+툧	tioc
+툨	tiok
+툩	tiot
+툪	tiop
+툫	tioh
+투	tu
+툭	tug
+툮	tugg
+툯	tugs
+툰	tun
+툱	tunj
+툲	tunh
+툳	tud
+툴	tul
+툵	tulg
+툶	tulm
+툷	tulb
+툸	tuls
+툹	tult
+툺	tulp
+툻	tulh
+툼	tum
+툽	tub
+툾	tubs
+툿	tus
+퉀	tuss
+퉁	tung
+퉂	tuj
+퉃	tuc
+퉄	tuk
+퉅	tut
+퉆	tup
+퉇	tuh
+퉈	tue
+퉉	tueg
+퉊	tuegg
+퉋	tuegs
+퉌	tuen
+퉍	tuenj
+퉎	tuenh
+퉏	tued
+퉐	tuel
+퉑	tuelg
+퉒	tuelm
+퉓	tuelb
+퉔	tuels
+퉕	tuelt
+퉖	tuelp
+퉗	tuelh
+퉘	tuem
+퉙	tueb
+퉚	tuebs
+퉛	tues
+퉜	tuess
+퉝	tueng
+퉞	tuej
+퉟	tuec
+퉠	tuek
+퉡	tuet
+퉢	tuep
+퉣	tueh
+퉤	tuei
+퉥	tueig
+퉦	tueigg
+퉧	tueigs
+퉨	tuein
+퉩	tueinj
+퉪	tueinh
+퉫	tueid
+퉬	tueil
+퉭	tueilg
+퉮	tueilm
+퉯	tueilb
+퉰	tueils
+퉱	tueilt
+퉲	tueilp
+퉳	tueilh
+퉴	tueim
+퉵	tueib
+퉶	tueibs
+퉷	tueis
+퉸	tueiss
+퉹	tueing
+퉺	tueij
+퉻	tueic
+퉼	tueik
+퉽	tueit
+퉾	tueip
+퉿	tueih
+튀	tui
+튁	tuig
+튂	tuigg
+튃	tuigs
+튄	tuin
+튅	tuinj
+튆	tuinh
+튇	tuid
+튈	tuil
+튉	tuilg
+튊	tuilm
+튋	tuilb
+튌	tuils
+튍	tuilt
+튎	tuilp
+튏	tuilh
+튐	tuim
+튑	tuib
+튒	tuibs
+튓	tuis
+튔	tuiss
+튕	tuing
+튖	tuij
+튗	tuic
+튘	tuik
+튙	tuit
+튚	tuip
+튛	tuih
+튜	tiu
+튝	tiug
+튞	tiugg
+튟	tiugs
+튠	tiun
+튡	tiunj
+튢	tiunh
+튣	tiud
+튤	tiul
+튥	tiulg
+튦	tiulm
+튧	tiulb
+튨	tiuls
+튩	tiult
+튪	tiulp
+튫	tiulh
+튬	tium
+튭	tiub
+튮	tiubs
+튯	tius
+튰	tiuss
+튱	tiung
+튲	tiuj
+튳	tiuc
+튴	tiuk
+튵	tiut
+튶	tiup
+튷	tiuh
+트	ty
+특	tyg
+튺	tygg
+튻	tygs
+튼	tyn
+튽	tynj
+튾	tynh
+튿	tyd
+틀	tyl
+틁	tylg
+틂	tylm
+틃	tylb
+틄	tyls
+틅	tylt
+틆	tylp
+틇	tylh
+틈	tym
+틉	tyb
+틊	tybs
+틋	tys
+틌	tyss
+틍	tyng
+틎	tyj
+틏	tyc
+틐	tyk
+틑	tyt
+틒	typ
+틓	tyh
+틔	tyi
+틕	tyig
+틖	tyigg
+틗	tyigs
+틘	tyin
+틙	tyinj
+틚	tyinh
+틛	tyid
+틜	tyil
+틝	tyilg
+틞	tyilm
+틟	tyilb
+틠	tyils
+틡	tyilt
+틢	tyilp
+틣	tyilh
+틤	tyim
+틥	tyib
+틦	tyibs
+틧	tyis
+틨	tyiss
+틩	tying
+틪	tyij
+틫	tyic
+틬	tyik
+틭	tyit
+틮	tyip
+틯	tyih
+티	ti
+틱	tig
+틲	tigg
+틳	tigs
+틴	tin
+틵	tinj
+틶	tinh
+틷	tid
+틸	til
+틹	tilg
+틺	tilm
+틻	tilb
+틼	tils
+틽	tilt
+틾	tilp
+틿	tilh
+팀	tim
+팁	tib
+팂	tibs
+팃	tis
+팄	tiss
+팅	ting
+팆	tij
+팇	tic
+팈	tik
+팉	tit
+팊	tip
+팋	tih
+파	pa
+팍	pag
+팎	pagg
+팏	pags
+판	pan
+팑	panj
+팒	panh
+팓	pad
+팔	pal
+팕	palg
+팖	palm
+팗	palb
+팘	pals
+팙	palt
+팚	palp
+팛	palh
+팜	pam
+팝	pab
+팞	pabs
+팟	pas
+팠	pass
+팡	pang
+팢	paj
+팣	pac
+팤	pak
+팥	pat
+팦	pap
+팧	pah
+패	pai
+팩	paig
+팪	paigg
+팫	paigs
+팬	pain
+팭	painj
+팮	painh
+팯	paid
+팰	pail
+팱	pailg
+팲	pailm
+팳	pailb
+팴	pails
+팵	pailt
+팶	pailp
+팷	pailh
+팸	paim
+팹	paib
+팺	paibs
+팻	pais
+팼	paiss
+팽	paing
+팾	paij
+팿	paic
+퍀	paik
+퍁	pait
+퍂	paip
+퍃	paih
+퍄	pia
+퍅	piag
+퍆	piagg
+퍇	piags
+퍈	pian
+퍉	pianj
+퍊	pianh
+퍋	piad
+퍌	pial
+퍍	pialg
+퍎	pialm
+퍏	pialb
+퍐	pials
+퍑	pialt
+퍒	pialp
+퍓	pialh
+퍔	piam
+퍕	piab
+퍖	piabs
+퍗	pias
+퍘	piass
+퍙	piang
+퍚	piaj
+퍛	piac
+퍜	piak
+퍝	piat
+퍞	piap
+퍟	piah
+퍠	piai
+퍡	piaig
+퍢	piaigg
+퍣	piaigs
+퍤	piain
+퍥	piainj
+퍦	piainh
+퍧	piaid
+퍨	piail
+퍩	piailg
+퍪	piailm
+퍫	piailb
+퍬	piails
+퍭	piailt
+퍮	piailp
+퍯	piailh
+퍰	piaim
+퍱	piaib
+퍲	piaibs
+퍳	piais
+퍴	piaiss
+퍵	piaing
+퍶	piaij
+퍷	piaic
+퍸	piaik
+퍹	piait
+퍺	piaip
+퍻	piaih
+퍼	pe
+퍽	peg
+퍾	pegg
+퍿	pegs
+펀	pen
+펁	penj
+펂	penh
+펃	ped
+펄	pel
+펅	pelg
+펆	pelm
+펇	pelb
+펈	pels
+펉	pelt
+펊	pelp
+펋	pelh
+펌	pem
+펍	peb
+펎	pebs
+펏	pes
+펐	pess
+펑	peng
+펒	pej
+펓	pec
+펔	pek
+펕	pet
+펖	pep
+펗	peh
+페	pei
+펙	peig
+펚	peigg
+펛	peigs
+펜	pein
+펝	peinj
+펞	peinh
+펟	peid
+펠	peil
+펡	peilg
+펢	peilm
+펣	peilb
+펤	peils
+펥	peilt
+펦	peilp
+펧	peilh
+펨	peim
+펩	peib
+펪	peibs
+펫	peis
+펬	peiss
+펭	peing
+펮	peij
+펯	peic
+펰	peik
+펱	peit
+펲	peip
+펳	peih
+펴	pie
+펵	pieg
+펶	piegg
+펷	piegs
+편	pien
+펹	pienj
+펺	pienh
+펻	pied
+펼	piel
+펽	pielg
+펾	pielm
+펿	pielb
+폀	piels
+폁	pielt
+폂	pielp
+폃	pielh
+폄	piem
+폅	pieb
+폆	piebs
+폇	pies
+폈	piess
+평	pieng
+폊	piej
+폋	piec
+폌	piek
+폍	piet
+폎	piep
+폏	pieh
+폐	piei
+폑	pieig
+폒	pieigg
+폓	pieigs
+폔	piein
+폕	pieinj
+폖	pieinh
+폗	pieid
+폘	pieil
+폙	pieilg
+폚	pieilm
+폛	pieilb
+폜	pieils
+폝	pieilt
+폞	pieilp
+폟	pieilh
+폠	pieim
+폡	pieib
+폢	pieibs
+폣	pieis
+폤	pieiss
+폥	pieing
+폦	pieij
+폧	pieic
+폨	pieik
+폩	pieit
+폪	pieip
+폫	pieih
+포	po
+폭	pog
+폮	pogg
+폯	pogs
+폰	pon
+폱	ponj
+폲	ponh
+폳	pod
+폴	pol
+폵	polg
+폶	polm
+폷	polb
+폸	pols
+폹	polt
+폺	polp
+폻	polh
+폼	pom
+폽	pob
+폾	pobs
+폿	pos
+퐀	poss
+퐁	pong
+퐂	poj
+퐃	poc
+퐄	pok
+퐅	pot
+퐆	pop
+퐇	poh
+퐈	poa
+퐉	poag
+퐊	poagg
+퐋	poags
+퐌	poan
+퐍	poanj
+퐎	poanh
+퐏	poad
+퐐	poal
+퐑	poalg
+퐒	poalm
+퐓	poalb
+퐔	poals
+퐕	poalt
+퐖	poalp
+퐗	poalh
+퐘	poam
+퐙	poab
+퐚	poabs
+퐛	poas
+퐜	poass
+퐝	poang
+퐞	poaj
+퐟	poac
+퐠	poak
+퐡	poat
+퐢	poap
+퐣	poah
+퐤	poai
+퐥	poaig
+퐦	poaigg
+퐧	poaigs
+퐨	poain
+퐩	poainj
+퐪	poainh
+퐫	poaid
+퐬	poail
+퐭	poailg
+퐮	poailm
+퐯	poailb
+퐰	poails
+퐱	poailt
+퐲	poailp
+퐳	poailh
+퐴	poaim
+퐵	poaib
+퐶	poaibs
+퐷	poais
+퐸	poaiss
+퐹	poaing
+퐺	poaij
+퐻	poaic
+퐼	poaik
+퐽	poait
+퐾	poaip
+퐿	poaih
+푀	poi
+푁	poig
+푂	poigg
+푃	poigs
+푄	poin
+푅	poinj
+푆	poinh
+푇	poid
+푈	poil
+푉	poilg
+푊	poilm
+푋	poilb
+푌	poils
+푍	poilt
+푎	poilp
+푏	poilh
+푐	poim
+푑	poib
+푒	poibs
+푓	pois
+푔	poiss
+푕	poing
+푖	poij
+푗	poic
+푘	poik
+푙	poit
+푚	poip
+푛	poih
+표	pio
+푝	piog
+푞	piogg
+푟	piogs
+푠	pion
+푡	pionj
+푢	pionh
+푣	piod
+푤	piol
+푥	piolg
+푦	piolm
+푧	piolb
+푨	piols
+푩	piolt
+푪	piolp
+푫	piolh
+푬	piom
+푭	piob
+푮	piobs
+푯	pios
+푰	pioss
+푱	piong
+푲	pioj
+푳	pioc
+푴	piok
+푵	piot
+푶	piop
+푷	pioh
+푸	pu
+푹	pug
+푺	pugg
+푻	pugs
+푼	pun
+푽	punj
+푾	punh
+푿	pud
+풀	pul
+풁	pulg
+풂	pulm
+풃	pulb
+풄	puls
+풅	pult
+풆	pulp
+풇	pulh
+품	pum
+풉	pub
+풊	pubs
+풋	pus
+풌	puss
+풍	pung
+풎	puj
+풏	puc
+풐	puk
+풑	put
+풒	pup
+풓	puh
+풔	pue
+풕	pueg
+풖	puegg
+풗	puegs
+풘	puen
+풙	puenj
+풚	puenh
+풛	pued
+풜	puel
+풝	puelg
+풞	puelm
+풟	puelb
+풠	puels
+풡	puelt
+풢	puelp
+풣	puelh
+풤	puem
+풥	pueb
+풦	puebs
+풧	pues
+풨	puess
+풩	pueng
+풪	puej
+풫	puec
+풬	puek
+풭	puet
+풮	puep
+풯	pueh
+풰	puei
+풱	pueig
+풲	pueigg
+풳	pueigs
+풴	puein
+풵	pueinj
+풶	pueinh
+풷	pueid
+풸	pueil
+풹	pueilg
+풺	pueilm
+풻	pueilb
+풼	pueils
+풽	pueilt
+풾	pueilp
+풿	pueilh
+퓀	pueim
+퓁	pueib
+퓂	pueibs
+퓃	pueis
+퓄	pueiss
+퓅	pueing
+퓆	pueij
+퓇	pueic
+퓈	pueik
+퓉	pueit
+퓊	pueip
+퓋	pueih
+퓌	pui
+퓍	puig
+퓎	puigg
+퓏	puigs
+퓐	puin
+퓑	puinj
+퓒	puinh
+퓓	puid
+퓔	puil
+퓕	puilg
+퓖	puilm
+퓗	puilb
+퓘	puils
+퓙	puilt
+퓚	puilp
+퓛	puilh
+퓜	puim
+퓝	puib
+퓞	puibs
+퓟	puis
+퓠	puiss
+퓡	puing
+퓢	puij
+퓣	puic
+퓤	puik
+퓥	puit
+퓦	puip
+퓧	puih
+퓨	piu
+퓩	piug
+퓪	piugg
+퓫	piugs
+퓬	piun
+퓭	piunj
+퓮	piunh
+퓯	piud
+퓰	piul
+퓱	piulg
+퓲	piulm
+퓳	piulb
+퓴	piuls
+퓵	piult
+퓶	piulp
+퓷	piulh
+퓸	pium
+퓹	piub
+퓺	piubs
+퓻	pius
+퓼	piuss
+퓽	piung
+퓾	piuj
+퓿	piuc
+픀	piuk
+픁	piut
+픂	piup
+픃	piuh
+프	py
+픅	pyg
+픆	pygg
+픇	pygs
+픈	pyn
+픉	pynj
+픊	pynh
+픋	pyd
+플	pyl
+픍	pylg
+픎	pylm
+픏	pylb
+픐	pyls
+픑	pylt
+픒	pylp
+픓	pylh
+픔	pym
+픕	pyb
+픖	pybs
+픗	pys
+픘	pyss
+픙	pyng
+픚	pyj
+픛	pyc
+픜	pyk
+픝	pyt
+픞	pyp
+픟	pyh
+픠	pyi
+픡	pyig
+픢	pyigg
+픣	pyigs
+픤	pyin
+픥	pyinj
+픦	pyinh
+픧	pyid
+픨	pyil
+픩	pyilg
+픪	pyilm
+픫	pyilb
+픬	pyils
+픭	pyilt
+픮	pyilp
+픯	pyilh
+픰	pyim
+픱	pyib
+픲	pyibs
+픳	pyis
+픴	pyiss
+픵	pying
+픶	pyij
+픷	pyic
+픸	pyik
+픹	pyit
+픺	pyip
+픻	pyih
+피	pi
+픽	pig
+픾	pigg
+픿	pigs
+핀	pin
+핁	pinj
+핂	pinh
+핃	pid
+필	pil
+핅	pilg
+핆	pilm
+핇	pilb
+핈	pils
+핉	pilt
+핊	pilp
+핋	pilh
+핌	pim
+핍	pib
+핎	pibs
+핏	pis
+핐	piss
+핑	ping
+핒	pij
+핓	pic
+핔	pik
+핕	pit
+핖	pip
+핗	pih
+하	ha
+학	hag
+핚	hagg
+핛	hags
+한	han
+핝	hanj
+핞	hanh
+핟	had
+할	hal
+핡	halg
+핢	halm
+핣	halb
+핤	hals
+핥	halt
+핦	halp
+핧	halh
+함	ham
+합	hab
+핪	habs
+핫	has
+핬	hass
+항	hang
+핮	haj
+핯	hac
+핰	hak
+핱	hat
+핲	hap
+핳	hah
+해	hai
+핵	haig
+핶	haigg
+핷	haigs
+핸	hain
+핹	hainj
+핺	hainh
+핻	haid
+핼	hail
+핽	hailg
+핾	hailm
+핿	hailb
+햀	hails
+햁	hailt
+햂	hailp
+햃	hailh
+햄	haim
+햅	haib
+햆	haibs
+햇	hais
+했	haiss
+행	haing
+햊	haij
+햋	haic
+햌	haik
+햍	hait
+햎	haip
+햏	haih
+햐	hia
+햑	hiag
+햒	hiagg
+햓	hiags
+햔	hian
+햕	hianj
+햖	hianh
+햗	hiad
+햘	hial
+햙	hialg
+햚	hialm
+햛	hialb
+햜	hials
+햝	hialt
+햞	hialp
+햟	hialh
+햠	hiam
+햡	hiab
+햢	hiabs
+햣	hias
+햤	hiass
+향	hiang
+햦	hiaj
+햧	hiac
+햨	hiak
+햩	hiat
+햪	hiap
+햫	hiah
+햬	hiai
+햭	hiaig
+햮	hiaigg
+햯	hiaigs
+햰	hiain
+햱	hiainj
+햲	hiainh
+햳	hiaid
+햴	hiail
+햵	hiailg
+햶	hiailm
+햷	hiailb
+햸	hiails
+햹	hiailt
+햺	hiailp
+햻	hiailh
+햼	hiaim
+햽	hiaib
+햾	hiaibs
+햿	hiais
+헀	hiaiss
+헁	hiaing
+헂	hiaij
+헃	hiaic
+헄	hiaik
+헅	hiait
+헆	hiaip
+헇	hiaih
+허	he
+헉	heg
+헊	hegg
+헋	hegs
+헌	hen
+헍	henj
+헎	henh
+헏	hed
+헐	hel
+헑	helg
+헒	helm
+헓	helb
+헔	hels
+헕	helt
+헖	help
+헗	helh
+험	hem
+헙	heb
+헚	hebs
+헛	hes
+헜	hess
+헝	heng
+헞	hej
+헟	hec
+헠	hek
+헡	het
+헢	hep
+헣	heh
+헤	hei
+헥	heig
+헦	heigg
+헧	heigs
+헨	hein
+헩	heinj
+헪	heinh
+헫	heid
+헬	heil
+헭	heilg
+헮	heilm
+헯	heilb
+헰	heils
+헱	heilt
+헲	heilp
+헳	heilh
+헴	heim
+헵	heib
+헶	heibs
+헷	heis
+헸	heiss
+헹	heing
+헺	heij
+헻	heic
+헼	heik
+헽	heit
+헾	heip
+헿	heih
+혀	hie
+혁	hieg
+혂	hiegg
+혃	hiegs
+현	hien
+혅	hienj
+혆	hienh
+혇	hied
+혈	hiel
+혉	hielg
+혊	hielm
+혋	hielb
+혌	hiels
+혍	hielt
+혎	hielp
+혏	hielh
+혐	hiem
+협	hieb
+혒	hiebs
+혓	hies
+혔	hiess
+형	hieng
+혖	hiej
+혗	hiec
+혘	hiek
+혙	hiet
+혚	hiep
+혛	hieh
+혜	hiei
+혝	hieig
+혞	hieigg
+혟	hieigs
+혠	hiein
+혡	hieinj
+혢	hieinh
+혣	hieid
+혤	hieil
+혥	hieilg
+혦	hieilm
+혧	hieilb
+혨	hieils
+혩	hieilt
+혪	hieilp
+혫	hieilh
+혬	hieim
+혭	hieib
+혮	hieibs
+혯	hieis
+혰	hieiss
+혱	hieing
+혲	hieij
+혳	hieic
+혴	hieik
+혵	hieit
+혶	hieip
+혷	hieih
+호	ho
+혹	hog
+혺	hogg
+혻	hogs
+혼	hon
+혽	honj
+혾	honh
+혿	hod
+홀	hol
+홁	holg
+홂	holm
+홃	holb
+홄	hols
+홅	holt
+홆	holp
+홇	holh
+홈	hom
+홉	hob
+홊	hobs
+홋	hos
+홌	hoss
+홍	hong
+홎	hoj
+홏	hoc
+홐	hok
+홑	hot
+홒	hop
+홓	hoh
+화	hoa
+확	hoag
+홖	hoagg
+홗	hoags
+환	hoan
+홙	hoanj
+홚	hoanh
+홛	hoad
+활	hoal
+홝	hoalg
+홞	hoalm
+홟	hoalb
+홠	hoals
+홡	hoalt
+홢	hoalp
+홣	hoalh
+홤	hoam
+홥	hoab
+홦	hoabs
+홧	hoas
+홨	hoass
+황	hoang
+홪	hoaj
+홫	hoac
+홬	hoak
+홭	hoat
+홮	hoap
+홯	hoah
+홰	hoai
+홱	hoaig
+홲	hoaigg
+홳	hoaigs
+홴	hoain
+홵	hoainj
+홶	hoainh
+홷	hoaid
+홸	hoail
+홹	hoailg
+홺	hoailm
+홻	hoailb
+홼	hoails
+홽	hoailt
+홾	hoailp
+홿	hoailh
+횀	hoaim
+횁	hoaib
+횂	hoaibs
+횃	hoais
+횄	hoaiss
+횅	hoaing
+횆	hoaij
+횇	hoaic
+횈	hoaik
+횉	hoait
+횊	hoaip
+횋	hoaih
+회	hoi
+획	hoig
+횎	hoigg
+횏	hoigs
+횐	hoin
+횑	hoinj
+횒	hoinh
+횓	hoid
+횔	hoil
+횕	hoilg
+횖	hoilm
+횗	hoilb
+횘	hoils
+횙	hoilt
+횚	hoilp
+횛	hoilh
+횜	hoim
+횝	hoib
+횞	hoibs
+횟	hois
+횠	hoiss
+횡	hoing
+횢	hoij
+횣	hoic
+횤	hoik
+횥	hoit
+횦	hoip
+횧	hoih
+효	hio
+횩	hiog
+횪	hiogg
+횫	hiogs
+횬	hion
+횭	hionj
+횮	hionh
+횯	hiod
+횰	hiol
+횱	hiolg
+횲	hiolm
+횳	hiolb
+횴	hiols
+횵	hiolt
+횶	hiolp
+횷	hiolh
+횸	hiom
+횹	hiob
+횺	hiobs
+횻	hios
+횼	hioss
+횽	hiong
+횾	hioj
+횿	hioc
+훀	hiok
+훁	hiot
+훂	hiop
+훃	hioh
+후	hu
+훅	hug
+훆	hugg
+훇	hugs
+훈	hun
+훉	hunj
+훊	hunh
+훋	hud
+훌	hul
+훍	hulg
+훎	hulm
+훏	hulb
+훐	huls
+훑	hult
+훒	hulp
+훓	hulh
+훔	hum
+훕	hub
+훖	hubs
+훗	hus
+훘	huss
+훙	hung
+훚	huj
+훛	huc
+훜	huk
+훝	hut
+훞	hup
+훟	huh
+훠	hue
+훡	hueg
+훢	huegg
+훣	huegs
+훤	huen
+훥	huenj
+훦	huenh
+훧	hued
+훨	huel
+훩	huelg
+훪	huelm
+훫	huelb
+훬	huels
+훭	huelt
+훮	huelp
+훯	huelh
+훰	huem
+훱	hueb
+훲	huebs
+훳	hues
+훴	huess
+훵	hueng
+훶	huej
+훷	huec
+훸	huek
+훹	huet
+훺	huep
+훻	hueh
+훼	huei
+훽	hueig
+훾	hueigg
+훿	hueigs
+휀	huein
+휁	hueinj
+휂	hueinh
+휃	hueid
+휄	hueil
+휅	hueilg
+휆	hueilm
+휇	hueilb
+휈	hueils
+휉	hueilt
+휊	hueilp
+휋	hueilh
+휌	hueim
+휍	hueib
+휎	hueibs
+휏	hueis
+휐	hueiss
+휑	hueing
+휒	hueij
+휓	hueic
+휔	hueik
+휕	hueit
+휖	hueip
+휗	hueih
+휘	hui
+휙	huig
+휚	huigg
+휛	huigs
+휜	huin
+휝	huinj
+휞	huinh
+휟	huid
+휠	huil
+휡	huilg
+휢	huilm
+휣	huilb
+휤	huils
+휥	huilt
+휦	huilp
+휧	huilh
+휨	huim
+휩	huib
+휪	huibs
+휫	huis
+휬	huiss
+휭	huing
+휮	huij
+휯	huic
+휰	huik
+휱	huit
+휲	huip
+휳	huih
+휴	hiu
+휵	hiug
+휶	hiugg
+휷	hiugs
+휸	hiun
+휹	hiunj
+휺	hiunh
+휻	hiud
+휼	hiul
+휽	hiulg
+휾	hiulm
+휿	hiulb
+흀	hiuls
+흁	hiult
+흂	hiulp
+흃	hiulh
+흄	hium
+흅	hiub
+흆	hiubs
+흇	hius
+흈	hiuss
+흉	hiung
+흊	hiuj
+흋	hiuc
+흌	hiuk
+흍	hiut
+흎	hiup
+흏	hiuh
+흐	hy
+흑	hyg
+흒	hygg
+흓	hygs
+흔	hyn
+흕	hynj
+흖	hynh
+흗	hyd
+흘	hyl
+흙	hylg
+흚	hylm
+흛	hylb
+흜	hyls
+흝	hylt
+흞	hylp
+흟	hylh
+흠	hym
+흡	hyb
+흢	hybs
+흣	hys
+흤	hyss
+흥	hyng
+흦	hyj
+흧	hyc
+흨	hyk
+흩	hyt
+흪	hyp
+흫	hyh
+희	hyi
+흭	hyig
+흮	hyigg
+흯	hyigs
+흰	hyin
+흱	hyinj
+흲	hyinh
+흳	hyid
+흴	hyil
+흵	hyilg
+흶	hyilm
+흷	hyilb
+흸	hyils
+흹	hyilt
+흺	hyilp
+흻	hyilh
+흼	hyim
+흽	hyib
+흾	hyibs
+흿	hyis
+힀	hyiss
+힁	hying
+힂	hyij
+힃	hyic
+힄	hyik
+힅	hyit
+힆	hyip
+힇	hyih
+히	hi
+힉	hig
+힊	higg
+힋	higs
+힌	hin
+힍	hinj
+힎	hinh
+힏	hid
+힐	hil
+힑	hilg
+힒	hilm
+힓	hilb
+힔	hils
+힕	hilt
+힖	hilp
+힗	hilh
+힘	him
+힙	hib
+힚	hibs
+힛	his
+힜	hiss
+힝	hing
+힞	hij
+힟	hic
+힠	hik
+힡	hit
+힢	hip
+힣	hih
+#漢字	轉寫	한글
+加	ga	가
+可	ga	가
+仮	ga	가
+伽	ga	가
+宊	ga	가
+佳	ga	가
+呵	ga	가
+咖	ga	가
+坷	ga	가
+苛	ga	가
+茄	ga	가
+迦	ga	가
+架	ga	가
+枷	ga	가
+柯	ga	가
+珂	ga	가
+珈	ga	가
+哥	ga	가
+哿	ga	가
+家	ga	가
+痂	ga	가
+假	ga	가
+笳	ga	가
+耞	ga	가
+舸	ga	가
+袈	ga	가
+傢	ga	가
+斝	ga	가
+葭	ga	가
+街	ga	가
+訶	ga	가
+跏	ga	가
+軻	ga	가
+嫁	ga	가
+暇	ga	가
+賈	ga	가
+嘉	ga	가
+榎	ga	가
+歌	ga	가
+價	ga	가
+稼	ga	가
+駕	ga	가
+檟	ga	가
+謌	ga	가
+各	gag	각
+却	gag	각
+角	gag	각
+刻	gag	각
+卻	gag	각
+咯	gag	각
+恪	gag	각
+珏	gag	각
+埆	gag	각
+桷	gag	각
+脚	gag	각
+殼	gag	각
+搉	gag	각
+閣	gag	각
+慤	gag	각
+擱	gag	각
+覺	gag	각
+干	gan	간
+乾	gan	간
+刊	gan	간
+奸	gan	간
+艮	gan	간
+迀	gan	간
+杆	gan	간
+玕	gan	간
+肝	gan	간
+侃	gan	간
+秆	gan	간
+姦	gan	간
+柬	gan	간
+看	gan	간
+竿	gan	간
+茛	gan	간
+衎	gan	간
+栞	gan	간
+赶	gan	간
+偘	gan	간
+桿	gan	간
+揀	gan	간
+稈	gan	간
+間	gan	간
+幹	gan	간
+暕	gan	간
+慳	gan	간
+榦	gan	간
+澗	gan	간
+墾	gan	간
+諫	gan	간
+懇	gan	간
+癎	gan	간
+磵	gan	간
+艱	gan	간
+簡	gan	간
+齦	gan	간
+乫	gal	갈
+曷	gal	갈
+秸	gal	갈
+喝	gal	갈
+渴	gal	갈
+葛	gal	갈
+楬	gal	갈
+碣	gal	갈
+竭	gal	갈
+褐	gal	갈
+噶	gal	갈
+羯	gal	갈
+蝎	gal	갈
+鞨	gal	갈
+蠍	gal	갈
+鶡	gal	갈
+甘	gam	감
+坎	gam	감
+邯	gam	감
+坩	gam	감
+泔	gam	감
+弇	gam	감
+柑	gam	감
+疳	gam	감
+勘	gam	감
+埳	gam	감
+敢	gam	감
+淦	gam	감
+紺	gam	감
+堪	gam	감
+嵁	gam	감
+嵌	gam	감
+欿	gam	감
+減	gam	감
+酣	gam	감
+感	gam	감
+戡	gam	감
+澉	gam	감
+監	gam	감
+憨	gam	감
+橄	gam	감
+憾	gam	감
+撼	gam	감
+瞰	gam	감
+歛	gam	감
+轗	gam	감
+鹻	gam	감
+鑑	gam	감
+鑒	gam	감
+龕	gam	감
+矙	gam	감
+鹼	gam	감
+甲	gab	갑
+匣	gab	갑
+岬	gab	갑
+胛	gab	갑
+鉀	gab	갑
+閘	gab	갑
+韐	gab	갑
+扛	gang	강
+江	gang	강
+忼	gang	강
+杠	gang	강
+羌	gang	강
+岡	gang	강
+矼	gang	강
+降	gang	강
+姜	gang	강
+羗	gang	강
+舡	gang	강
+茳	gang	강
+剛	gang	강
+罡	gang	강
+豇	gang	강
+堈	gang	강
+崗	gang	강
+康	gang	강
+強	gang	강
+傋	gang	강
+强	gang	강
+絳	gang	강
+腔	gang	강
+畺	gang	강
+慷	gang	강
+綱	gang	강
+羫	gang	강
+僵	gang	강
+壃	gang	강
+彊	gang	강
+穅	gang	강
+薑	gang	강
+鋼	gang	강
+橿	gang	강
+殭	gang	강
+糠	gang	강
+繈	gang	강
+襁	gang	강
+講	gang	강
+疆	gang	강
+韁	gang	강
+鱇	gang	강
+介	gai	개
+匃	gai	개
+价	gai	개
+改	gai	개
+芥	gai	개
+玠	gai	개
+疥	gai	개
+皆	gai	개
+個	gai	개
+豈	gai	개
+盖	gai	개
+凱	gai	개
+剴	gai	개
+慨	gai	개
+揩	gai	개
+開	gai	개
+塏	gai	개
+愷	gai	개
+愾	gai	개
+槩	gai	개
+蓋	gai	개
+漑	gai	개
+箇	gai	개
+槪	gai	개
+磕	gai	개
+鎧	gai	개
+闓	gai	개
+客	gaig	객
+喀	gaig	객
+坑	gaing	갱
+更	gaing	갱
+硜	gaing	갱
+粳	gaing	갱
+賡	gaing	갱
+羹	gaing	갱
+鏗	gaing	갱
+醵	giag	갹
+巨	ge	거
+去	ge	거
+拒	ge	거
+苣	ge	거
+車	ge	거
+呿	ge	거
+居	ge	거
+昛	ge	거
+炬	ge	거
+祛	ge	거
+秬	ge	거
+胠	ge	거
+莒	ge	거
+倨	ge	거
+袪	ge	거
+据	ge	거
+渠	ge	거
+距	ge	거
+筥	ge	거
+腒	ge	거
+鉅	ge	거
+裾	ge	거
+蕖	ge	거
+駏	ge	거
+踞	ge	거
+據	ge	거
+舉	ge	거
+遽	ge	거
+鋸	ge	거
+擧	ge	거
+蘧	ge	거
+籧	ge	거
+巾	gen	건
+件	gen	건
+建	gen	건
+健	gen	건
+虔	gen	건
+乾	gen	건
+揵	gen	건
+楗	gen	건
+犍	gen	건
+腱	gen	건
+愆	gen	건
+睷	gen	건
+褰	gen	건
+鍵	gen	건
+謇	gen	건
+蹇	gen	건
+鞬	gen	건
+騫	gen	건
+乞	gel	걸
+乬	gel	걸
+杰	gel	걸
+桀	gel	걸
+傑	gel	걸
+朅	gel	걸
+榤	gel	걸
+芡	gem	검
+鈐	gem	검
+儉	gem	검
+劍	gem	검
+劒	gem	검
+撿	gem	검
+黔	gem	검
+檢	gem	검
+瞼	gem	검
+刦	geb	겁
+刧	geb	겁
+劫	geb	겁
+怯	geb	겁
+迲	geb	겁
+偈	geb	게
+揭	geb	게
+憩	geb	게
+挌	gieg	격
+格	gieg	격
+鬲	gieg	격
+隔	gieg	격
+毄	gieg	격
+膈	gieg	격
+覡	gieg	격
+骼	gieg	격
+鴃	gieg	격
+激	gieg	격
+擊	gieg	격
+檄	gieg	격
+闃	gieg	격
+犬	gien	견
+見	gien	견
+肩	gien	견
+畎	gien	견
+狷	gien	견
+堅	gien	견
+牽	gien	견
+甄	gien	견
+筧	gien	견
+絹	gien	견
+遣	gien	견
+樫	gien	견
+縳	gien	견
+繭	gien	견
+羂	gien	견
+鵑	gien	견
+繾	gien	견
+譴	gien	견
+鰹	gien	견
+蠲	gien	견
+抉	giel	결
+決	giel	결
+玦	giel	결
+缺	giel	결
+觖	giel	결
+訣	giel	결
+結	giel	결
+潔	giel	결
+闋	giel	결
+岒	giem	겸
+拑	giem	겸
+兼	giem	겸
+傔	giem	겸
+嗛	giem	겸
+慊	giem	겸
+蒹	giem	겸
+鉗	giem	겸
+歉	giem	겸
+箝	giem	겸
+縑	giem	겸
+謙	giem	겸
+黚	giem	겸
+鎌	giem	겸
+鼸	giem	겸
+冏	gieng	경
+更	gieng	경
+京	gieng	경
+坰	gieng	경
+庚	gieng	경
+炅	gieng	경
+俓	gieng	경
+剄	gieng	경
+勁	gieng	경
+扃	gieng	경
+畊	gieng	경
+倞	gieng	경
+勍	gieng	경
+卿	gieng	경
+哽	gieng	경
+徑	gieng	경
+涇	gieng	경
+耕	gieng	경
+耿	gieng	경
+莖	gieng	경
+逕	gieng	경
+梗	gieng	경
+烱	gieng	경
+竟	gieng	경
+絅	gieng	경
+脛	gieng	경
+頃	gieng	경
+惸	gieng	경
+敬	gieng	경
+景	gieng	경
+焭	gieng	경
+痙	gieng	경
+硬	gieng	경
+傾	gieng	경
+煢	gieng	경
+綆	gieng	경
+經	gieng	경
+儆	gieng	경
+境	gieng	경
+輕	gieng	경
+頚	gieng	경
+慶	gieng	경
+憬	gieng	경
+熲	gieng	경
+駉	gieng	경
+憼	gieng	경
+擎	gieng	경
+暻	gieng	경
+檠	gieng	경
+璟	gieng	경
+璥	gieng	경
+磬	gieng	경
+褧	gieng	경
+頸	gieng	경
+罄	gieng	경
+顈	gieng	경
+瓊	gieng	경
+謦	gieng	경
+鯁	gieng	경
+警	gieng	경
+鏡	gieng	경
+鯨	gieng	경
+競	gieng	경
+黥	gieng	경
+竸	gieng	경
+驚	gieng	경
+戒	giei	계
+系	giei	계
+季	giei	계
+屆	giei	계
+係	giei	계
+界	giei	계
+癸	giei	계
+計	giei	계
+契	giei	계
+桂	giei	계
+烓	giei	계
+啓	giei	계
+悸	giei	계
+械	giei	계
+階	giei	계
+堦	giei	계
+堺	giei	계
+棨	giei	계
+筓	giei	계
+葪	giei	계
+溪	giei	계
+禊	giei	계
+瘈	giei	계
+綮	giei	계
+誡	giei	계
+磎	giei	계
+稽	giei	계
+縘	giei	계
+薊	giei	계
+髻	giei	계
+罽	giei	계
+谿	giei	계
+雞	giei	계
+繫	giei	계
+繼	giei	계
+鷄	giei	계
+古	go	고
+叩	go	고
+尻	go	고
+攷	go	고
+考	go	고
+估	go	고
+告	go	고
+刳	go	고
+呱	go	고
+固	go	고
+姑	go	고
+孤	go	고
+杲	go	고
+沽	go	고
+股	go	고
+苦	go	고
+苽	go	고
+拷	go	고
+故	go	고
+枯	go	고
+牯	go	고
+郜	go	고
+凅	go	고
+庫	go	고
+栲	go	고
+皋	go	고
+罟	go	고
+羔	go	고
+羖	go	고
+胯	go	고
+高	go	고
+皐	go	고
+菰	go	고
+袴	go	고
+稁	go	고
+觚	go	고
+詁	go	고
+辜	go	고
+酤	go	고
+雇	go	고
+塙	go	고
+痼	go	고
+鈷	go	고
+鼓	go	고
+賈	go	고
+敲	go	고
+暠	go	고
+槀	go	고
+槁	go	고
+睾	go	고
+箍	go	고
+膏	go	고
+誥	go	고
+槹	go	고
+稿	go	고
+靠	go	고
+篙	go	고
+糕	go	고
+錮	go	고
+鴣	go	고
+藁	go	고
+盬	go	고
+瞽	go	고
+翺	go	고
+櫜	go	고
+顧	go	고
+蠱	go	고
+鷱	go	고
+曲	gog	곡
+谷	gog	곡
+哭	gog	곡
+斛	gog	곡
+梏	gog	곡
+槲	gog	곡
+穀	gog	곡
+縠	gog	곡
+觳	gog	곡
+轂	gog	곡
+鵠	gog	곡
+嚳	gog	곡
+困	gon	곤
+坤	gon	곤
+昆	gon	곤
+悃	gon	곤
+捆	gon	곤
+衮	gon	곤
+堃	gon	곤
+崐	gon	곤
+崑	gon	곤
+梱	gon	곤
+袞	gon	곤
+棍	gon	곤
+琨	gon	곤
+裍	gon	곤
+髡	gon	곤
+滾	gon	곤
+緄	gon	곤
+褌	gon	곤
+閫	gon	곤
+錕	gon	곤
+鯤	gon	곤
+鵾	gon	곤
+鶤	gon	곤
+齫	gon	곤
+汨	gol	골
+矻	gol	골
+骨	gol	골
+搰	gol	골
+榾	gol	골
+滑	gol	골
+鶻	gol	골
+工	gong	공
+公	gong	공
+孔	gong	공
+功	gong	공
+共	gong	공
+攻	gong	공
+供	gong	공
+空	gong	공
+拱	gong	공
+倥	gong	공
+恐	gong	공
+恭	gong	공
+栱	gong	공
+珙	gong	공
+蚣	gong	공
+貢	gong	공
+崆	gong	공
+悾	gong	공
+控	gong	공
+釭	gong	공
+蛩	gong	공
+蛬	gong	공
+跫	gong	공
+槓	gong	공
+箜	gong	공
+鞏	gong	공
+龔	gong	공
+贛	gong	공
+串	goj	곶
+戈	goa	과
+瓜	goa	과
+夸	goa	과
+侉	goa	과
+果	goa	과
+科	goa	과
+堝	goa	과
+猓	goa	과
+菓	goa	과
+過	goa	과
+稞	goa	과
+窠	goa	과
+誇	goa	과
+跨	goa	과
+夥	goa	과
+寡	goa	과
+撾	goa	과
+裹	goa	과
+銙	goa	과
+蝌	goa	과
+課	goa	과
+踝	goa	과
+鍋	goa	과
+顆	goa	과
+騍	goa	과
+郭	goag	곽
+椁	goag	곽
+槨	goag	곽
+廓	goag	곽
+霍	goag	곽
+藿	goag	곽
+鞹	goag	곽
+癨	goag	곽
+躩	goag	곽
+丱	goan	관
+串	goan	관
+官	goan	관
+冠	goan	관
+涫	goan	관
+菅	goan	관
+貫	goan	관
+棺	goan	관
+款	goan	관
+琯	goan	관
+祼	goan	관
+筦	goan	관
+寬	goan	관
+慣	goan	관
+管	goan	관
+綰	goan	관
+輨	goan	관
+盥	goan	관
+錧	goan	관
+館	goan	관
+窾	goan	관
+雚	goan	관
+關	goan	관
+灌	goan	관
+爟	goan	관
+瓘	goan	관
+罐	goan	관
+髖	goan	관
+觀	goan	관
+鑵	goan	관
+顴	goan	관
+鸛	goan	관
+佸	goal	괄
+刮	goal	괄
+括	goal	괄
+适	goal	괄
+恝	goal	괄
+栝	goal	괄
+筈	goal	괄
+聒	goal	괄
+髺	goal	괄
+鴰	goal	괄
+光	goang	광
+匡	goang	광
+狂	goang	광
+侊	goang	광
+炚	goang	광
+恇	goang	광
+洸	goang	광
+茪	goang	광
+桄	goang	광
+框	goang	광
+珖	goang	광
+胱	goang	광
+筐	goang	광
+絖	goang	광
+誆	goang	광
+廣	goang	광
+誑	goang	광
+磺	goang	광
+壙	goang	광
+獷	goang	광
+曠	goang	광
+爌	goang	광
+纊	goang	광
+鑛	goang	광
+卦	goai	괘
+咼	goai	괘
+挂	goai	괘
+掛	goai	괘
+罣	goai	괘
+罫	goai	괘
+詿	goai	괘
+乖	goi	괴
+怪	goi	괴
+拐	goi	괴
+恠	goi	괴
+傀	goi	괴
+塊	goi	괴
+媿	goi	괴
+愧	goi	괴
+槐	goi	괴
+瑰	goi	괴
+蒯	goi	괴
+魁	goi	괴
+廥	goi	괴
+璝	goi	괴
+襘	goi	괴
+壞	goi	괴
+虢	going	괵
+馘	going	괵
+宏	going	굉
+肱	going	굉
+訇	going	굉
+浤	going	굉
+紘	going	굉
+閎	going	굉
+觥	going	굉
+轟	going	굉
+巧	gio	교
+交	gio	교
+佼	gio	교
+郊	gio	교
+咬	gio	교
+姣	gio	교
+狡	gio	교
+晈	gio	교
+校	gio	교
+敎	gio	교
+教	gio	교
+皎	gio	교
+喬	gio	교
+窖	gio	교
+絞	gio	교
+蛟	gio	교
+較	gio	교
+僑	gio	교
+嘄	gio	교
+嘐	gio	교
+暞	gio	교
+榷	gio	교
+鉸	gio	교
+餃	gio	교
+嬌	gio	교
+嶠	gio	교
+憍	gio	교
+撟	gio	교
+膠	gio	교
+蕎	gio	교
+骹	gio	교
+噭	gio	교
+橋	gio	교
+矯	gio	교
+磽	gio	교
+鮫	gio	교
+鵁	gio	교
+嚙	gio	교
+翹	gio	교
+趫	gio	교
+蹻	gio	교
+轎	gio	교
+齩	gio	교
+驕	gio	교
+攪	gio	교
+九	gu	구
+久	gu	구
+口	gu	구
+仇	gu	구
+勾	gu	구
+厹	gu	구
+丘	gu	구
+叴	gu	구
+句	gu	구
+扣	gu	구
+臼	gu	구
+佉	gu	구
+佝	gu	구
+劬	gu	구
+求	gu	구
+灸	gu	구
+玖	gu	구
+究	gu	구
+邱	gu	구
+具	gu	구
+咎	gu	구
+坵	gu	구
+坸	gu	구
+岣	gu	구
+拘	gu	구
+狗	gu	구
+疚	gu	구
+苟	gu	구
+俅	gu	구
+垢	gu	구
+姤	gu	구
+昫	gu	구
+枸	gu	구
+柩	gu	구
+矩	gu	구
+耉	gu	구
+胊	gu	구
+韭	gu	구
+俱	gu	구
+冓	gu	구
+捄	gu	구
+痀	gu	구
+逑	gu	구
+區	gu	구
+寇	gu	구
+救	gu	구
+毬	gu	구
+球	gu	구
+蚯	gu	구
+釦	gu	구
+廐	gu	구
+窛	gu	구
+韮	gu	구
+傴	gu	구
+媾	gu	구
+彀	gu	구
+搆	gu	구
+榘	gu	구
+溝	gu	구
+絿	gu	구
+舅	gu	구
+蒟	gu	구
+裘	gu	구
+詬	gu	구
+遘	gu	구
+鉤	gu	구
+鳩	gu	구
+嘔	gu	구
+嫗	gu	구
+嶇	gu	구
+摳	gu	구
+構	gu	구
+漚	gu	구
+歐	gu	구
+毆	gu	구
+璆	gu	구
+甌	gu	구
+銶	gu	구
+駈	gu	구
+駒	gu	구
+窶	gu	구
+篝	gu	구
+糗	gu	구
+屨	gu	구
+舊	gu	구
+覯	gu	구
+購	gu	구
+颶	gu	구
+龜	gu	구
+瞿	gu	구
+謳	gu	구
+軀	gu	구
+匶	gu	구
+韝	gu	구
+懼	gu	구
+驅	gu	구
+鷇	gu	구
+戵	gu	구
+鷗	gu	구
+癯	gu	구
+衢	gu	구
+鬮	gu	구
+鸜	gu	구
+局	gug	국
+匊	gug	국
+國	gug	국
+掬	gug	국
+菊	gug	국
+跼	gug	국
+鞠	gug	국
+麯	gug	국
+鞫	gug	국
+麴	gug	국
+君	gun	군
+軍	gun	군
+郡	gun	군
+捃	gun	군
+桾	gun	군
+珺	gun	군
+窘	gun	군
+裙	gun	군
+羣	gun	군
+群	gun	군
+皸	gun	군
+屈	gul	굴
+倔	gul	굴
+堀	gul	굴
+崛	gul	굴
+掘	gul	굴
+淈	gul	굴
+詘	gul	굴
+窟	gul	굴
+弓	gung	궁
+芎	gung	궁
+穹	gung	궁
+宮	gung	궁
+躬	gung	궁
+躳	gung	궁
+窮	gung	궁
+券	guen	권
+卷	guen	권
+倦	guen	권
+勌	guen	권
+拳	guen	권
+圈	guen	권
+惓	guen	권
+捲	guen	권
+淃	guen	권
+眷	guen	권
+棬	guen	권
+睠	guen	권
+綣	guen	권
+蜷	guen	권
+勸	guen	권
+權	guen	권
+厥	guel	궐
+獗	guel	궐
+蕨	guel	궐
+闕	guel	궐
+蹶	guel	궐
+几	guei	궤
+氿	guei	궤
+机	guei	궤
+佹	guei	궤
+軌	guei	궤
+詭	guei	궤
+跪	guei	궤
+麂	guei	궤
+劂	guei	궤
+匱	guei	궤
+憒	guei	궤
+撅	guei	궤
+潰	guei	궤
+篑	guei	궤
+樻	guei	궤
+簋	guei	궤
+餽	guei	궤
+櫃	guei	궤
+繢	guei	궤
+闠	guei	궤
+饋	guei	궤
+句	gui	귀
+鬼	gui	귀
+晷	gui	귀
+貴	gui	귀
+龜	gui	귀
+歸	gui	귀
+叫	giu	규
+圭	giu	규
+呌	giu	규
+糺	giu	규
+虬	giu	규
+刲	giu	규
+糾	giu	규
+虯	giu	규
+邽	giu	규
+奎	giu	규
+赳	giu	규
+珪	giu	규
+硅	giu	규
+規	giu	규
+逵	giu	규
+馗	giu	규
+揆	giu	규
+葵	giu	규
+暌	giu	규
+楏	giu	규
+跬	giu	규
+頍	giu	규
+嫢	giu	규
+睽	giu	규
+閨	giu	규
+嬀	giu	규
+槻	giu	규
+樛	giu	규
+潙	giu	규
+窺	giu	규
+竅	giu	규
+闚	giu	규
+巋	giu	규
+勻	giun	균
+均	giun	균
+囷	giun	균
+畇	giun	균
+菌	giun	균
+鈞	giun	균
+筠	giun	균
+龜	giun	균
+麏	giun	균
+橘	giul	귤
+克	gyg	극
+亟	gyg	극
+郄	gyg	극
+剋	gyg	극
+郤	gyg	극
+尅	gyg	극
+屐	gyg	극
+戟	gyg	극
+棘	gyg	극
+極	gyg	극
+隙	gyg	극
+劇	gyg	극
+斤	gyn	근
+劤	gyn	근
+芹	gyn	근
+近	gyn	근
+卺	gyn	근
+巹	gyn	근
+觔	gyn	근
+根	gyn	근
+菫	gyn	근
+筋	gyn	근
+釿	gyn	근
+僅	gyn	근
+勤	gyn	근
+厪	gyn	근
+跟	gyn	근
+靳	gyn	근
+墐	gyn	근
+廑	gyn	근
+漌	gyn	근
+槿	gyn	근
+瑾	gyn	근
+懃	gyn	근
+覲	gyn	근
+謹	gyn	근
+饉	gyn	근
+契	gyl	글
+今	gym	금
+妗	gym	금
+芩	gym	금
+昑	gym	금
+金	gym	금
+衿	gym	금
+笒	gym	금
+衾	gym	금
+唫	gym	금
+琴	gym	금
+禽	gym	금
+禁	gym	금
+嶔	gym	금
+擒	gym	금
+黅	gym	금
+噤	gym	금
+檎	gym	금
+錦	gym	금
+襟	gym	금
+及	gyb	급
+伋	gyb	급
+圾	gyb	급
+岌	gyb	급
+扱	gyb	급
+汲	gyb	급
+芨	gyb	급
+皀	gyb	급
+急	gyb	급
+笈	gyb	급
+級	gyb	급
+給	gyb	급
+礏	gyb	급
+亘	gyng	긍
+亙	gyng	긍
+肯	gyng	긍
+矜	gyng	긍
+殑	gyng	긍
+兢	gyng	긍
+己	gi	기
+企	gi	기
+伎	gi	기
+屺	gi	기
+祁	gi	기
+肌	gi	기
+圻	gi	기
+妓	gi	기
+岐	gi	기
+庋	gi	기
+弃	gi	기
+忌	gi	기
+忮	gi	기
+技	gi	기
+杞	gi	기
+汽	gi	기
+沂	gi	기
+玘	gi	기
+芪	gi	기
+芰	gi	기
+其	gi	기
+奇	gi	기
+歧	gi	기
+炁	gi	기
+祇	gi	기
+祈	gi	기
+肵	gi	기
+紀	gi	기
+剞	gi	기
+旂	gi	기
+氣	gi	기
+耆	gi	기
+記	gi	기
+起	gi	기
+飢	gi	기
+豈	gi	기
+基	gi	기
+埼	gi	기
+寄	gi	기
+崎	gi	기
+掎	gi	기
+旣	gi	기
+淇	gi	기
+猉	gi	기
+跂	gi	기
+幾	gi	기
+攲	gi	기
+朞	gi	기
+期	gi	기
+棄	gi	기
+棊	gi	기
+棋	gi	기
+欺	gi	기
+琦	gi	기
+琪	gi	기
+祺	gi	기
+隑	gi	기
+嗜	gi	기
+愭	gi	기
+畸	gi	기
+碁	gi	기
+頎	gi	기
+僛	gi	기
+墍	gi	기
+旗	gi	기
+暣	gi	기
+箕	gi	기
+綥	gi	기
+綦	gi	기
+綺	gi	기
+蜝	gi	기
+璂	gi	기
+畿	gi	기
+冀	gi	기
+器	gi	기
+曁	gi	기
+機	gi	기
+璣	gi	기
+禨	gi	기
+錡	gi	기
+錤	gi	기
+黖	gi	기
+磯	gi	기
+覬	gi	기
+耭	gi	기
+蟣	gi	기
+騎	gi	기
+騏	gi	기
+蘄	gi	기
+譏	gi	기
+麒	gi	기
+饑	gi	기
+鬐	gi	기
+夔	gi	기
+鰭	gi	기
+羇	gi	기
+虁	gi	기
+覉	gi	기
+羈	gi	기
+驥	gi	기
+緊	gin	긴
+吉	gil	길
+佶	gil	길
+姞	gil	길
+拮	gil	길
+桔	gil	길
+蛣	gil	길
+金	gim	김
+喫	ggig	끽
+那	na	나
+奈	na	나
+拏	na	나
+娜	na	나
+挪	na	나
+拿	na	나
+挐	na	나
+梛	na	나
+喇	na	나
+煖	na	나
+裸	na	나
+懦	na	나
+螺	na	나
+糥	na	나
+懶	na	나
+羅	na	나
+糯	na	나
+儺	na	나
+癩	na	나
+蘿	na	나
+邏	na	나
+洛	nag	낙
+烙	nag	낙
+珞	nag	낙
+落	nag	낙
+酪	nag	낙
+樂	nag	낙
+駱	nag	낙
+諾	nag	낙
+卵	nan	난
+偄	nan	난
+赧	nan	난
+暖	nan	난
+煗	nan	난
+亂	nan	난
+餪	nan	난
+難	nan	난
+蘭	nan	난
+欄	nan	난
+爛	nan	난
+鸞	nan	난
+捏	nal	날
+捺	nal	날
+男	nam	남
+枏	nam	남
+南	nam	남
+柟	nam	남
+娚	nam	남
+喃	nam	남
+湳	nam	남
+嵐	nam	남
+楠	nam	남
+濫	nam	남
+藍	nam	남
+襤	nam	남
+拉	nab	납
+衲	nab	납
+納	nab	납
+臘	nab	납
+蠟	nab	납
+娘	nang	낭
+朗	nang	낭
+浪	nang	낭
+狼	nang	낭
+廊	nang	낭
+郎	nang	낭
+曩	nang	낭
+囊	nang	낭
+乃	nai	내
+內	nai	내
+匂	nai	내
+奶	nai	내
+奈	nai	내
+來	nai	내
+柰	nai	내
+耐	nai	내
+迺	nai	내
+鼐	nai	내
+嬭	nai	내
+冷	naing	냉
+女	nie	녀
+惄	nieg	녁
+年	nien	년
+秊	nien	년
+碾	nien	년
+撚	nien	년
+拈	niem	념
+念	niem	념
+恬	niem	념
+捻	niem	념
+佞	nieng	녕
+寗	nieng	녕
+寧	nieng	녕
+儜	nieng	녕
+嚀	nieng	녕
+濘	nieng	녕
+奴	no	노
+老	no	노
+努	no	노
+呶	no	노
+孥	no	노
+弩	no	노
+怒	no	노
+峱	no	노
+笯	no	노
+猱	no	노
+勞	no	노
+瑙	no	노
+虜	no	노
+路	no	노
+駑	no	노
+魯	no	노
+擄	no	노
+盧	no	노
+臑	no	노
+櫓	no	노
+蘆	no	노
+爐	no	노
+露	no	노
+鷺	no	노
+菉	nog	녹
+鹿	nog	녹
+碌	nog	녹
+祿	nog	녹
+綠	nog	녹
+錄	nog	녹
+論	non	논
+弄	nong	농
+農	nong	농
+儂	nong	농
+噥	nong	농
+濃	nong	농
+膿	nong	농
+穠	nong	농
+壟	nong	농
+醲	nong	농
+籠	nong	농
+聾	nong	농
+牢	noi	뇌
+惱	noi	뇌
+腦	noi	뇌
+賂	noi	뇌
+雷	noi	뇌
+餒	noi	뇌
+磊	noi	뇌
+尿	nio	뇨
+淖	nio	뇨
+嫋	nio	뇨
+裊	nio	뇨
+磠	nio	뇨
+嬲	nio	뇨
+鐃	nio	뇨
+陋	nu	누
+啂	nu	누
+淚	nu	누
+累	nu	누
+屢	nu	누
+漏	nu	누
+樓	nu	누
+耨	nu	누
+褸	nu	누
+壘	nu	누
+嫩	nun	눈
+吶	nul	눌
+肭	nul	눌
+訥	nul	눌
+忸	niu	뉴
+杻	niu	뉴
+紐	niu	뉴
+靵	niu	뉴
+衄	niug	뉵
+肋	nyg	늑
+勒	nyg	늑
+凜	nym	늠
+能	nyng	능
+凌	nyng	능
+陵	nyng	능
+菱	nyng	능
+稜	nyng	능
+綾	nyng	능
+尼	ni	니
+你	ni	니
+呢	ni	니
+怩	ni	니
+泥	ni	니
+柅	ni	니
+祢	ni	니
+膩	ni	니
+禰	ni	니
+匿	nig	닉
+溺	nig	닉
+昵	nil	닐
+暱	nil	닐
+多	da	다
+茶	da	다
+爹	da	다
+丹	dan	단
+旦	dan	단
+但	dan	단
+坍	dan	단
+担	dan	단
+彖	dan	단
+段	dan	단
+耑	dan	단
+胆	dan	단
+袒	dan	단
+蛋	dan	단
+單	dan	단
+湍	dan	단
+短	dan	단
+蜑	dan	단
+亶	dan	단
+椴	dan	단
+腶	dan	단
+團	dan	단
+慱	dan	단
+漙	dan	단
+端	dan	단
+鄲	dan	단
+緞	dan	단
+壇	dan	단
+檀	dan	단
+癉	dan	단
+鍛	dan	단
+斷	dan	단
+簞	dan	단
+妲	dal	달
+怛	dal	달
+疸	dal	달
+達	dal	달
+靼	dal	달
+撻	dal	달
+澾	dal	달
+獺	dal	달
+闥	dal	달
+韃	dal	달
+郯	dam	담
+啖	dam	담
+啗	dam	담
+淡	dam	담
+聃	dam	담
+毯	dam	담
+湛	dam	담
+覃	dam	담
+痰	dam	담
+噉	dam	담
+儋	dam	담
+墰	dam	담
+潭	dam	담
+蕁	dam	담
+談	dam	담
+憺	dam	담
+擔	dam	담
+曇	dam	담
+澹	dam	담
+禫	dam	담
+薝	dam	담
+錟	dam	담
+膽	dam	담
+壜	dam	담
+譚	dam	담
+黮	dam	담
+罎	dam	담
+黵	dam	담
+沓	dab	답
+畓	dab	답
+答	dab	답
+遝	dab	답
+踏	dab	답
+龘	dab	답
+倘	dang	당
+唐	dang	당
+堂	dang	당
+棠	dang	당
+塘	dang	당
+搪	dang	당
+溏	dang	당
+當	dang	당
+瑭	dang	당
+幢	dang	당
+撞	dang	당
+瞠	dang	당
+糖	dang	당
+檔	dang	당
+璫	dang	당
+螳	dang	당
+餳	dang	당
+礑	dang	당
+襠	dang	당
+餹	dang	당
+蟷	dang	당
+鏜	dang	당
+黨	dang	당
+鐺	dang	당
+儻	dang	당
+讜	dang	당
+戇	dang	당
+大	dai	대
+代	dai	대
+汏	dai	대
+旲	dai	대
+坮	dai	대
+垈	dai	대
+岱	dai	대
+待	dai	대
+玳	dai	대
+帶	dai	대
+袋	dai	대
+隊	dai	대
+貸	dai	대
+碓	dai	대
+對	dai	대
+臺	dai	대
+儓	dai	대
+戴	dai	대
+擡	dai	대
+黛	dai	대
+懟	dai	대
+鐓	dai	대
+宅	daig	댁
+悳	deg	덕
+德	deg	덕
+刀	do	도
+叨	do	도
+忉	do	도
+到	do	도
+弢	do	도
+挑	do	도
+洮	do	도
+逃	do	도
+度	do	도
+倒	do	도
+島	do	도
+徒	do	도
+桃	do	도
+涂	do	도
+途	do	도
+陶	do	도
+堵	do	도
+屠	do	도
+悼	do	도
+掉	do	도
+掏	do	도
+淘	do	도
+菟	do	도
+萄	do	도
+棹	do	도
+渡	do	도
+盜	do	도
+稌	do	도
+道	do	도
+塗	do	도
+慆	do	도
+搗	do	도
+搯	do	도
+滔	do	도
+睹	do	도
+跳	do	도
+圖	do	도
+嶋	do	도
+酴	do	도
+鞀	do	도
+導	do	도
+稻	do	도
+覩	do	도
+賭	do	도
+闍	do	도
+都	do	도
+壔	do	도
+擣	do	도
+濤	do	도
+蹈	do	도
+鍍	do	도
+檮	do	도
+櫂	do	도
+燾	do	도
+禱	do	도
+鞱	do	도
+韜	do	도
+鼗	do	도
+饕	do	도
+禿	dog	독
+毒	dog	독
+督	dog	독
+獨	dog	독
+篤	dog	독
+瀆	dog	독
+櫝	dog	독
+牘	dog	독
+犢	dog	독
+讀	dog	독
+纛	dog	독
+黷	dog	독
+沌	don	돈
+旽	don	돈
+弴	don	돈
+惇	don	돈
+豚	don	돈
+敦	don	돈
+焞	don	돈
+頓	don	돈
+墩	don	돈
+潡	don	돈
+暾	don	돈
+燉	don	돈
+躉	don	돈
+乭	dol	돌
+咄	dol	돌
+突	dol	돌
+堗	dol	돌
+仝	dong	동
+冬	dong	동
+同	dong	동
+彤	dong	동
+侗	dong	동
+東	dong	동
+苳	dong	동
+哃	dong	동
+垌	dong	동
+峒	dong	동
+茼	dong	동
+洞	dong	동
+凍	dong	동
+桐	dong	동
+疼	dong	동
+胴	dong	동
+動	dong	동
+涷	dong	동
+棟	dong	동
+童	dong	동
+董	dong	동
+働	dong	동
+僮	dong	동
+蝀	dong	동
+銅	dong	동
+憧	dong	동
+潼	dong	동
+蕫	dong	동
+朣	dong	동
+橦	dong	동
+錬	dong	동
+鮗	dong	동
+瞳	dong	동
+艟	dong	동
+斗	du	두
+抖	du	두
+杜	du	두
+肚	du	두
+豆	du	두
+枓	du	두
+陡	du	두
+荳	du	두
+蚪	du	두
+逗	du	두
+兜	du	두
+脰	du	두
+痘	du	두
+頭	du	두
+斁	du	두
+竇	du	두
+讀	du	두
+蠹	du	두
+屯	dun	둔
+芚	dun	둔
+迍	dun	둔
+窀	dun	둔
+遁	dun	둔
+鈍	dun	둔
+遯	dun	둔
+臀	dun	둔
+乧	dul	둘
+得	dyg	득
+登	dyng	등
+等	dyng	등
+凳	dyng	등
+鄧	dyng	등
+墱	dyng	등
+嶝	dyng	등
+滕	dyng	등
+橙	dyng	등
+燈	dyng	등
+縢	dyng	등
+螣	dyng	등
+磴	dyng	등
+謄	dyng	등
+藤	dyng	등
+鐙	dyng	등
+騰	dyng	등
+籐	dyng	등
+拏	la	라
+倮	la	라
+砢	la	라
+喇	la	라
+裸	la	라
+瘰	la	라
+螺	la	라
+懶	la	라
+羅	la	라
+臝	la	라
+騾	la	라
+癩	la	라
+囉	la	라
+蘿	la	라
+邏	la	라
+曪	la	라
+驘	la	라
+鑼	la	라
+洛	lag	락
+烙	lag	락
+珞	lag	락
+絡	lag	락
+落	lag	락
+嗠	lag	락
+酪	lag	락
+犖	lag	락
+樂	lag	락
+駱	lag	락
+諾	lag	락
+丹	lan	란
+卵	lan	란
+亂	lan	란
+闌	lan	란
+嬾	lan	란
+幱	lan	란
+攔	lan	란
+瀾	lan	란
+蘭	lan	란
+欄	lan	란
+爛	lan	란
+襴	lan	란
+欒	lan	란
+灓	lan	란
+鑾	lan	란
+鸞	lan	란
+剌	lal	랄
+埒	lal	랄
+辢	lal	랄
+辣	lal	랄
+婪	lam	람
+惏	lam	람
+嵐	lam	람
+濫	lam	람
+藍	lam	람
+擥	lam	람
+襤	lam	람
+籃	lam	람
+覽	lam	람
+攬	lam	람
+欖	lam	람
+纜	lam	람
+拉	lab	랍
+臘	lab	랍
+蠟	lab	랍
+鑞	lab	랍
+郞	lang	랑
+莨	lang	랑
+朗	lang	랑
+浪	lang	랑
+狼	lang	랑
+琅	lang	랑
+榔	lang	랑
+瑯	lang	랑
+硠	lang	랑
+稂	lang	랑
+蜋	lang	랑
+廊	lang	랑
+螂	lang	랑
+閬	lang	랑
+來	lai	래
+崍	lai	래
+徠	lai	래
+淶	lai	래
+萊	lai	래
+騋	lai	래
+冷	laing	랭
+畧	liag	략
+掠	liag	략
+略	liag	략
+良	liang	량
+兩	liang	량
+亮	liang	량
+倆	liang	량
+悢	liang	량
+凉	liang	량
+涼	liang	량
+梁	liang	량
+喨	liang	량
+椋	liang	량
+量	liang	량
+粮	liang	량
+粱	liang	량
+踉	liang	량
+樑	liang	량
+輛	liang	량
+諒	liang	량
+魎	liang	량
+糧	liang	량
+呂	lie	려
+戾	lie	려
+侶	lie	려
+梠	lie	려
+旅	lie	려
+唳	lie	려
+厲	lie	려
+膂	lie	려
+慮	lie	려
+閭	lie	려
+黎	lie	려
+儢	lie	려
+癘	lie	려
+勵	lie	려
+櫚	lie	려
+藜	lie	려
+邌	lie	려
+濾	lie	려
+廬	lie	려
+麗	lie	려
+糲	lie	려
+臚	lie	려
+蠣	lie	려
+礪	lie	려
+儷	lie	려
+蠡	lie	려
+鑢	lie	려
+驢	lie	려
+驪	lie	려
+力	lieg	력
+曆	lieg	력
+歷	lieg	력
+攊	lieg	력
+櫟	lieg	력
+瀝	lieg	력
+櫪	lieg	력
+礫	lieg	력
+癧	lieg	력
+酈	lieg	력
+轢	lieg	력
+轣	lieg	력
+靂	lieg	력
+連	lien	련
+湅	lien	련
+楝	lien	련
+煉	lien	련
+漣	lien	련
+蓮	lien	련
+憐	lien	련
+璉	lien	련
+練	lien	련
+聯	lien	련
+孌	lien	련
+攣	lien	련
+戀	lien	련
+列	liel	렬
+劣	liel	렬
+冽	liel	렬
+挒	liel	렬
+洌	liel	렬
+烈	liel	렬
+捩	liel	렬
+裂	liel	렬
+颲	liel	렬
+廉	liem	렴
+奩	liem	렴
+磏	liem	렴
+濂	liem	렴
+斂	liem	렴
+殮	liem	렴
+簾	liem	렴
+瀲	liem	렴
+獵	lieb	렵
+躐	lieb	렵
+鬣	lieb	렵
+另	lieng	령
+令	lieng	령
+伶	lieng	령
+呤	lieng	령
+姈	lieng	령
+岭	lieng	령
+岺	lieng	령
+泠	lieng	령
+苓	lieng	령
+囹	lieng	령
+怜	lieng	령
+昤	lieng	령
+玲	lieng	령
+秢	lieng	령
+逞	lieng	령
+笭	lieng	령
+翎	lieng	령
+蛉	lieng	령
+羚	lieng	령
+聆	lieng	령
+軨	lieng	령
+鈴	lieng	령
+零	lieng	령
+寧	lieng	령
+領	lieng	령
+鴒	lieng	령
+鹷	lieng	령
+嶺	lieng	령
+齡	lieng	령
+靈	lieng	령
+欞	lieng	령
+例	liei	례
+澧	liei	례
+隷	liei	례
+隸	liei	례
+禮	liei	례
+醴	liei	례
+鱧	liei	례
+老	lo	로
+窂	lo	로
+怒	lo	로
+玈	lo	로
+鹵	lo	로
+勞	lo	로
+虜	lo	로
+輅	lo	로
+路	lo	로
+塷	lo	로
+滷	lo	로
+撈	lo	로
+魯	lo	로
+潞	lo	로
+擄	lo	로
+盧	lo	로
+癆	lo	로
+壚	lo	로
+瀘	lo	로
+櫓	lo	로
+蘆	lo	로
+爐	lo	로
+艪	lo	로
+鐪	lo	로
+露	lo	로
+艫	lo	로
+轤	lo	로
+鑪	lo	로
+鷺	lo	로
+顱	lo	로
+髗	lo	로
+鱸	lo	로
+鸕	lo	로
+圥	log	록
+彔	log	록
+淥	log	록
+菉	log	록
+鹿	log	록
+碌	log	록
+祿	log	록
+漉	log	록
+綠	log	록
+錄	log	록
+簏	log	록
+轆	log	록
+騄	log	록
+麓	log	록
+論	lon	론
+弄	long	롱
+儱	long	롱
+隴	long	롱
+龎	long	롱
+攏	long	롱
+瀧	long	롱
+蘢	long	롱
+壟	long	롱
+曨	long	롱
+朧	long	롱
+瓏	long	롱
+礱	long	롱
+籠	long	롱
+聾	long	롱
+耒	loi	뢰
+牢	loi	뢰
+誄	loi	뢰
+賂	loi	뢰
+雷	loi	뢰
+酹	loi	뢰
+賚	loi	뢰
+磊	loi	뢰
+蕾	loi	뢰
+賴	loi	뢰
+儡	loi	뢰
+顂	loi	뢰
+攂	loi	뢰
+礌	loi	뢰
+瀨	loi	뢰
+礧	loi	뢰
+纇	loi	뢰
+罍	loi	뢰
+籟	loi	뢰
+了	lio	료
+料	lio	료
+聊	lio	료
+廖	lio	료
+漻	lio	료
+膋	lio	료
+僚	lio	료
+蓼	lio	료
+嘹	lio	료
+嫽	lio	료
+撩	lio	료
+潦	lio	료
+獠	lio	료
+鬧	lio	료
+寮	lio	료
+遼	lio	료
+暸	lio	료
+燎	lio	료
+瞭	lio	료
+療	lio	료
+繚	lio	료
+醪	lio	료
+鐐	lio	료
+飂	lio	료
+飉	lio	료
+龍	liong	룡
+龒	liong	룡
+陋	lu	루
+婁	lu	루
+淚	lu	루
+累	lu	루
+僂	lu	루
+嘍	lu	루
+嶁	lu	루
+慺	lu	루
+蔞	lu	루
+屢	lu	루
+漏	lu	루
+樓	lu	루
+瘻	lu	루
+褸	lu	루
+耬	lu	루
+螻	lu	루
+縷	lu	루
+壘	lu	루
+鏤	lu	루
+髏	lu	루
+柳	liu	류
+流	liu	류
+留	liu	류
+琉	liu	류
+硫	liu	류
+旒	liu	류
+遛	liu	류
+溜	liu	류
+榴	liu	류
+瑠	liu	류
+瘤	liu	류
+劉	liu	류
+橊	liu	류
+縲	liu	류
+瀏	liu	류
+謬	liu	류
+類	liu	류
+纍	liu	류
+鶹	liu	류
+六	liug	륙
+陸	liug	륙
+僇	liug	륙
+勠	liug	륙
+戮	liug	륙
+侖	liun	륜
+倫	liun	륜
+掄	liun	륜
+崙	liun	륜
+淪	liun	륜
+綸	liun	륜
+輪	liun	륜
+律	liul	률
+栗	liul	률
+率	liul	률
+嵂	liul	률
+溧	liul	률
+慄	liul	률
+隆	liung	륭
+癃	liung	륭
+窿	liung	륭
+泐	lyg	륵
+肋	lyg	륵
+勒	lyg	륵
+凛	lym	름
+凜	lym	름
+廩	lym	름
+澟	lym	름
+倰	lyng	릉
+凌	lyng	릉
+陵	lyng	릉
+菱	lyng	릉
+楞	lyng	릉
+稜	lyng	릉
+蔆	lyng	릉
+綾	lyng	릉
+吏	li	리
+利	li	리
+李	li	리
+里	li	리
+俐	li	리
+俚	li	리
+厘	li	리
+哩	li	리
+唎	li	리
+娌	li	리
+悧	li	리
+浬	li	리
+涖	li	리
+狸	li	리
+离	li	리
+莅	li	리
+莉	li	리
+犁	li	리
+梨	li	리
+理	li	리
+異	li	리
+痢	li	리
+裡	li	리
+剺	li	리
+漓	li	리
+蜊	li	리
+裏	li	리
+嫠	li	리
+璃	li	리
+貍	li	리
+履	li	리
+螭	li	리
+罹	li	리
+釐	li	리
+鯉	li	리
+羸	li	리
+魑	li	리
+離	li	리
+邐	li	리
+黐	li	리
+籬	li	리
+淋	lim	림
+琳	lim	림
+痳	lim	림
+霖	lim	림
+臨	lim	림
+吝	lim	림
+林	lim	림
+悋	lim	림
+粦	lin	린
+粼	lim	림
+鄰	lim	림
+隣	lin	린
+嶙	lin	린
+潾	lin	린
+獜	lin	린
+燐	lin	린
+璘	lin	린
+磷	lin	린
+繗	lin	린
+轔	lin	린
+藺	lin	린
+鏻	lin	린
+驎	lin	린
+躙	lin	린
+鱗	lin	린
+麟	lin	린
+躪	lin	린
+立	lib	립
+岦	lib	립
+砬	lib	립
+笠	lib	립
+粒	lib	립
+馬	ma	마
+麻	ma	마
+媽	ma	마
+痲	ma	마
+瑪	ma	마
+麽	ma	마
+摩	ma	마
+碼	ma	마
+磨	ma	마
+螞	ma	마
+蟇	ma	마
+麿	ma	마
+魔	ma	마
+劘	ma	마
+莫	mag	막
+寞	mag	막
+幕	mag	막
+漠	mag	막
+膜	mag	막
+瞙	mag	막
+邈	mag	막
+鏌	mag	막
+万	man	만
+卍	man	만
+娩	man	만
+挽	man	만
+晚	man	만
+曼	man	만
+晩	man	만
+萬	man	만
+墁	man	만
+嫚	man	만
+幔	man	만
+慢	man	만
+滿	man	만
+漫	man	만
+蔓	man	만
+輓	man	만
+瞞	man	만
+縵	man	만
+謾	man	만
+蹣	man	만
+鏋	man	만
+鏝	man	만
+饅	man	만
+鬘	man	만
+巒	man	만
+彎	man	만
+鰻	man	만
+灣	man	만
+蠻	man	만
+末	mal	말
+帕	mal	말
+抹	mal	말
+沫	mal	말
+茉	mal	말
+唜	mal	말
+秣	mal	말
+靺	mal	말
+襪	mal	말
+亡	mang	망
+邙	mang	망
+妄	mang	망
+忙	mang	망
+汒	mang	망
+芒	mang	망
+忘	mang	망
+罔	mang	망
+茫	mang	망
+莽	mang	망
+惘	mang	망
+望	mang	망
+莾	mang	망
+漭	mang	망
+網	mang	망
+輞	mang	망
+蟒	mang	망
+魍	mang	망
+呆	mai	매
+每	mai	매
+妹	mai	매
+怰	mai	매
+枚	mai	매
+沬	mai	매
+玫	mai	매
+苺	mai	매
+昧	mai	매
+埋	mai	매
+眛	mai	매
+莓	mai	매
+梅	mai	매
+媒	mai	매
+寐	mai	매
+買	mai	매
+楳	mai	매
+煤	mai	매
+酶	mai	매
+魅	mai	매
+罵	mai	매
+賣	mai	매
+邁	mai	매
+霉	mai	매
+陌	maig	맥
+脉	maig	맥
+脈	maig	맥
+麥	maig	맥
+貃	maig	맥
+貊	maig	맥
+貘	maig	맥
+驀	maig	맥
+孟	maing	맹
+氓	maing	맹
+甿	maing	맹
+盲	maing	맹
+虻	maing	맹
+猛	maing	맹
+萌	maing	맹
+盟	maing	맹
+甍	maing	맹
+儚	maing	맹
+糸	mieg	멱
+覓	mieg	멱
+幎	mieg	멱
+冪	mieg	멱
+免	mien	면
+沔	mien	면
+俛	mien	면
+勉	mien	면
+眄	mien	면
+面	mien	면
+眠	mien	면
+冕	mien	면
+棉	mien	면
+湎	mien	면
+綿	mien	면
+糆	mien	면
+緜	mien	면
+緬	mien	면
+麪	mien	면
+麵	mien	면
+滅	miel	멸
+蔑	miel	멸
+篾	miel	멸
+衊	miel	멸
+皿	mieng	명
+名	mieng	명
+命	mieng	명
+明	mieng	명
+洺	mieng	명
+茗	mieng	명
+冥	mieng	명
+椧	mieng	명
+溟	mieng	명
+蓂	mieng	명
+酩	mieng	명
+暝	mieng	명
+銘	mieng	명
+鳴	mieng	명
+瞑	mieng	명
+螟	mieng	명
+袂	miei	몌
+毛	mo	모
+母	mo	모
+矛	mo	모
+牟	mo	모
+牡	mo	모
+皃	mo	모
+芼	mo	모
+侔	mo	모
+姆	mo	모
+茅	mo	모
+侮	mo	모
+冒	mo	모
+姥	mo	모
+恈	mo	모
+某	mo	모
+眊	mo	모
+旄	mo	모
+粍	mo	모
+耄	mo	모
+耗	mo	모
+眸	mo	모
+募	mo	모
+媢	mo	모
+帽	mo	모
+嫫	mo	모
+摸	mo	모
+瑁	mo	모
+慕	mo	모
+摹	mo	모
+暮	mo	모
+模	mo	모
+貌	mo	모
+鉾	mo	모
+髦	mo	모
+蝥	mo	모
+糢	mo	모
+謀	mo	모
+蟊	mo	모
+謨	mo	모
+麰	mo	모
+木	mog	목
+目	mog	목
+凩	mog	목
+沐	mog	목
+坶	mog	목
+牧	mog	목
+苜	mog	목
+睦	mog	목
+穆	mog	목
+鶩	mog	목
+沒	mol	몰
+歿	mol	몰
+夢	mong	몽
+溕	mong	몽
+蒙	mong	몽
+雺	mong	몽
+瞢	mong	몽
+幪	mong	몽
+懞	mong	몽
+濛	mong	몽
+曚	mong	몽
+朦	mong	몽
+矇	mong	몽
+艨	mong	몽
+鸏	mong	몽
+卯	mio	묘
+妙	mio	묘
+杳	mio	묘
+苗	mio	묘
+昴	mio	묘
+眇	mio	묘
+竗	mio	묘
+描	mio	묘
+猫	mio	묘
+淼	mio	묘
+渺	mio	묘
+墓	mio	묘
+廟	mio	묘
+貓	mio	묘
+錨	mio	묘
+藐	mio	묘
+无	mu	무
+毋	mu	무
+戊	mu	무
+巫	mu	무
+拇	mu	무
+武	mu	무
+茂	mu	무
+務	mu	무
+畝	mu	무
+無	mu	무
+珷	mu	무
+貿	mu	무
+楙	mu	무
+舞	mu	무
+誣	mu	무
+嘸	mu	무
+廡	mu	무
+憮	mu	무
+撫	mu	무
+蕪	mu	무
+儛	mu	무
+膴	mu	무
+懋	mu	무
+繆	mu	무
+霧	mu	무
+鵡	mu	무
+騖	mu	무
+嘿	mug	묵
+墨	mug	묵
+默	mug	묵
+匁	mun	문
+文	mun	문
+刎	mun	문
+吻	mun	문
+抆	mun	문
+汶	mun	문
+炆	mun	문
+門	mun	문
+們	mun	문
+悗	mun	문
+紊	mun	문
+紋	mun	문
+蚊	mun	문
+問	mun	문
+捫	mun	문
+雯	mun	문
+聞	mun	문
+璊	mun	문
+懣	mun	문
+勿	mul	물
+沕	mul	물
+物	mul	물
+未	mi	미
+米	mi	미
+尾	mi	미
+味	mi	미
+弥	mi	미
+苿	mi	미
+弭	mi	미
+洣	mi	미
+眉	mi	미
+美	mi	미
+迷	mi	미
+娓	mi	미
+敉	mi	미
+梶	mi	미
+媄	mi	미
+媚	mi	미
+嵋	mi	미
+渼	mi	미
+湄	mi	미
+媺	mi	미
+微	mi	미
+楣	mi	미
+薇	mi	미
+謎	mi	미
+彌	mi	미
+糜	mi	미
+縻	mi	미
+麋	mi	미
+靡	mi	미
+瀰	mi	미
+獼	mi	미
+亹	mi	미
+蘼	mi	미
+黴	mi	미
+民	min	민
+忟	min	민
+岷	min	민
+忞	min	민
+旻	min	민
+旼	min	민
+泯	min	민
+玟	min	민
+苠	min	민
+敃	min	민
+珉	min	민
+罠	min	민
+敏	min	민
+悶	min	민
+湣	min	민
+閔	min	민
+愍	min	민
+暋	min	민
+黽	min	민
+緍	min	민
+閩	min	민
+慜	min	민
+憫	min	민
+緡	min	민
+鰵	min	민
+密	mil	밀
+滵	mil	밀
+蜜	mil	밀
+樒	mil	밀
+謐	mil	밀
+朴	bag	박
+拍	bag	박
+泊	bag	박
+迫	bag	박
+珀	bag	박
+亳	bag	박
+剝	bag	박
+粕	bag	박
+舶	bag	박
+博	bag	박
+搏	bag	박
+雹	bag	박
+牔	bag	박
+箔	bag	박
+膊	bag	박
+駁	bag	박
+撲	bag	박
+樸	bag	박
+璞	bag	박
+縛	bag	박
+薄	bag	박
+駮	bag	박
+鎛	bag	박
+髆	bag	박
+欂	bag	박
+反	ban	반
+半	ban	반
+伴	ban	반
+扳	ban	반
+返	ban	반
+拌	ban	반
+攽	ban	반
+朌	ban	반
+泮	ban	반
+叛	ban	반
+盼	ban	반
+胖	ban	반
+班	ban	반
+畔	ban	반
+般	ban	반
+絆	ban	반
+斑	ban	반
+媻	ban	반
+搬	ban	반
+頒	ban	반
+飯	ban	반
+搫	ban	반
+槃	ban	반
+頖	ban	반
+潘	ban	반
+瘢	ban	반
+盤	ban	반
+磐	ban	반
+螌	ban	반
+磻	ban	반
+蟠	ban	반
+攀	ban	반
+礬	ban	반
+拔	bal	발
+勃	bal	발
+哱	bal	발
+浡	bal	발
+脖	bal	발
+渤	bal	발
+發	bal	발
+跋	bal	발
+鈸	bal	발
+鉢	bal	발
+魃	bal	발
+撥	bal	발
+潑	bal	발
+髮	bal	발
+鵓	bal	발
+醱	bal	발
+方	bang	방
+仿	bang	방
+邦	bang	방
+防	bang	방
+坊	bang	방
+妨	bang	방
+尨	bang	방
+彷	bang	방
+芳	bang	방
+房	bang	방
+放	bang	방
+昉	bang	방
+枋	bang	방
+肪	bang	방
+厖	bang	방
+倣	bang	방
+旁	bang	방
+旊	bang	방
+梆	bang	방
+紡	bang	방
+舫	bang	방
+蚌	bang	방
+訪	bang	방
+傍	bang	방
+幇	bang	방
+舽	bang	방
+徬	bang	방
+搒	bang	방
+滂	bang	방
+蒡	bang	방
+榜	bang	방
+牓	bang	방
+膀	bang	방
+髣	bang	방
+磅	bang	방
+魴	bang	방
+螃	bang	방
+幫	bang	방
+謗	bang	방
+鎊	bang	방
+龐	bang	방
+扒	bai	배
+北	bai	배
+坏	bai	배
+坯	bai	배
+拜	bai	배
+杯	bai	배
+盃	bai	배
+背	bai	배
+胚	bai	배
+俳	bai	배
+倍	bai	배
+配	bai	배
+陪	bai	배
+培	bai	배
+徘	bai	배
+排	bai	배
+湃	bai	배
+焙	bai	배
+琲	bai	배
+蓓	bai	배
+裴	bai	배
+裵	bai	배
+褙	bai	배
+賠	bai	배
+輩	bai	배
+白	baig	백
+百	baig	백
+伯	baig	백
+佰	baig	백
+帛	baig	백
+柏	baig	백
+栢	baig	백
+粨	baig	백
+魄	baig	백
+袢	ben	번
+番	ben	번
+煩	ben	번
+幡	ben	번
+樊	ben	번
+蕃	ben	번
+燔	ben	번
+膰	ben	번
+繁	ben	번
+繙	ben	번
+翻	ben	번
+藩	ben	번
+蘩	ben	번
+飜	ben	번
+伐	bel	벌
+筏	bel	벌
+罰	bel	벌
+閥	bel	벌
+罸	bel	벌
+橃	bel	벌
+凡	bem	범
+氾	bem	범
+犯	bem	범
+帆	bem	범
+汎	bem	범
+泛	bem	범
+范	bem	범
+訉	bem	범
+梵	bem	범
+笵	bem	범
+釩	bem	범
+範	bem	범
+颿	bem	범
+法	beb	법
+琺	beb	법
+碧	bieg	벽
+僻	bieg	벽
+劈	bieg	벽
+壁	bieg	벽
+擗	bieg	벽
+擘	bieg	벽
+檗	bieg	벽
+甓	bieg	벽
+璧	bieg	벽
+癖	bieg	벽
+襞	bieg	벽
+疈	bieg	벽
+蘗	bieg	벽
+闢	bieg	벽
+霹	bieg	벽
+鷿	bieg	벽
+鼊	bieg	벽
+卞	bien	변
+弁	bien	변
+忭	bien	변
+抃	bien	변
+便	bien	변
+腁	bien	변
+賆	bien	변
+骿	bien	변
+辨	bien	변
+駢	bien	변
+鴘	bien	변
+邊	bien	변
+辮	bien	변
+辯	bien	변
+變	bien	변
+籩	bien	변
+別	biel	별
+彆	biel	별
+瞥	biel	별
+鱉	biel	별
+鷩	biel	별
+鼈	biel	별
+丙	bieng	병
+兵	bieng	병
+並	bieng	병
+幷	bieng	병
+秉	bieng	병
+昞	bieng	병
+昺	bieng	병
+柄	bieng	병
+炳	bieng	병
+迸	bieng	병
+倂	bieng	병
+病	bieng	병
+竝	bieng	병
+屛	bieng	병
+塀	bieng	병
+棅	bieng	병
+甁	bieng	병
+絣	bieng	병
+缾	bieng	병
+鈵	bieng	병
+鉼	bieng	병
+輧	bieng	병
+鋲	bieng	병
+餠	bieng	병
+騈	bieng	병
+步	bo	보
+甫	bo	보
+俌	bo	보
+保	bo	보
+洑	bo	보
+珤	bo	보
+菩	bo	보
+堡	bo	보
+報	bo	보
+普	bo	보
+湺	bo	보
+盙	bo	보
+葆	bo	보
+補	bo	보
+褓	bo	보
+輔	bo	보
+潽	bo	보
+鴇	bo	보
+簠	bo	보
+譜	bo	보
+黼	bo	보
+寶	bo	보
+靌	bo	보
+卜	bog	복
+扑	bog	복
+伏	bog	복
+宓	bog	복
+服	bog	복
+茯	bog	복
+匐	bog	복
+菔	bog	복
+復	bog	복
+腹	bog	복
+福	bog	복
+僕	bog	복
+箙	bog	복
+蔔	bog	복
+複	bog	복
+墣	bog	복
+幞	bog	복
+蝠	bog	복
+蝮	bog	복
+輹	bog	복
+輻	bog	복
+濮	bog	복
+覆	bog	복
+馥	bog	복
+鵩	bog	복
+鰒	bog	복
+本	bon	본
+乶	bol	볼
+丰	bong	봉
+夆	bong	봉
+奉	bong	봉
+封	bong	봉
+俸	bong	봉
+峯	bong	봉
+峰	bong	봉
+逢	bong	봉
+捧	bong	봉
+烽	bong	봉
+菶	bong	봉
+棒	bong	봉
+琫	bong	봉
+綘	bong	봉
+蓬	bong	봉
+蜂	bong	봉
+熢	bong	봉
+鳳	bong	봉
+鋒	bong	봉
+鴌	bong	봉
+篷	bong	봉
+縫	bong	봉
+仆	bu	부
+夫	bu	부
+父	bu	부
+不	bu	부
+付	bu	부
+缶	bu	부
+否	bu	부
+孚	bu	부
+扶	bu	부
+抔	bu	부
+芙	bu	부
+芣	bu	부
+附	bu	부
+咐	bu	부
+府	bu	부
+拊	bu	부
+斧	bu	부
+玞	bu	부
+苻	bu	부
+阜	bu	부
+俘	bu	부
+祔	bu	부
+罘	bu	부
+胕	bu	부
+訃	bu	부
+負	bu	부
+赴	bu	부
+俯	bu	부
+剖	bu	부
+浮	bu	부
+莩	bu	부
+蚨	bu	부
+袝	bu	부
+部	bu	부
+釜	bu	부
+副	bu	부
+埠	bu	부
+婦	bu	부
+掊	bu	부
+桴	bu	부
+涪	bu	부
+符	bu	부
+趺	bu	부
+傅	bu	부
+媍	bu	부
+富	bu	부
+罦	bu	부
+腑	bu	부
+裒	bu	부
+跗	bu	부
+鈇	bu	부
+復	bu	부
+溥	bu	부
+筟	bu	부
+艀	bu	부
+蔀	bu	부
+蜉	bu	부
+鳧	bu	부
+孵	bu	부
+榑	bu	부
+腐	bu	부
+敷	bu	부
+膚	bu	부
+賦	bu	부
+頫	bu	부
+駙	bu	부
+麩	bu	부
+鮒	bu	부
+賻	bu	부
+覆	bu	부
+簿	bu	부
+北	bug	북
+分	bun	분
+体	bun	분
+吩	bun	분
+坌	bun	분
+帉	bun	분
+扮	bun	분
+汾	bun	분
+芬	bun	분
+奔	bun	분
+忿	bun	분
+昐	bun	분
+枌	bun	분
+氛	bun	분
+肦	bun	분
+盆	bun	분
+砏	bun	분
+畚	bun	분
+粉	bun	분
+紛	bun	분
+棻	bun	분
+笨	bun	분
+棼	bun	분
+湓	bun	분
+焚	bun	분
+犇	bun	분
+賁	bun	분
+雰	bun	분
+噴	bun	분
+墳	bun	분
+憤	bun	분
+濆	bun	분
+蕡	bun	분
+奮	bun	분
+膹	bun	분
+黺	bun	분
+糞	bun	분
+鼢	bun	분
+轒	bun	분
+不	bul	불
+弗	bul	불
+佛	bul	불
+岪	bul	불
+彿	bul	불
+拂	bul	불
+茀	bul	불
+祓	bul	불
+紱	bul	불
+艴	bul	불
+韍	bul	불
+髴	bul	불
+黻	bul	불
+朋	bung	붕
+堋	bung	붕
+崩	bung	붕
+棚	bung	붕
+硼	bung	붕
+漰	bung	붕
+繃	bung	붕
+鬅	bung	붕
+鵬	bung	붕
+匕	bi	비
+比	bi	비
+丕	bi	비
+仳	bi	비
+圮	bi	비
+妃	bi	비
+妣	bi	비
+屁	bi	비
+庇	bi	비
+批	bi	비
+沘	bi	비
+芘	bi	비
+芾	bi	비
+邳	bi	비
+卑	bi	비
+枇	bi	비
+沸	bi	비
+狉	bi	비
+狒	bi	비
+肥	bi	비
+非	bi	비
+泌	bi	비
+毖	bi	비
+毗	bi	비
+毘	bi	비
+砒	bi	비
+祕	bi	비
+秕	bi	비
+飛	bi	비
+俾	bi	비
+剕	bi	비
+匪	bi	비
+秘	bi	비
+粃	bi	비
+紕	bi	비
+蚍	bi	비
+郫	bi	비
+陴	bi	비
+埤	bi	비
+婢	bi	비
+庳	bi	비
+悱	bi	비
+淝	bi	비
+淠	bi	비
+菲	bi	비
+萆	bi	비
+備	bi	비
+悲	bi	비
+扉	bi	비
+斐	bi	비
+棐	bi	비
+椑	bi	비
+琵	bi	비
+痞	bi	비
+脾	bi	비
+腓	bi	비
+費	bi	비
+痹	bi	비
+痺	bi	비
+睥	bi	비
+碑	bi	비
+蓖	bi	비
+裨	bi	비
+鄙	bi	비
+閟	bi	비
+榧	bi	비
+緋	bi	비
+翡	bi	비
+蜚	bi	비
+鼻	bi	비
+誹	bi	비
+憊	bi	비
+篦	bi	비
+霏	bi	비
+濞	bi	비
+臂	bi	비
+貔	bi	비
+髀	bi	비
+騑	bi	비
+羆	bi	비
+鞴	bi	비
+騛	bi	비
+譬	bi	비
+贔	bi	비
+鼙	bi	비
+轡	bi	비
+份	bin	빈
+牝	bin	빈
+邠	bin	빈
+玭	bin	빈
+浜	bin	빈
+彬	bin	빈
+貧	bin	빈
+斌	bin	빈
+賓	bin	빈
+儐	bin	빈
+頻	bin	빈
+嬪	bin	빈
+擯	bin	빈
+濱	bin	빈
+豳	bin	빈
+鬂	bin	빈
+檳	bin	빈
+殯	bin	빈
+臏	bin	빈
+嚬	bin	빈
+瀕	bin	빈
+矉	bin	빈
+蘋	bin	빈
+霦	bin	빈
+繽	bin	빈
+鑌	bin	빈
+顰	bin	빈
+鬢	bin	빈
+氷	bing	빙
+冰	bing	빙
+凭	bing	빙
+娉	bing	빙
+聘	bing	빙
+凴	bing	빙
+憑	bing	빙
+騁	bing	빙
+靐	bing	빙
+士	sa	사
+巳	sa	사
+乍	sa	사
+仕	sa	사
+史	sa	사
+司	sa	사
+四	sa	사
+似	sa	사
+寺	sa	사
+死	sa	사
+汜	sa	사
+邪	sa	사
+伺	sa	사
+姒	sa	사
+沙	sa	사
+社	sa	사
+祀	sa	사
+私	sa	사
+事	sa	사
+些	sa	사
+使	sa	사
+咋	sa	사
+泗	sa	사
+缷	sa	사
+舍	sa	사
+俟	sa	사
+卸	sa	사
+思	sa	사
+柶	sa	사
+査	sa	사
+砂	sa	사
+祠	sa	사
+剚	sa	사
+唆	sa	사
+娑	sa	사
+射	sa	사
+師	sa	사
+紗	sa	사
+莎	sa	사
+傞	sa	사
+奢	sa	사
+徙	sa	사
+捨	sa	사
+斜	sa	사
+梭	sa	사
+笥	sa	사
+耜	sa	사
+蛇	sa	사
+赦	sa	사
+斯	sa	사
+渣	sa	사
+痧	sa	사
+竢	sa	사
+絲	sa	사
+覗	sa	사
+詐	sa	사
+詞	sa	사
+嗣	sa	사
+楂	sa	사
+獅	sa	사
+肆	sa	사
+蓑	sa	사
+裟	sa	사
+飼	sa	사
+榭	sa	사
+皶	sa	사
+蜡	sa	사
+僿	sa	사
+寫	sa	사
+賜	sa	사
+駛	sa	사
+駟	sa	사
+魦	sa	사
+篩	sa	사
+謝	sa	사
+瀉	sa	사
+鯊	sa	사
+辭	sa	사
+鰤	sa	사
+麝	sa	사
+削	sag	삭
+朔	sag	삭
+索	sag	삭
+蒴	sag	삭
+槊	sag	삭
+數	sag	삭
+爍	sag	삭
+鑠	sag	삭
+山	san	산
+汕	san	산
+刪	san	산
+姍	san	산
+疝	san	산
+珊	san	산
+狻	san	산
+訕	san	산
+産	san	산
+閊	san	산
+傘	san	산
+散	san	산
+剷	san	산
+蒜	san	산
+算	san	산
+酸	san	산
+毿	san	산
+潸	san	산
+澘	san	산
+橵	san	산
+繖	san	산
+鏟	san	산
+霰	san	산
+孿	san	산
+乷	sal	살
+殺	sal	살
+煞	sal	살
+撒	sal	살
+薩	sal	살
+三	sam	삼
+杉	sam	삼
+芟	sam	삼
+衫	sam	삼
+渗	sam	삼
+釤	sam	삼
+參	sam	삼
+森	sam	삼
+蔘	sam	삼
+糝	sam	삼
+鬖	sam	삼
+卅	sab	삽
+唼	sab	삽
+鈒	sab	삽
+揷	sab	삽
+歃	sab	삽
+翣	sab	삽
+颯	sab	삽
+澁	sab	삽
+霅	sab	삽
+霎	sab	삽
+鍤	sab	삽
+上	sang	상
+床	sang	상
+尙	sang	상
+牀	sang	상
+狀	sang	상
+峠	sang	상
+庠	sang	상
+相	sang	상
+晌	sang	상
+桑	sang	상
+祥	sang	상
+商	sang	상
+常	sang	상
+徜	sang	상
+爽	sang	상
+象	sang	상
+喪	sang	상
+廂	sang	상
+湘	sang	상
+翔	sang	상
+傷	sang	상
+像	sang	상
+想	sang	상
+甞	sang	상
+詳	sang	상
+嘗	sang	상
+塽	sang	상
+裳	sang	상
+橡	sang	상
+殤	sang	상
+箱	sang	상
+緗	sang	상
+賞	sang	상
+償	sang	상
+霜	sang	상
+觴	sang	상
+鎟	sang	상
+顙	sang	상
+孀	sang	상
+鬺	sang	상
+塞	sai	새
+賽	sai	새
+璽	sai	새
+鰓	sai	새
+色	saig	색
+索	saig	색
+嗇	saig	색
+塞	saig	색
+槭	saig	색
+濇	saig	색
+瀒	saig	색
+穡	saig	색
+生	saing	생
+牲	saing	생
+省	saing	생
+眚	saing	생
+笙	saing	생
+甥	saing	생
+鉎	saing	생
+西	se	서
+序	se	서
+抒	se	서
+芧	se	서
+胥	se	서
+徐	se	서
+恕	se	서
+書	se	서
+栖	se	서
+紓	se	서
+逝	se	서
+庶	se	서
+捿	se	서
+敍	se	서
+壻	se	서
+婿	se	서
+揟	se	서
+暑	se	서
+棲	se	서
+湑	se	서
+犀	se	서
+絮	se	서
+舒	se	서
+黍	se	서
+瑞	se	서
+筮	se	서
+署	se	서
+耡	se	서
+鉏	se	서
+鼠	se	서
+墅	se	서
+誓	se	서
+撕	se	서
+緖	se	서
+鋤	se	서
+噬	se	서
+嶼	se	서
+澨	se	서
+薯	se	서
+諝	se	서
+曙	se	서
+夕	seg	석
+石	seg	석
+汐	seg	석
+昔	seg	석
+析	seg	석
+矽	seg	석
+席	seg	석
+惜	seg	석
+淅	seg	석
+晰	seg	석
+晳	seg	석
+腊	seg	석
+舃	seg	석
+蓆	seg	석
+鉐	seg	석
+碩	seg	석
+蜥	seg	석
+奭	seg	석
+潟	seg	석
+錫	seg	석
+鼫	seg	석
+釋	seg	석
+仙	sen	선
+屳	sen	선
+先	sen	선
+宣	sen	선
+扇	sen	선
+旋	sen	선
+琁	sen	선
+船	sen	선
+善	sen	선
+愃	sen	선
+渲	sen	선
+筅	sen	선
+尟	sen	선
+尠	sen	선
+瑄	sen	선
+羨	sen	선
+腺	sen	선
+詵	sen	선
+跣	sen	선
+僊	sen	선
+嫙	sen	선
+煽	sen	선
+綫	sen	선
+銑	sen	선
+墡	sen	선
+嬋	sen	선
+熯	sen	선
+璇	sen	선
+線	sen	선
+選	sen	선
+敾	sen	선
+歚	sen	선
+禪	sen	선
+膳	sen	선
+鮮	sen	선
+璿	sen	선
+繕	sen	선
+蟬	sen	선
+譔	sen	선
+鏇	sen	선
+蘚	sen	선
+譱	sen	선
+鐥	sen	선
+饍	sen	선
+騸	sen	선
+癬	sen	선
+鱓	sen	선
+鱻	sen	선
+舌	sel	설
+泄	sel	설
+洩	sel	설
+卨	sel	설
+屑	sel	설
+偰	sel	설
+紲	sel	설
+設	sel	설
+雪	sel	설
+媟	sel	설
+揲	sel	설
+渫	sel	설
+楔	sel	설
+碟	sel	설
+稧	sel	설
+說	sel	설
+暬	sel	설
+薛	sel	설
+褻	sel	설
+爇	sel	설
+齧	sel	설
+陝	sen	섬
+剡	sen	섬
+閃	sen	섬
+睒	sen	섬
+摻	sen	섬
+銛	sen	섬
+暹	sen	섬
+憸	sen	섬
+韱	sen	섬
+蟾	sen	섬
+孅	sen	섬
+譫	sen	섬
+贍	sen	섬
+殲	sen	섬
+纖	sen	섬
+涉	seb	섭
+葉	seb	섭
+燮	seb	섭
+聶	seb	섭
+囁	seb	섭
+懾	seb	섭
+攝	seb	섭
+灄	seb	섭
+躡	seb	섭
+鑷	seb	섭
+顳	seb	섭
+成	seng	성
+姓	seng	성
+性	seng	성
+城	seng	성
+宬	seng	성
+星	seng	성
+省	seng	성
+晟	seng	성
+珹	seng	성
+盛	seng	성
+惺	seng	성
+猩	seng	성
+筬	seng	성
+瑆	seng	성
+聖	seng	성
+腥	seng	성
+誠	seng	성
+醒	seng	성
+聲	seng	성
+騂	seng	성
+世	sei	세
+誓	sei	세
+洒	sei	세
+洗	sei	세
+帨	sei	세
+笹	sei	세
+細	sei	세
+稅	sei	세
+貰	sei	세
+勢	sei	세
+歲	sei	세
+蛻	sei	세
+說	sei	세
+繐	sei	세
+小	so	소
+少	so	소
+召	so	소
+佋	so	소
+卲	so	소
+邵	so	소
+所	so	소
+沼	so	소
+泝	so	소
+俏	so	소
+昭	so	소
+炤	so	소
+宵	so	소
+捎	so	소
+消	so	소
+笑	so	소
+素	so	소
+逍	so	소
+埽	so	소
+巢	so	소
+掃	so	소
+梳	so	소
+紹	so	소
+搔	so	소
+甦	so	소
+疎	so	소
+疏	so	소
+翛	so	소
+訴	so	소
+酥	so	소
+嗉	so	소
+塐	so	소
+塑	so	소
+溯	so	소
+筱	so	소
+蛸	so	소
+遡	so	소
+愬	so	소
+瘙	so	소
+膆	so	소
+踈	so	소
+韶	so	소
+樔	so	소
+箾	so	소
+艘	so	소
+蔬	so	소
+銷	so	소
+霄	so	소
+嘯	so	소
+燒	so	소
+篠	so	소
+蕭	so	소
+魈	so	소
+繅	so	소
+鮹	so	소
+瀟	so	소
+簫	so	소
+蘇	so	소
+騷	so	소
+鰺	so	소
+束	sog	속
+俗	sog	속
+洬	sog	속
+涑	sog	속
+速	sog	속
+粟	sog	속
+遬	sog	속
+謖	sog	속
+屬	sog	속
+續	sog	속
+贖	sog	속
+孫	son	손
+飡	son	손
+巽	son	손
+飧	son	손
+損	son	손
+蓀	son	손
+遜	son	손
+飱	son	손
+率	sol	솔
+窣	sol	솔
+蟀	sol	솔
+宋	song	송
+松	song	송
+柗	song	송
+送	song	송
+悚	song	송
+淞	song	송
+訟	song	송
+竦	song	송
+頌	song	송
+誦	song	송
+鬆	song	송
+刷	soai	쇄
+殺	soai	쇄
+惢	soai	쇄
+碎	soai	쇄
+瑣	soai	쇄
+鎖	soai	쇄
+灑	soai	쇄
+曬	soai	쇄
+衰	soi	쇠
+釗	soi	쇠
+手	su	수
+殳	su	수
+水	su	수
+囚	su	수
+守	su	수
+戍	su	수
+收	su	수
+秀	su	수
+受	su	수
+垂	su	수
+岫	su	수
+峀	su	수
+泅	su	수
+修	su	수
+叟	su	수
+帥	su	수
+洙	su	수
+狩	su	수
+茱	su	수
+首	su	수
+殊	su	수
+祟	su	수
+羞	su	수
+脩	su	수
+袖	su	수
+陲	su	수
+售	su	수
+授	su	수
+琇	su	수
+隋	su	수
+嫂	su	수
+廋	su	수
+搜	su	수
+晬	su	수
+溲	su	수
+脺	su	수
+蒐	su	수
+蓚	su	수
+遂	su	수
+須	su	수
+愁	su	수
+睟	su	수
+睡	su	수
+睢	su	수
+竪	su	수
+綏	su	수
+膄	su	수
+酬	su	수
+嗽	su	수
+壽	su	수
+漱	su	수
+瘦	su	수
+瞍	su	수
+粹	su	수
+綬	su	수
+銖	su	수
+隧	su	수
+隨	su	수
+需	su	수
+誰	su	수
+豎	su	수
+銹	su	수
+數	su	수
+樹	su	수
+濉	su	수
+燧	su	수
+璲	su	수
+膸	su	수
+輸	su	수
+穗	su	수
+邃	su	수
+雖	su	수
+藪	su	수
+颼	su	수
+饈	su	수
+獸	su	수
+繡	su	수
+籔	su	수
+髓	su	수
+鬚	su	수
+讎	su	수
+讐	su	수
+夙	sug	숙
+叔	sug	숙
+俶	sug	숙
+倏	sug	숙
+婌	sug	숙
+孰	sug	숙
+宿	sug	숙
+淑	sug	숙
+菽	sug	숙
+琡	sug	숙
+肅	sug	숙
+塾	sug	숙
+熟	sug	숙
+潚	sug	숙
+橚	sug	숙
+儵	sug	숙
+璹	sug	숙
+驌	sug	숙
+鷫	sug	숙
+巡	sun	순
+旬	sun	순
+侚	sun	순
+肫	sun	순
+徇	sun	순
+恂	sun	순
+洵	sun	순
+狥	sun	순
+盹	sun	순
+盾	sun	순
+紃	sun	순
+荀	sun	순
+栒	sun	순
+殉	sun	순
+珣	sun	순
+純	sun	순
+淳	sun	순
+眴	sun	순
+脣	sun	순
+循	sun	순
+筍	sun	순
+舜	sun	순
+順	sun	순
+楯	sun	순
+詢	sun	순
+馴	sun	순
+蓴	sun	순
+蕣	sun	순
+諄	sun	순
+醇	sun	순
+橓	sun	순
+錞	sun	순
+駨	sun	순
+瞬	sun	순
+鬊	sun	순
+鶉	sun	순
+戌	sul	술
+述	sul	술
+絉	sul	술
+術	sul	술
+鉥	sul	술
+崇	sung	숭
+崧	sung	숭
+菘	sung	숭
+嵩	sung	숭
+倅	sui	쉬
+淬	sui	쉬
+焠	sui	쉬
+虱	syl	슬
+瑟	syl	슬
+膝	syl	슬
+蝨	syl	슬
+拾	syb	습
+習	syb	습
+慴	syb	습
+熠	syb	습
+褶	syb	습
+隰	syb	습
+濕	syb	습
+襲	syb	습
+升	syng	승
+丞	syng	승
+承	syng	승
+昇	syng	승
+陞	syng	승
+乘	syng	승
+勝	syng	승
+塍	syng	승
+僧	syng	승
+繩	syng	승
+蠅	syng	승
+鬙	syng	승
+尸	si	시
+市	si	시
+矢	si	시
+示	si	시
+兕	si	시
+豕	si	시
+侍	si	시
+始	si	시
+柹	si	시
+屍	si	시
+屎	si	시
+恃	si	시
+施	si	시
+是	si	시
+枲	si	시
+枾	si	시
+時	si	시
+柴	si	시
+翅	si	시
+豺	si	시
+偲	si	시
+匙	si	시
+猜	si	시
+視	si	시
+豉	si	시
+啻	si	시
+媤	si	시
+弑	si	시
+塒	si	시
+蒔	si	시
+蓍	si	시
+試	si	시
+詩	si	시
+厮	si	시
+翤	si	시
+嘶	si	시
+廝	si	시
+澌	si	시
+緦	si	시
+諟	si	시
+諡	si	시
+諰	si	시
+鍉	si	시
+顋	si	시
+釃	si	시
+式	sig	식
+拭	sig	식
+食	sig	식
+息	sig	식
+栻	sig	식
+埴	sig	식
+喰	sig	식
+寔	sig	식
+植	sig	식
+殖	sig	식
+湜	sig	식
+媳	sig	식
+軾	sig	식
+飾	sig	식
+熄	sig	식
+蝕	sig	식
+篒	sig	식
+識	sig	식
+申	sin	신
+囟	sin	신
+汛	sin	신
+臣	sin	신
+迅	sin	신
+伸	sin	신
+身	sin	신
+辛	sin	신
+辰	sin	신
+侁	sin	신
+呻	sin	신
+信	sin	신
+哂	sin	신
+姺	sin	신
+矧	sin	신
+神	sin	신
+娠	sin	신
+宸	sin	신
+莘	sin	신
+訊	sin	신
+晨	sin	신
+紳	sin	신
+脤	sin	신
+腎	sin	신
+愼	sin	신
+新	sin	신
+蜃	sin	신
+頣	sin	신
+噺	sin	신
+薪	sin	신
+駪	sin	신
+藎	sin	신
+燼	sin	신
+贐	sin	신
+失	sil	실
+室	sil	실
+悉	sil	실
+實	sil	실
+蟋	sil	실
+飋	sil	실
+心	sim	심
+沁	sim	심
+芯	sim	심
+沈	sim	심
+甚	sim	심
+梣	sim	심
+深	sim	심
+尋	sim	심
+葚	sim	심
+審	sim	심
+潯	sim	심
+燖	sim	심
+諶	sim	심
+瀋	sim	심
+鐔	sim	심
+鱏	sim	심
+十	sib	십
+什	sib	십
+辻	sib	십
+拾	sib	십
+雙	ssang	쌍
+氏	ssi	씨
+丫	qa	아
+牙	qa	아
+我	qa	아
+芽	qa	아
+迓	qa	아
+阿	qa	아
+亞	qa	아
+兒	qa	아
+俄	qa	아
+砑	qa	아
+哦	qa	아
+娥	qa	아
+娿	qa	아
+婀	qa	아
+峨	qa	아
+峩	qa	아
+疴	qa	아
+笌	qa	아
+莪	qa	아
+啞	qa	아
+訝	qa	아
+雅	qa	아
+蛾	qa	아
+衙	qa	아
+餓	qa	아
+鴉	qa	아
+錏	qa	아
+鵝	qa	아
+鵞	qa	아
+岳	qag	악
+咢	qag	악
+偓	qag	악
+卾	qag	악
+堊	qag	악
+鄂	qag	악
+喔	qag	악
+幄	qag	악
+愕	qag	악
+握	qag	악
+渥	qag	악
+萼	qag	악
+惡	qag	악
+腭	qag	악
+樂	qag	악
+噩	qag	악
+覨	qag	악
+諤	qag	악
+嶽	qag	악
+鍔	qag	악
+顎	qag	악
+鰐	qag	악
+鶚	qag	악
+齶	qag	악
+齷	qag	악
+安	qan	안
+犴	qan	안
+岸	qan	안
+按	qan	안
+晏	qan	안
+案	qan	안
+桉	qan	안
+眼	qan	안
+雁	qan	안
+鞍	qan	안
+鴈	qan	안
+鮟	qan	안
+顔	qan	안
+贋	qan	안
+穵	qal	알
+軋	qal	알
+訐	qal	알
+戞	qal	알
+揠	qal	알
+遏	qal	알
+嘎	qal	알
+斡	qal	알
+頞	qal	알
+謁	qal	알
+閼	qal	알
+鴶	qal	알
+岩	qam	암
+唵	qam	암
+庵	qam	암
+菴	qam	암
+啽	qam	암
+媕	qam	암
+嵓	qam	암
+晻	qam	암
+葊	qam	암
+暗	qam	암
+腤	qam	암
+蓭	qam	암
+諳	qam	암
+頷	qam	암
+癌	qam	암
+闇	qam	암
+馣	qam	암
+黯	qam	암
+巖	qam	암
+押	qab	압
+狎	qab	압
+鴨	qab	압
+壓	qab	압
+卬	qang	앙
+央	qang	앙
+仰	qang	앙
+坱	qang	앙
+怏	qang	앙
+泱	qang	앙
+昻	qang	앙
+殃	qang	앙
+盎	qang	앙
+秧	qang	앙
+鞅	qang	앙
+鴦	qang	앙
+艾	qai	애
+厓	qai	애
+哀	qai	애
+唉	qai	애
+埃	qai	애
+娭	qai	애
+挨	qai	애
+啀	qai	애
+崕	qai	애
+崖	qai	애
+捱	qai	애
+欸	qai	애
+涯	qai	애
+隘	qai	애
+愛	qai	애
+睚	qai	애
+碍	qai	애
+漄	qai	애
+獃	qai	애
+僾	qai	애
+皚	qai	애
+磑	qai	애
+噯	qai	애
+薆	qai	애
+曖	qai	애
+騃	qai	애
+瞹	qai	애
+礙	qai	애
+藹	qai	애
+靄	qai	애
+靉	qai	애
+厄	qaig	액
+戹	qaig	액
+阨	qaig	액
+扼	qaig	액
+呝	qaig	액
+掖	qaig	액
+液	qaig	액
+腋	qaig	액
+搤	qaig	액
+縊	qaig	액
+額	qaig	액
+嫈	qaing	앵
+罃	qaing	앵
+嚶	qaing	앵
+罌	qaing	앵
+櫻	qaing	앵
+鶯	qaing	앵
+鷪	qaing	앵
+鸚	qaing	앵
+也	qia	야
+冶	qia	야
+夜	qia	야
+耶	qia	야
+若	qia	야
+倻	qia	야
+埜	qia	야
+揶	qia	야
+野	qia	야
+惹	qia	야
+椰	qia	야
+爺	qia	야
+若	qiag	약
+約	qiag	약
+弱	qiag	약
+掠	qiag	약
+略	qiag	약
+葯	qiag	약
+蒻	qiag	약
+篛	qiag	약
+龠	qiag	약
+藥	qiag	약
+爚	qiag	약
+禴	qiag	약
+躍	qiag	약
+鰯	qiag	약
+鶸	qiag	약
+籥	qiag	약
+鑰	qiag	약
+羊	qiang	양
+良	qiang	양
+佯	qiang	양
+兩	qiang	양
+俍	qiang	양
+徉	qiang	양
+洋	qiang	양
+亮	qiang	양
+恙	qiang	양
+烊	qiang	양
+凉	qiang	양
+痒	qiang	양
+眻	qiang	양
+陽	qiang	양
+梁	qiang	양
+揚	qiang	양
+敭	qiang	양
+量	qiang	양
+暘	qiang	양
+楊	qiang	양
+煬	qiang	양
+漾	qiang	양
+瘍	qiang	양
+養	qiang	양
+樣	qiang	양
+諒	qiang	양
+輰	qiang	양
+瀁	qiang	양
+襄	qiang	양
+颺	qiang	양
+糧	qiang	양
+癢	qiang	양
+壤	qiang	양
+孃	qiang	양
+攘	qiang	양
+瀼	qiang	양
+蘘	qiang	양
+禳	qiang	양
+穰	qiang	양
+讓	qiang	양
+釀	qiang	양
+鑲	qiang	양
+驤	qiang	양
+於	qe	어
+圄	qe	어
+圉	qe	어
+敔	qe	어
+淤	qe	어
+魚	qe	어
+御	qe	어
+飫	qe	어
+馭	qe	어
+瘀	qe	어
+漁	qe	어
+語	qe	어
+禦	qe	어
+齬	qe	어
+抑	qeg	억
+億	qeg	억
+憶	qeg	억
+檍	qeg	억
+臆	qeg	억
+繶	qeg	억
+言	qen	언
+匽	qen	언
+彦	qen	언
+偃	qen	언
+焉	qen	언
+堰	qen	언
+傿	qen	언
+鄢	qen	언
+嫣	qen	언
+諺	qen	언
+鼴	qen	언
+鼹	qen	언
+讞	qen	언
+臬	qel	얼
+孼	qel	얼
+蘖	qel	얼
+广	qem	엄
+奄	qem	엄
+俺	qem	엄
+崦	qem	엄
+掩	qem	엄
+淹	qem	엄
+罨	qem	엄
+醃	qem	엄
+閹	qem	엄
+嚴	qem	엄
+儼	qem	엄
+曮	qem	엄
+業	qeb	업
+鄴	qeb	업
+嶪	qeb	업
+嶫	qeb	업
+恚	qei	에
+曀	qei	에
+円	qein	엔
+女	qie	여
+予	qie	여
+如	qie	여
+汝	qie	여
+余	qie	여
+呂	qie	여
+舁	qie	여
+茹	qie	여
+旅	qie	여
+與	qie	여
+艅	qie	여
+厲	qie	여
+餘	qie	여
+閭	qie	여
+黎	qie	여
+歟	qie	여
+璵	qie	여
+輿	qie	여
+礖	qie	여
+濾	qie	여
+廬	qie	여
+麗	qie	여
+轝	qie	여
+礪	qie	여
+驪	qie	여
+力	qieg	역
+亦	qieg	역
+役	qieg	역
+易	qieg	역
+疫	qieg	역
+逆	qieg	역
+域	qieg	역
+淢	qieg	역
+嶧	qieg	역
+懌	qieg	역
+閾	qieg	역
+曆	qieg	역
+歷	qieg	역
+繹	qieg	역
+譯	qieg	역
+轢	qieg	역
+驛	qieg	역
+延	qien	연
+年	qien	연
+囦	qien	연
+沇	qien	연
+沿	qien	연
+秊	qien	연
+兗	qien	연
+埏	qien	연
+姸	qien	연
+挻	qien	연
+涎	qien	연
+莚	qien	연
+衍	qien	연
+娟	qien	연
+宴	qien	연
+悁	qien	연
+捐	qien	연
+涓	qien	연
+烟	qien	연
+連	qien	연
+硏	qien	연
+軟	qien	연
+堧	qien	연
+掾	qien	연
+淵	qien	연
+渷	qien	연
+然	qien	연
+硯	qien	연
+筵	qien	연
+椽	qien	연
+煙	qien	연
+鉛	qien	연
+煉	qien	연
+演	qien	연
+鳶	qien	연
+漣	qien	연
+蓮	qien	연
+緣	qien	연
+蜵	qien	연
+憐	qien	연
+撚	qien	연
+璉	qien	연
+練	qien	연
+輦	qien	연
+燃	qien	연
+燕	qien	연
+輭	qien	연
+縯	qien	연
+聯	qien	연
+鍊	qien	연
+嚥	qien	연
+嬿	qien	연
+櫞	qien	연
+曣	qien	연
+臙	qien	연
+蠕	qien	연
+讌	qien	연
+鷰	qien	연
+戀	qien	연
+列	qiel	열
+劣	qiel	열
+咽	qiel	열
+悅	qiel	열
+涅	qiel	열
+烈	qiel	열
+裂	qiel	열
+說	qiel	열
+噎	qiel	열
+熱	qiel	열
+閱	qiel	열
+冉	qiem	염
+炎	qiem	염
+苒	qiem	염
+念	qiem	염
+染	qiem	염
+捻	qiem	염
+扊	qiem	염
+焰	qiem	염
+琰	qiem	염
+塩	qiem	염
+廉	qiem	염
+厭	qiem	염
+髥	qiem	염
+閻	qiem	염
+殮	qiem	염
+懕	qiem	염
+檶	qiem	염
+檿	qiem	염
+艶	qiem	염
+簾	qiem	염
+饜	qiem	염
+魘	qiem	염
+鹽	qiem	염
+灎	qiem	염
+釅	qiem	염
+黶	qiem	염
+灩	qiem	염
+葉	qieb	엽
+曄	qieb	엽
+曅	qieb	엽
+熀	qieb	엽
+燁	qieb	엽
+爗	qieb	엽
+獵	qieb	엽
+靨	qieb	엽
+永	qieng	영
+令	qieng	영
+迎	qieng	영
+咏	qieng	영
+泳	qieng	영
+英	qieng	영
+囹	qieng	영
+怜	qieng	영
+映	qieng	영
+盈	qieng	영
+郢	qieng	영
+玲	qieng	영
+浧	qieng	영
+渶	qieng	영
+羚	qieng	영
+聆	qieng	영
+暎	qieng	영
+煐	qieng	영
+瑛	qieng	영
+詠	qieng	영
+塋	qieng	영
+楹	qieng	영
+碤	qieng	영
+鈴	qieng	영
+零	qieng	영
+榮	qieng	영
+寧	qieng	영
+領	qieng	영
+影	qieng	영
+潁	qieng	영
+瑩	qieng	영
+嬴	qieng	영
+營	qieng	영
+穎	qieng	영
+縈	qieng	영
+鍈	qieng	영
+霙	qieng	영
+嬰	qieng	영
+嶸	qieng	영
+濚	qieng	영
+濴	qieng	영
+獰	qieng	영
+韺	qieng	영
+嶺	qieng	영
+瀛	qieng	영
+瀯	qieng	영
+蠑	qieng	영
+贏	qieng	영
+瓔	qieng	영
+癭	qieng	영
+纓	qieng	영
+靈	qieng	영
+乂	qiei	예
+刈	qiei	예
+曳	qiei	예
+汭	qiei	예
+芮	qiei	예
+苅	qiei	예
+枘	qiei	예
+例	qiei	예
+拽	qiei	예
+倪	qiei	예
+蚋	qiei	예
+掜	qiei	예
+猊	qiei	예
+睨	qiei	예
+裔	qiei	예
+詣	qiei	예
+預	qiei	예
+嫛	qiei	예
+睿	qiei	예
+蜺	qiei	예
+蕊	qiei	예
+蕋	qiei	예
+豫	qiei	예
+銳	qiei	예
+叡	qiei	예
+濊	qiei	예
+獩	qiei	예
+瞖	qiei	예
+薉	qiei	예
+霓	qiei	예
+繄	qiei	예
+翳	qiei	예
+隸	qiei	예
+穢	qiei	예
+藝	qiei	예
+禮	qiei	예
+蘂	qiei	예
+鯢	qiei	예
+麑	qiei	예
+譽	qiei	예
+醴	qiei	예
+囈	qiei	예
+鷖	qiei	예
+五	qo	오
+午	qo	오
+仵	qo	오
+伍	qo	오
+圬	qo	오
+汙	qo	오
+汚	qo	오
+迃	qo	오
+吳	qo	오
+吾	qo	오
+忤	qo	오
+迕	qo	오
+旿	qo	오
+俉	qo	오
+俣	qo	오
+唔	qo	오
+娛	qo	오
+悟	qo	오
+捂	qo	오
+敖	qo	오
+烏	qo	오
+茣	qo	오
+晤	qo	오
+梧	qo	오
+傲	qo	오
+媪	qo	오
+惡	qo	오
+嗚	qo	오
+嗷	qo	오
+塢	qo	오
+奧	qo	오
+嫯	qo	오
+慠	qo	오
+筽	qo	오
+蜈	qo	오
+遨	qo	오
+寤	qo	오
+熬	qo	오
+獒	qo	오
+誤	qo	오
+隩	qo	오
+噁	qo	오
+墺	qo	오
+懊	qo	오
+澳	qo	오
+窹	qo	오
+聱	qo	오
+襖	qo	오
+謷	qo	오
+鏊	qo	오
+鏖	qo	오
+驁	qo	오
+鼯	qo	오
+鰲	qo	오
+鼇	qo	오
+玉	qog	옥
+沃	qog	옥
+屋	qog	옥
+鈺	qog	옥
+獄	qog	옥
+昷	qon	온
+媼	qon	온
+慍	qon	온
+溫	qon	온
+瑥	qon	온
+氳	qon	온
+熅	qon	온
+瘟	qon	온
+縕	qon	온
+薀	qon	온
+轀	qon	온
+醞	qon	온
+饂	qon	온
+韞	qon	온
+穩	qon	온
+蘊	qon	온
+鰮	qon	온
+兀	qol	올
+嗢	qol	올
+膃	qol	올
+瓮	qong	옹
+禺	qong	옹
+翁	qong	옹
+邕	qong	옹
+喁	qong	옹
+滃	qong	옹
+蓊	qong	옹
+雍	qong	옹
+壅	qong	옹
+擁	qong	옹
+甕	qong	옹
+癕	qong	옹
+雝	qong	옹
+顒	qong	옹
+罋	qong	옹
+廱	qong	옹
+饔	qong	옹
+癰	qong	옹
+瓦	qoa	와
+囮	qoa	와
+枙	qoa	와
+臥	qoa	와
+哇	qoa	와
+洼	qoa	와
+窊	qoa	와
+婐	qoa	와
+渦	qoa	와
+猧	qoa	와
+萵	qoa	와
+訛	qoa	와
+蛙	qoa	와
+窩	qoa	와
+窪	qoa	와
+蝸	qoa	와
+譌	qoa	와
+刓	qoan	완
+阮	qoan	완
+妧	qoan	완
+完	qoan	완
+岏	qoan	완
+忨	qoan	완
+宛	qoan	완
+玩	qoan	완
+垸	qoan	완
+浣	qoan	완
+盌	qoan	완
+莞	qoan	완
+婉	qoan	완
+惋	qoan	완
+梡	qoan	완
+涴	qoan	완
+琓	qoan	완
+脘	qoan	완
+椀	qoan	완
+琬	qoan	완
+腕	qoan	완
+碗	qoan	완
+頑	qoan	완
+緩	qoan	완
+翫	qoan	완
+豌	qoan	완
+曰	qoal	왈
+王	qoang	왕
+尫	qoang	왕
+汪	qoang	왕
+往	qoang	왕
+旺	qoang	왕
+枉	qoang	왕
+迬	qoang	왕
+瀇	qoang	왕
+娃	qoai	왜
+歪	qoai	왜
+倭	qoai	왜
+媧	qoai	왜
+矮	qoai	왜
+外	qoi	외
+畏	qoi	외
+偎	qoi	외
+隗	qoi	외
+崴	qoi	외
+嵔	qoi	외
+嵬	qoi	외
+渨	qoi	외
+猥	qoi	외
+煨	qoi	외
+碨	qoi	외
+磈	qoi	외
+聵	qoi	외
+巍	qoi	외
+了	qio	요
+幺	qio	요
+夭	qio	요
+凹	qio	요
+妖	qio	요
+尿	qio	요
+坳	qio	요
+拗	qio	요
+殀	qio	요
+祅	qio	요
+姚	qio	요
+穾	qio	요
+要	qio	요
+窅	qio	요
+窈	qio	요
+料	qio	요
+偠	qio	요
+喓	qio	요
+堯	qio	요
+徭	qio	요
+搖	qio	요
+腰	qio	요
+遙	qio	요
+僥	qio	요
+寥	qio	요
+瑤	qio	요
+僚	qio	요
+蓼	qio	요
+墝	qio	요
+嬈	qio	요
+嶢	qio	요
+撓	qio	요
+澆	qio	요
+窯	qio	요
+蕘	qio	요
+遶	qio	요
+寮	qio	요
+樂	qio	요
+遼	qio	요
+徼	qio	요
+橈	qio	요
+邀	qio	요
+燎	qio	요
+繇	qio	요
+謠	qio	요
+療	qio	요
+擾	qio	요
+曜	qio	요
+燿	qio	요
+繞	qio	요
+蟯	qio	요
+耀	qio	요
+饒	qio	요
+鷂	qio	요
+浴	qiog	욕
+辱	qiog	욕
+欲	qiog	욕
+溽	qiog	욕
+蓐	qiog	욕
+慾	qiog	욕
+褥	qiog	욕
+縟	qiog	욕
+冗	qiong	용
+宂	qiong	용
+用	qiong	용
+甬	qiong	용
+俑	qiong	용
+勇	qiong	용
+茸	qiong	용
+埇	qiong	용
+容	qiong	용
+涌	qiong	용
+庸	qiong	용
+舂	qiong	용
+傛	qiong	용
+湧	qiong	용
+硧	qiong	용
+傭	qiong	용
+嵱	qiong	용
+溶	qiong	용
+蓉	qiong	용
+蛹	qiong	용
+墉	qiong	용
+慂	qiong	용
+慵	qiong	용
+榕	qiong	용
+熔	qiong	용
+瑢	qiong	용
+踊	qiong	용
+憃	qiong	용
+槦	qiong	용
+踴	qiong	용
+聳	qiong	용
+龍	qiong	용
+鎔	qiong	용
+鏞	qiong	용
+又	qu	우
+于	qu	우
+亏	qu	우
+友	qu	우
+尤	qu	우
+牛	qu	우
+右	qu	우
+吁	qu	우
+宇	qu	우
+芋	qu	우
+迂	qu	우
+羽	qu	우
+佑	qu	우
+旴	qu	우
+杅	qu	우
+玗	qu	우
+盂	qu	우
+盱	qu	우
+雨	qu	우
+俁	qu	우
+疣	qu	우
+祐	qu	우
+禹	qu	우
+竽	qu	우
+紆	qu	우
+郵	qu	우
+偊	qu	우
+偶	qu	우
+釪	qu	우
+隅	qu	우
+雩	qu	우
+亴	qu	우
+堣	qu	우
+寓	qu	우
+嵎	qu	우
+庽	qu	우
+遇	qu	우
+愚	qu	우
+瑀	qu	우
+禑	qu	우
+虞	qu	우
+麀	qu	우
+憂	qu	우
+耦	qu	우
+踽	qu	우
+優	qu	우
+鍝	qu	우
+藕	qu	우
+謣	qu	우
+麌	qu	우
+耰	qu	우
+齲	qu	우
+旭	qug	욱
+郁	qug	욱
+昱	qug	욱
+彧	qug	욱
+栯	qug	욱
+勖	qug	욱
+煜	qug	욱
+頊	qug	욱
+稶	qug	욱
+燠	qug	욱
+云	qun	운
+沄	qun	운
+芸	qun	운
+紜	qun	운
+耘	qun	운
+惲	qun	운
+運	qun	운
+隕	qun	운
+雲	qun	운
+韵	qun	운
+暈	qun	운
+殞	qun	운
+熉	qun	운
+澐	qun	운
+蕓	qun	운
+橒	qun	운
+篔	qun	운
+霣	qun	운
+韻	qun	운
+亐	qul	울
+蔚	qul	울
+鬱	qul	울
+雄	qunq	웅
+熊	qunq	웅
+元	quen	원
+阮	quen	원
+沅	quen	원
+芫	quen	원
+杬	quen	원
+苑	quen	원
+垣	quen	원
+怨	quen	원
+洹	quen	원
+爰	quen	원
+院	quen	원
+冤	quen	원
+原	quen	원
+員	quen	원
+袁	quen	원
+寃	quen	원
+媛	quen	원
+援	quen	원
+湲	quen	원
+猨	quen	원
+園	quen	원
+圓	quen	원
+嫄	quen	원
+楥	quen	원
+源	quen	원
+猿	quen	원
+瑗	quen	원
+遠	quen	원
+愿	quen	원
+綩	quen	원
+蜿	quen	원
+圜	quen	원
+薗	quen	원
+鋺	quen	원
+鴛	quen	원
+謜	quen	원
+轅	quen	원
+黿	quen	원
+願	quen	원
+鵷	quen	원
+騵	quen	원
+月	quel	월
+刖	quel	월
+粤	quel	월
+越	quel	월
+粵	quel	월
+鉞	quel	월
+危	qui	위
+位	qui	위
+委	qui	위
+威	qui	위
+胃	qui	위
+韋	qui	위
+偉	qui	위
+尉	qui	위
+萎	qui	위
+逶	qui	위
+喟	qui	위
+圍	qui	위
+幃	qui	위
+渭	qui	위
+爲	qui	위
+葦	qui	위
+葳	qui	위
+違	qui	위
+骪	qui	위
+暐	qui	위
+煒	qui	위
+瑋	qui	위
+痿	qui	위
+僞	qui	위
+褘	qui	위
+慰	qui	위
+熨	qui	위
+緯	qui	위
+蔿	qui	위
+蝟	qui	위
+衛	qui	위
+諉	qui	위
+衞	qui	위
+謂	qui	위
+餧	qui	위
+闈	qui	위
+魏	qui	위
+韙	qui	위
+韡	qui	위
+冘	qiu	유
+幼	qiu	유
+由	qiu	유
+有	qiu	유
+攸	qiu	유
+酉	qiu	유
+乳	qiu	유
+侑	qiu	유
+呦	qiu	유
+油	qiu	유
+泑	qiu	유
+臾	qiu	유
+杻	qiu	유
+兪	qiu	유
+囿	qiu	유
+宥	qiu	유
+幽	qiu	유
+斿	qiu	유
+柔	qiu	유
+柚	qiu	유
+洧	qiu	유
+柳	qiu	유
+莠	qiu	유
+逌	qiu	유
+流	qiu	유
+留	qiu	유
+紐	qiu	유
+唯	qiu	유
+帷	qiu	유
+庾	qiu	유
+悠	qiu	유
+惟	qiu	유
+萸	qiu	유
+蚰	qiu	유
+蚴	qiu	유
+琉	qiu	유
+喩	qiu	유
+愉	qiu	유
+揄	qiu	유
+揉	qiu	유
+游	qiu	유
+猶	qiu	유
+腴	qiu	유
+裕	qiu	유
+逾	qiu	유
+遊	qiu	유
+釉	qiu	유
+硫	qiu	유
+愈	qiu	유
+楡	qiu	유
+楢	qiu	유
+猷	qiu	유
+瑜	qiu	유
+瘐	qiu	유
+溜	qiu	유
+瘉	qiu	유
+窬	qiu	유
+維	qiu	유
+緌	qiu	유
+褕	qiu	유
+誘	qiu	유
+牖	qiu	유
+窳	qiu	유
+糅	qiu	유
+蕕	qiu	유
+蕤	qiu	유
+蝤	qiu	유
+諛	qiu	유
+遺	qiu	유
+劉	qiu	유
+儒	qiu	유
+諭	qiu	유
+踰	qiu	유
+蹂	qiu	유
+孺	qiu	유
+濡	qiu	유
+鍮	qiu	유
+鮪	qiu	유
+黝	qiu	유
+壝	qiu	유
+癒	qiu	유
+鞣	qiu	유
+鼬	qiu	유
+類	qiu	유
+讉	qiu	유
+龥	qiu	유
+籲	qiu	유
+六	qiug	육
+肉	qiug	육
+育	qiug	육
+陸	qiug	육
+堉	qiug	육
+毓	qiug	육
+戮	qiug	육
+儥	qiug	육
+允	qiun	윤
+尹	qiun	윤
+昀	qiun	윤
+玧	qiun	윤
+胤	qiun	윤
+倫	qiun	윤
+崙	qiun	윤
+淪	qiun	윤
+鈗	qiun	윤
+閏	qun	윤
+奫	qiun	윤
+潤	qiun	윤
+鋆	qiun	윤
+輪	qiun	윤
+贇	qiun	윤
+聿	qiul	율
+律	qiul	율
+栗	qiul	율
+率	qiul	율
+矞	qiul	율
+慄	qiul	율
+潏	qiul	율
+戎	qiung	융
+狨	qiung	융
+隆	qiung	융
+絨	qiung	융
+融	qiung	융
+瀜	qiung	융
+听	qyn	은
+垠	qyn	은
+圁	qyn	은
+垽	qyn	은
+恩	qyn	은
+殷	qyn	은
+狺	qyn	은
+珢	qyn	은
+訔	qyn	은
+溵	qyn	은
+鄞	qyn	은
+慇	qyn	은
+銀	qyn	은
+誾	qyn	은
+憖	qyn	은
+隱	qyn	은
+嚚	qyn	은
+檼	qyn	은
+齗	qyn	은
+癮	qyn	은
+乙	qyl	을
+鳦	qyl	을
+吟	qym	음
+音	qym	음
+陰	qym	음
+崟	qym	음
+淫	qym	음
+喑	qym	음
+愔	qym	음
+廕	qym	음
+蔭	qym	음
+飮	qym	음
+霪	qym	음
+邑	qyb	읍
+泣	qyb	읍
+悒	qyb	읍
+挹	qyb	읍
+浥	qyb	읍
+揖	qyb	읍
+凝	qyng	응
+應	qyng	응
+膺	qyng	응
+鷹	qyng	응
+衣	qyi	의
+矣	qyi	의
+依	qyi	의
+宜	qyi	의
+倚	qyi	의
+猗	qyi	의
+凒	qyi	의
+椅	qyi	의
+欹	qyi	의
+意	qyi	의
+義	qyi	의
+漪	qyi	의
+疑	qyi	의
+儀	qyi	의
+毅	qyi	의
+誼	qyi	의
+儗	qyi	의
+劓	qyi	의
+薏	qyi	의
+螘	qyi	의
+嶷	qyi	의
+擬	qyi	의
+礒	qyi	의
+醫	qyi	의
+艤	qyi	의
+蟻	qyi	의
+議	qyi	의
+饐	qyi	의
+懿	qyi	의
+二	qi	이
+兒	qi	이
+已	qi	이
+以	qi	이
+尔	qi	이
+伊	qi	이
+夷	qi	이
+弛	qi	이
+而	qi	이
+耳	qi	이
+吏	qi	이
+苡	qi	이
+利	qi	이
+李	qi	이
+里	qi	이
+坨	qi	이
+怡	qi	이
+迤	qi	이
+隶	qi	이
+易	qi	이
+泥	qi	이
+咿	qi	이
+姨	qi	이
+洟	qi	이
+珆	qi	이
+荑	qi	이
+栮	qi	이
+珥	qi	이
+訑	qi	이
+痍	qi	이
+移	qi	이
+梨	qi	이
+理	qi	이
+詑	qi	이
+貳	qi	이
+貽	qi	이
+異	qi	이
+痢	qi	이
+裡	qi	이
+肄	qi	이
+飴	qi	이
+裏	qi	이
+爾	qi	이
+餌	qi	이
+履	qi	이
+彛	qi	이
+罹	qi	이
+邇	qi	이
+彝	qi	이
+離	qi	이
+弋	qig	익
+益	qig	익
+翊	qig	익
+翌	qig	익
+匿	qig	익
+溺	qig	익
+熤	qig	익
+翼	qig	익
+謚	qig	익
+瀷	qig	익
+鷁	qig	익
+人	qin	인
+刃	qin	인
+仁	qin	인
+引	qin	인
+仞	qin	인
+印	qin	인
+因	qin	인
+扨	qin	인
+忍	qin	인
+芢	qin	인
+吝	qin	인
+姻	qin	인
+洇	qin	인
+籾	qin	인
+茵	qin	인
+咽	qin	인
+氤	qin	인
+蚓	qin	인
+寅	qin	인
+裀	qin	인
+堙	qin	인
+婣	qin	인
+湮	qin	인
+絪	qin	인
+靭	qin	인
+禋	qin	인
+靷	qin	인
+夤	qin	인
+認	qin	인
+隣	qin	인
+燐	qin	인
+璘	qin	인
+藺	qin	인
+鱗	qin	인
+麟	qin	인
+一	qil	일
+日	qil	일
+佚	qil	일
+佾	qil	일
+泆	qil	일
+逸	qil	일
+壹	qil	일
+軼	qil	일
+溢	qil	일
+馹	qil	일
+鎰	qil	일
+壬	qim	임
+任	qim	임
+妊	qim	임
+林	qim	임
+姙	qim	임
+荏	qim	임
+衽	qim	임
+恁	qim	임
+淋	qim	임
+絍	qim	임
+飪	qim	임
+媵	qim	임
+稔	qim	임
+賃	qim	임
+銋	qim	임
+臨	qim	임
+入	qib	입
+卄	qib	입
+廿	qib	입
+立	qib	입
+笠	qib	입
+粒	qib	입
+仍	qing	잉
+孕	qing	잉
+芿	qing	잉
+剩	qing	잉
+子	ja	자
+仔	ja	자
+孖	ja	자
+字	ja	자
+自	ja	자
+姉	ja	자
+孜	ja	자
+者	ja	자
+炙	ja	자
+刺	ja	자
+呰	ja	자
+咨	ja	자
+姿	ja	자
+柘	ja	자
+泚	ja	자
+耔	ja	자
+茈	ja	자
+茨	ja	자
+茲	ja	자
+虸	ja	자
+恣	ja	자
+牸	ja	자
+玆	ja	자
+瓷	ja	자
+疵	ja	자
+眥	ja	자
+眦	ja	자
+莿	ja	자
+孶	ja	자
+滋	ja	자
+煮	ja	자
+粢	ja	자
+紫	ja	자
+胾	ja	자
+慈	ja	자
+觜	ja	자
+訾	ja	자
+貲	ja	자
+資	ja	자
+磁	ja	자
+蔗	ja	자
+雌	ja	자
+赭	ja	자
+嬨	ja	자
+諮	ja	자
+髭	ja	자
+鮓	ja	자
+藉	ja	자
+鎡	ja	자
+頿	ja	자
+鶿	ja	자
+鷓	ja	자
+勺	jag	작
+汋	jag	작
+犳	jag	작
+芍	jag	작
+作	jag	작
+灼	jag	작
+岝	jag	작
+怍	jag	작
+斫	jag	작
+昨	jag	작
+柞	jag	작
+炸	jag	작
+酌	jag	작
+雀	jag	작
+斱	jag	작
+焯	jag	작
+碏	jag	작
+綽	jag	작
+爵	jag	작
+鵲	jag	작
+嚼	jag	작
+戔	jan	잔
+剗	jan	잔
+孱	jan	잔
+棧	jan	잔
+殘	jan	잔
+盞	jan	잔
+潺	jan	잔
+驏	jan	잔
+岑	jam	잠
+涔	jam	잠
+暫	jam	잠
+潛	jam	잠
+潜	jam	잠
+箴	jam	잠
+簪	jam	잠
+濳	jam	잠
+蠶	jam	잠
+卡	jab	잡
+眨	jab	잡
+磼	jab	잡
+襍	jab	잡
+雜	jab	잡
+囃	jab	잡
+丈	jang	장
+仗	jang	장
+匠	jang	장
+庄	jang	장
+壯	jang	장
+妝	jang	장
+杖	jang	장
+戕	jang	장
+長	jang	장
+狀	jang	장
+奘	jang	장
+牂	jang	장
+羘	jang	장
+莊	jang	장
+將	jang	장
+帳	jang	장
+張	jang	장
+章	jang	장
+萇	jang	장
+場	jang	장
+掌	jang	장
+粧	jang	장
+葬	jang	장
+装	jang	장
+傽	jang	장
+腸	jang	장
+裝	jang	장
+鄣	jang	장
+障	jang	장
+奬	jang	장
+嶂	jang	장
+漳	jang	장
+獐	jang	장
+臧	jang	장
+蔣	jang	장
+暲	jang	장
+樟	jang	장
+漿	jang	장
+璋	jang	장
+賬	jang	장
+墻	jang	장
+嬙	jang	장
+廧	jang	장
+瘴	jang	장
+糚	jang	장
+薔	jang	장
+餦	jang	장
+檣	jang	장
+牆	jang	장
+藏	jang	장
+醬	jang	장
+鏘	jang	장
+欌	jang	장
+臟	jang	장
+贓	jang	장
+麞	jang	장
+才	jai	재
+再	jai	재
+在	jai	재
+扗	jai	재
+材	jai	재
+災	jai	재
+灾	jai	재
+哉	jai	재
+夈	jai	재
+宰	jai	재
+栽	jai	재
+財	jai	재
+梓	jai	재
+崽	jai	재
+渽	jai	재
+裁	jai	재
+滓	jai	재
+載	jai	재
+榟	jai	재
+縡	jai	재
+齋	jai	재
+齎	jai	재
+纔	jai	재
+爭	jaing	쟁
+琤	jaing	쟁
+崢	jaing	쟁
+猙	jaing	쟁
+諍	jaing	쟁
+箏	jaing	쟁
+錚	jaing	쟁
+鎗	jaing	쟁
+宁	je	저
+氐	je	저
+佇	je	저
+低	je	저
+邸	je	저
+咀	je	저
+姐	je	저
+岨	je	저
+底	je	저
+抵	je	저
+杵	je	저
+杼	je	저
+沮	je	저
+狙	je	저
+苧	je	저
+苴	je	저
+柢	je	저
+牴	je	저
+疽	je	저
+罝	je	저
+袛	je	저
+這	je	저
+陼	je	저
+渚	je	저
+猪	je	저
+紵	je	저
+羝	je	저
+菹	je	저
+著	je	저
+蛆	je	저
+楮	je	저
+觝	je	저
+詆	je	저
+詛	je	저
+貯	je	저
+褚	je	저
+雎	je	저
+潴	je	저
+箸	je	저
+樗	je	저
+豬	je	저
+儲	je	저
+瀦	je	저
+藷	je	저
+躇	je	저
+齟	je	저
+吊	jeg	적
+狄	jeg	적
+赤	jeg	적
+的	jeg	적
+迪	jeg	적
+炙	jeg	적
+迹	jeg	적
+荻	jeg	적
+逖	jeg	적
+寂	jeg	적
+笛	jeg	적
+菂	jeg	적
+勣	jeg	적
+賊	jeg	적
+跡	jeg	적
+馰	jeg	적
+嫡	jeg	적
+摘	jeg	적
+滴	jeg	적
+翟	jeg	적
+適	jeg	적
+敵	jeg	적
+樀	jeg	적
+磧	jeg	적
+積	jeg	적
+績	jeg	적
+謫	jeg	적
+蹟	jeg	적
+鏑	jeg	적
+籍	jeg	적
+糴	jeg	적
+覿	jeg	적
+田	jen	전
+全	jen	전
+佃	jen	전
+吮	jen	전
+甸	jen	전
+佺	jen	전
+典	jen	전
+屇	jen	전
+前	jen	전
+畋	jen	전
+畑	jen	전
+荃	jen	전
+展	jen	전
+悛	jen	전
+旃	jen	전
+栓	jen	전
+栴	jen	전
+畠	jen	전
+剪	jen	전
+專	jen	전
+痊	jen	전
+飦	jen	전
+奠	jen	전
+揃	jen	전
+湔	jen	전
+牋	jen	전
+琠	jen	전
+筌	jen	전
+腆	jen	전
+傳	jen	전
+塡	jen	전
+殿	jen	전
+煎	jen	전
+詮	jen	전
+輇	jen	전
+鈿	jen	전
+電	jen	전
+塼	jen	전
+嫥	jen	전
+戩	jen	전
+槇	jen	전
+瑱	jen	전
+箋	jen	전
+銓	jen	전
+廛	jen	전
+甎	jen	전
+箭	jen	전
+篆	jen	전
+翦	jen	전
+膞	jen	전
+鋑	jen	전
+戰	jen	전
+澱	jen	전
+澶	jen	전
+磚	jen	전
+邅	jen	전
+錢	jen	전
+錪	jen	전
+靛	jen	전
+靦	jen	전
+餞	jen	전
+氈	jen	전
+輾	jen	전
+鄽	jen	전
+餰	jen	전
+癜	jen	전
+轉	jen	전
+顓	jen	전
+羶	jen	전
+顚	jen	전
+鬋	jen	전
+鐫	jen	전
+囀	jen	전
+纏	jen	전
+巓	jen	전
+籛	jen	전
+躔	jen	전
+顫	jen	전
+癲	jen	전
+鱣	jen	전
+鸇	jen	전
+切	jel	절
+岊	jel	절
+折	jel	절
+窃	jel	절
+浙	jel	절
+晢	jel	절
+絶	jel	절
+節	jel	절
+截	jel	절
+癤	jel	절
+竊	jel	절
+占	jem	점
+佔	jem	점
+岾	jem	점
+店	jem	점
+苫	jem	점
+点	jem	점
+玷	jem	점
+笘	jem	점
+粘	jem	점
+蛅	jem	점
+覘	jem	점
+墊	jem	점
+漸	jem	점
+蔪	jem	점
+颭	jem	점
+霑	jem	점
+鮎	jem	점
+黏	jem	점
+點	jem	점
+簟	jem	점
+接	jeb	접
+椄	jeb	접
+跕	jeb	접
+楪	jeb	접
+摺	jeb	접
+蜨	jeb	접
+蝶	jeb	접
+蹀	jeb	접
+鰈	jeb	접
+丁	jeng	정
+井	jeng	정
+叮	jeng	정
+正	jeng	정
+汀	jeng	정
+廷	jeng	정
+灯	jeng	정
+玎	jeng	정
+佂	jeng	정
+呈	jeng	정
+町	jeng	정
+疔	jeng	정
+姃	jeng	정
+定	jeng	정
+征	jeng	정
+怔	jeng	정
+亭	jeng	정
+庭	jeng	정
+挺	jeng	정
+政	jeng	정
+柾	jeng	정
+炡	jeng	정
+穽	jeng	정
+莛	jeng	정
+訂	jeng	정
+貞	jeng	정
+酊	jeng	정
+梃	jeng	정
+珽	jeng	정
+釘	jeng	정
+停	jeng	정
+偵	jeng	정
+婧	jeng	정
+情	jeng	정
+掟	jeng	정
+旌	jeng	정
+桯	jeng	정
+淀	jeng	정
+淨	jeng	정
+珵	jeng	정
+頂	jeng	정
+婷	jeng	정
+幀	jeng	정
+晶	jeng	정
+棖	jeng	정
+渟	jeng	정
+湞	jeng	정
+程	jeng	정
+筳	jeng	정
+綎	jeng	정
+艇	jeng	정
+証	jeng	정
+遉	jeng	정
+鼎	jeng	정
+晸	jeng	정
+楨	jeng	정
+睛	jeng	정
+碇	jeng	정
+禎	jeng	정
+鉦	jeng	정
+靖	jeng	정
+鄭	jeng	정
+酲	jeng	정
+鋌	jeng	정
+霆	jeng	정
+精	jeng	정
+鋥	jeng	정
+靚	jeng	정
+整	jeng	정
+諪	jeng	정
+錠	jeng	정
+靜	jeng	정
+檉	jeng	정
+瀞	jeng	정
+弟	jei	제
+制	jei	제
+帝	jei	제
+除	jei	제
+娣	jei	제
+悌	jei	제
+梯	jei	제
+猘	jei	제
+祭	jei	제
+第	jei	제
+隄	jei	제
+啼	jei	제
+堤	jei	제
+提	jei	제
+睇	jei	제
+稊	jei	제
+瑅	jei	제
+禔	jei	제
+際	jei	제
+製	jei	제
+齊	jei	제
+緹	jei	제
+儕	jei	제
+劑	jei	제
+踶	jei	제
+蹄	jei	제
+醍	jei	제
+諸	jei	제
+擠	jei	제
+濟	jei	제
+薺	jei	제
+蹏	jei	제
+鍗	jei	제
+鮧	jei	제
+臍	jei	제
+題	jei	제
+韲	jei	제
+鯷	jei	제
+躋	jei	제
+霽	jei	제
+刁	jo	조
+弔	jo	조
+爪	jo	조
+兆	jo	조
+早	jo	조
+助	jo	조
+找	jo	조
+皁	jo	조
+走	jo	조
+阻	jo	조
+佻	jo	조
+徂	jo	조
+俎	jo	조
+殂	jo	조
+祖	jo	조
+祚	jo	조
+胙	jo	조
+蚤	jo	조
+凋	jo	조
+厝	jo	조
+晁	jo	조
+曺	jo	조
+條	jo	조
+祧	jo	조
+租	jo	조
+笊	jo	조
+造	jo	조
+彫	jo	조
+措	jo	조
+曹	jo	조
+眺	jo	조
+窕	jo	조
+粗	jo	조
+組	jo	조
+釣	jo	조
+鳥	jo	조
+朝	jo	조
+棗	jo	조
+琱	jo	조
+絛	jo	조
+絩	jo	조
+詔	jo	조
+鈟	jo	조
+傮	jo	조
+照	jo	조
+稠	jo	조
+誂	jo	조
+嘈	jo	조
+漕	jo	조
+肇	jo	조
+蔦	jo	조
+蜩	jo	조
+趙	jo	조
+遭	jo	조
+銚	jo	조
+嘲	jo	조
+槽	jo	조
+潮	jo	조
+調	jo	조
+噪	jo	조
+懆	jo	조
+操	jo	조
+澡	jo	조
+糙	jo	조
+鋽	jo	조
+雕	jo	조
+嬥	jo	조
+燥	jo	조
+璪	jo	조
+糟	jo	조
+臊	jo	조
+艚	jo	조
+鼂	jo	조
+繰	jo	조
+藻	jo	조
+鯛	jo	조
+鵰	jo	조
+譟	jo	조
+躁	jo	조
+竈	jo	조
+糶	jo	조
+足	jog	족
+族	jog	족
+瘯	jog	족
+簇	jog	족
+鏃	jog	족
+存	jon	존
+拵	jon	존
+尊	jon	존
+卒	jol	졸
+拙	jol	졸
+猝	jol	졸
+伀	jong	종
+宗	jong	종
+柊	jong	종
+倧	jong	종
+從	jong	종
+悰	jong	종
+淙	jong	종
+終	jong	종
+棕	jong	종
+琮	jong	종
+椶	jong	종
+腫	jong	종
+慒	jong	종
+瘇	jong	종
+種	jong	종
+粽	jong	종
+綜	jong	종
+慫	jong	종
+樅	jong	종
+瑽	jong	종
+踪	jong	종
+踵	jong	종
+縱	jong	종
+螽	jong	종
+鍾	jong	종
+蹤	jong	종
+鐘	jong	종
+左	joa	좌
+佐	joa	좌
+坐	joa	좌
+剉	joa	좌
+座	joa	좌
+挫	joa	좌
+莝	joa	좌
+痤	joa	좌
+髽	joa	좌
+罪	joi	죄
+主	ju	주
+丟	ju	주
+州	ju	주
+朱	ju	주
+舟	ju	주
+住	ju	주
+肘	ju	주
+侏	ju	주
+侜	ju	주
+周	ju	주
+呪	ju	주
+宙	ju	주
+拄	ju	주
+注	ju	주
+奏	ju	주
+姝	ju	주
+柱	ju	주
+洲	ju	주
+炷	ju	주
+紂	ju	주
+胄	ju	주
+株	ju	주
+珠	ju	주
+酎	ju	주
+酒	ju	주
+做	ju	주
+晝	ju	주
+硃	ju	주
+紬	ju	주
+蛀	ju	주
+週	ju	주
+尌	ju	주
+湊	ju	주
+蛛	ju	주
+註	ju	주
+詋	ju	주
+遒	ju	주
+腠	ju	주
+裯	ju	주
+誅	ju	주
+趎	ju	주
+輈	ju	주
+鉒	ju	주
+嗾	ju	주
+綢	ju	주
+蔟	ju	주
+廚	ju	주
+澍	ju	주
+賙	ju	주
+駐	ju	주
+儔	ju	주
+輳	ju	주
+霌	ju	주
+霔	ju	주
+幬	ju	주
+疇	ju	주
+鼄	ju	주
+籌	ju	주
+籒	ju	주
+躊	ju	주
+鑄	ju	주
+竹	jug	죽
+粥	jug	죽
+茁	jun	준
+俊	jun	준
+准	jun	준
+埈	jun	준
+峻	jun	준
+浚	jun	준
+逡	jun	준
+隼	jun	준
+埻	jun	준
+晙	jun	준
+焌	jun	준
+畯	jun	준
+皴	jun	준
+竣	jun	준
+雋	jun	준
+惷	jun	준
+準	jun	준
+儁	jun	준
+綧	jun	준
+踆	jun	준
+噂	jun	준
+墫	jun	준
+寯	jun	준
+撙	jun	준
+遵	jun	준
+餕	jun	준
+樽	jun	준
+濬	jun	준
+駿	jun	준
+罇	jun	준
+鵔	jun	준
+蹲	jun	준
+鐏	jun	준
+蠢	jun	준
+鱒	jun	준
+乼	jul	줄
+中	jung	중
+仲	jung	중
+重	jung	중
+眾	jung	중
+衆	jung	중
+即	jyg	즉
+卽	jyg	즉
+喞	jyg	즉
+櫛	jyl	즐
+騭	jyl	즐
+汁	jyb	즙
+葺	jyb	즙
+楫	jyb	즙
+蕺	jyb	즙
+檝	jyb	즙
+拯	jyng	증
+烝	jyng	증
+症	jyng	증
+曾	jyng	증
+蒸	jyng	증
+增	jyng	증
+嶒	jyng	증
+憎	jyng	증
+甑	jyng	증
+矰	jyng	증
+罾	jyng	증
+繒	jyng	증
+證	jyng	증
+贈	jyng	증
+之	ji	지
+支	ji	지
+止	ji	지
+只	ji	지
+地	ji	지
+旨	ji	지
+池	ji	지
+至	ji	지
+芝	ji	지
+阯	ji	지
+址	ji	지
+志	ji	지
+扺	ji	지
+沚	ji	지
+芷	ji	지
+坻	ji	지
+枝	ji	지
+泜	ji	지
+知	ji	지
+祉	ji	지
+肢	ji	지
+咫	ji	지
+持	ji	지
+指	ji	지
+枳	ji	지
+祗	ji	지
+砥	ji	지
+秪	ji	지
+紙	ji	지
+脂	ji	지
+舐	ji	지
+趾	ji	지
+智	ji	지
+痣	ji	지
+軹	ji	지
+榰	ji	지
+漬	ji	지
+蜘	ji	지
+誌	ji	지
+墀	ji	지
+摯	ji	지
+踟	ji	지
+遲	ji	지
+篪	ji	지
+鮨	ji	지
+贄	ji	지
+識	ji	지
+躓	ji	지
+鷙	ji	지
+直	jig	직
+稙	jig	직
+禝	jig	직
+稷	jig	직
+織	jig	직
+職	jig	직
+辰	jin	진
+侲	jin	진
+殄	jin	진
+津	jin	진
+珍	jin	진
+陣	jin	진
+唇	jin	진
+振	jin	진
+晉	jin	진
+晋	jin	진
+珒	jin	진
+畛	jin	진
+疹	jin	진
+眞	jin	진
+秦	jin	진
+袗	jin	진
+陳	jin	진
+桭	jin	진
+進	jin	진
+診	jin	진
+趁	jin	진
+軫	jin	진
+嗔	jin	진
+搢	jin	진
+溱	jin	진
+蓁	jin	진
+蔯	jin	진
+鉁	jin	진
+塵	jin	진
+榛	jin	진
+瑨	jin	진
+盡	jin	진
+賑	jin	진
+璡	jin	진
+瞋	jin	진
+稹	jin	진
+震	jin	진
+儘	jin	진
+縉	jin	진
+縝	jin	진
+臻	jin	진
+螴	jin	진
+鎭	jin	진
+鬒	jin	진
+叱	jil	질
+侄	jil	질
+帙	jil	질
+迭	jil	질
+郅	jil	질
+垤	jil	질
+姪	jil	질
+桎	jil	질
+疾	jil	질
+秩	jil	질
+窒	jil	질
+絰	jil	질
+蛭	jil	질
+跌	jil	질
+嫉	jil	질
+蒺	jil	질
+膣	jil	질
+質	jil	질
+瓆	jil	질
+鑕	jil	질
+朕	jim	짐
+斟	jim	짐
+鴆	jim	짐
+什	jib	집
+咠	jib	집
+執	jib	집
+戢	jib	집
+集	jib	집
+潗	jib	집
+緝	jib	집
+輯	jib	집
+鏶	jib	집
+徵	jing	징
+澂	jing	징
+澄	jing	징
+瞪	jing	징
+瀓	jing	징
+懲	jing	징
+癥	jing	징
+叉	ca	차
+且	ca	차
+次	ca	차
+此	ca	차
+岔	ca	차
+車	ca	차
+佽	ca	차
+侘	ca	차
+奓	ca	차
+差	ca	차
+茶	ca	차
+借	ca	차
+偖	ca	차
+徣	ca	차
+嗟	ca	차
+嵯	ca	차
+硨	ca	차
+槎	ca	차
+瑳	ca	차
+磋	ca	차
+箚	ca	차
+遮	ca	차
+蹉	ca	차
+捉	cag	착
+窄	cag	착
+着	cag	착
+搾	cag	착
+斲	cag	착
+擉	cag	착
+錯	cag	착
+戳	cag	착
+齪	cag	착
+鑿	cag	착
+粲	can	찬
+撰	can	찬
+澯	can	찬
+餐	can	찬
+儧	can	찬
+燦	can	찬
+璨	can	찬
+簒	can	찬
+竄	can	찬
+贊	can	찬
+纂	can	찬
+饌	can	찬
+儹	can	찬
+劗	can	찬
+巑	can	찬
+攢	can	찬
+欑	can	찬
+瓚	can	찬
+纘	can	찬
+讚	can	찬
+趲	can	찬
+鑽	can	찬
+爨	can	찬
+扎	cal	찰
+札	cal	찰
+刹	cal	찰
+拶	cal	찰
+紮	cal	찰
+察	cal	찰
+擦	cal	찰
+站	cam	참
+斬	cam	참
+參	cam	참
+叅	cam	참
+僭	cam	참
+塹	cam	참
+嶄	cam	참
+慘	cam	참
+慚	cam	참
+慙	cam	참
+憯	cam	참
+槧	cam	참
+毚	cam	참
+儳	cam	참
+譖	cam	참
+鏨	cam	참
+巉	cam	참
+懺	cam	참
+攙	cam	참
+欃	cam	참
+驂	cam	참
+黲	cam	참
+讒	cam	참
+讖	cam	참
+鑱	cam	참
+饞	cam	참
+刱	cang	창
+昌	cang	창
+昶	cang	창
+倀	cang	창
+倉	cang	창
+倡	cang	창
+鬯	cang	창
+唱	cang	창
+娼	cang	창
+悵	cang	창
+惝	cang	창
+猖	cang	창
+窓	cang	창
+菖	cang	창
+傖	cang	창
+凔	cang	창
+創	cang	창
+敞	cang	창
+椙	cang	창
+窗	cang	창
+脹	cang	창
+愴	cang	창
+搶	cang	창
+滄	cang	창
+蒼	cang	창
+彰	cang	창
+戧	cang	창
+暢	cang	창
+槍	cang	창
+漲	cang	창
+瑲	cang	창
+廠	cang	창
+瘡	cang	창
+氅	cang	창
+窻	cang	창
+艙	cang	창
+鋹	cang	창
+錆	cang	창
+閶	cang	창
+蹌	cang	창
+鶬	cang	창
+采	cai	채
+茝	cai	채
+埰	cai	채
+寀	cai	채
+彩	cai	채
+採	cai	채
+砦	cai	채
+菜	cai	채
+責	cai	채
+釵	cai	채
+棌	cai	채
+債	cai	채
+寨	cai	채
+綵	cai	채
+蔡	cai	채
+冊	caig	책
+柵	caig	책
+笧	caig	책
+蚱	caig	책
+責	caig	책
+策	caig	책
+嘖	caig	책
+幘	caig	책
+磔	caig	책
+簀	caig	책
+妻	ce	처
+凄	ce	처
+郪	ce	처
+悽	ce	처
+淒	ce	처
+萋	ce	처
+處	ce	처
+褄	ce	처
+覷	ce	처
+尺	ceng	척
+斥	ceng	척
+呎	ceng	척
+坧	ceng	척
+刺	ceng	척
+拓	ceng	척
+陟	ceng	척
+倜	ceng	척
+剔	ceng	척
+捗	ceng	척
+脊	ceng	척
+隻	ceng	척
+惕	ceng	척
+戚	ceng	척
+跖	ceng	척
+塉	ceng	척
+滌	ceng	척
+慽	ceng	척
+摭	ceng	척
+蜴	ceng	척
+瘠	ceng	척
+擲	ceng	척
+蹠	ceng	척
+躑	ceng	척
+千	cen	천
+川	cen	천
+天	cen	천
+仟	cen	천
+阡	cen	천
+舛	cen	천
+芊	cen	천
+辿	cen	천
+玔	cen	천
+瓩	cen	천
+祆	cen	천
+泉	cen	천
+洊	cen	천
+穿	cen	천
+粁	cen	천
+茜	cen	천
+荐	cen	천
+俴	cen	천
+倩	cen	천
+蚕	cen	천
+淺	cen	천
+釧	cen	천
+喘	cen	천
+臶	cen	천
+蒨	cen	천
+僢	cen	천
+儃	cen	천
+蕆	cen	천
+賤	cen	천
+踐	cen	천
+遷	cen	천
+擅	cen	천
+薦	cen	천
+濺	cen	천
+靝	cen	천
+闡	cen	천
+韆	cen	천
+凸	cel	철
+剟	cel	철
+哲	cel	철
+埑	cel	철
+啜	cel	철
+惙	cel	철
+掇	cel	철
+喆	cel	철
+飻	cel	철
+綴	cel	철
+銕	cel	철
+徹	cel	철
+撤	cel	철
+澈	cel	철
+輟	cel	철
+錣	cel	철
+餮	cel	철
+歠	cel	철
+轍	cel	철
+鐵	cel	철
+尖	cem	첨
+忝	cem	첨
+沾	cem	첨
+添	cem	첨
+甛	cem	첨
+惉	cem	첨
+僉	cem	첨
+詹	cem	첨
+諂	cem	첨
+幨	cem	첨
+檐	cem	첨
+瞻	cem	첨
+襜	cem	첨
+簷	cem	첨
+簽	cem	첨
+瀸	cem	첨
+櫼	cem	첨
+籤	cem	첨
+呫	ceb	첩
+妾	ceb	첩
+帖	ceb	첩
+怗	ceb	첩
+倢	ceb	첩
+捷	ceb	첩
+喋	ceb	첩
+堞	ceb	첩
+貼	ceb	첩
+牒	ceb	첩
+睫	ceb	첩
+輒	ceb	첩
+諜	ceb	첩
+褺	ceb	첩
+疊	ceb	첩
+靑	ceng	청
+凊	ceng	청
+圊	ceng	청
+淸	ceng	청
+菁	ceng	청
+晴	ceng	청
+蜻	ceng	청
+請	ceng	청
+鯖	ceng	청
+鶄	ceng	청
+聽	ceng	청
+廳	ceng	청
+切	cei	체
+剃	cei	체
+砌	cei	체
+涕	cei	체
+逮	cei	체
+彘	cei	체
+替	cei	체
+棣	cei	체
+蒂	cei	체
+遞	cei	체
+滯	cei	체
+蔕	cei	체
+殢	cei	체
+締	cei	체
+蕞	cei	체
+髰	cei	체
+諦	cei	체
+嚏	cei	체
+軆	cei	체
+體	cei	체
+靆	cei	체
+艸	co	초
+初	co	초
+劭	co	초
+抄	co	초
+肖	co	초
+岧	co	초
+怊	co	초
+招	co	초
+杪	co	초
+炒	co	초
+苕	co	초
+迢	co	초
+秒	co	초
+草	co	초
+哨	co	초
+峭	co	초
+悄	co	초
+耖	co	초
+偢	co	초
+梢	co	초
+愀	co	초
+椒	co	초
+焦	co	초
+硝	co	초
+稍	co	초
+貂	co	초
+超	co	초
+軺	co	초
+酢	co	초
+鈔	co	초
+剿	co	초
+勦	co	초
+楚	co	초
+綃	co	초
+僬	co	초
+誚	co	초
+噍	co	초
+嫶	co	초
+嶕	co	초
+憔	co	초
+蕉	co	초
+趠	co	초
+醋	co	초
+髫	co	초
+樵	co	초
+燋	co	초
+鞘	co	초
+礁	co	초
+鍫	co	초
+鍬	co	초
+礎	co	초
+譙	co	초
+醮	co	초
+齠	co	초
+顦	co	초
+鷦	co	초
+促	cog	촉
+蜀	cog	촉
+薥	cog	촉
+燭	cog	촉
+觸	cog	촉
+躅	cog	촉
+髑	cog	촉
+囑	cog	촉
+矗	cog	촉
+曯	cog	촉
+爥	cog	촉
+矚	cog	촉
+寸	con	촌
+吋	con	촌
+忖	con	촌
+邨	con	촌
+村	con	촌
+悤	cong	총
+葱	cong	총
+塚	cong	총
+憁	cong	총
+摠	cong	총
+蓯	cong	총
+蔥	cong	총
+銃	cong	총
+總	cong	총
+聰	cong	총
+叢	cong	총
+寵	cong	총
+鏦	cong	총
+騘	cong	총
+驄	cong	총
+撮	coal	촬
+崔	coi	최
+脧	coi	최
+最	coi	최
+催	coi	최
+摧	coi	최
+榱	coi	최
+漼	coi	최
+嘬	coi	최
+璀	coi	최
+磪	coi	최
+縗	coi	최
+帚	cu	추
+抽	cu	추
+隹	cu	추
+秋	cu	추
+追	cu	추
+酋	cu	추
+芻	cu	추
+陬	cu	추
+娵	cu	추
+惆	cu	추
+捶	cu	추
+推	cu	추
+啾	cu	추
+搥	cu	추
+椎	cu	추
+湫	cu	추
+萩	cu	추
+鄒	cu	추
+揫	cu	추
+楸	cu	추
+甃	cu	추
+蒭	cu	추
+僦	cu	추
+墜	cu	추
+箒	cu	추
+箠	cu	추
+樞	cu	추
+皺	cu	추
+縋	cu	추
+諏	cu	추
+麄	cu	추
+瘳	cu	추
+簉	cu	추
+縐	cu	추
+醜	cu	추
+錐	cu	추
+錘	cu	추
+趨	cu	추
+鎚	cu	추
+魋	cu	추
+雛	cu	추
+鞦	cu	추
+騅	cu	추
+鵻	cu	추
+騶	cu	추
+鰌	cu	추
+鰍	cu	추
+鶖	cu	추
+鶵	cu	추
+龝	cu	추
+麤	cu	추
+丑	cug	축
+妯	cug	축
+竺	cug	축
+豖	cug	축
+祝	cug	축
+畜	cug	축
+逐	cug	축
+舳	cug	축
+筑	cug	축
+軸	cug	축
+蓄	cug	축
+築	cug	축
+縮	cug	축
+蹙	cug	축
+蹜	cug	축
+鼀	cug	축
+蹴	cug	축
+春	cun	춘
+椿	cun	춘
+瑃	cun	춘
+出	cul	출
+朮	cul	출
+秫	cul	출
+黜	cul	출
+充	cung	충
+冲	cung	충
+忡	cung	충
+沖	cung	충
+忠	cung	충
+珫	cung	충
+衷	cung	충
+衝	cung	충
+蟲	cung	충
+疩	cuei	췌
+悴	cuei	췌
+萃	cuei	췌
+惴	cuei	췌
+揣	cuei	췌
+瘁	cuei	췌
+膵	cuei	췌
+贅	cuei	췌
+顇	cuei	췌
+吹	cui	취
+取	cui	취
+炊	cui	취
+冣	cui	취
+脆	cui	취
+臭	cui	취
+娶	cui	취
+就	cui	취
+毳	cui	취
+翠	cui	취
+聚	cui	취
+趣	cui	취
+醉	cui	취
+嘴	cui	취
+橇	cui	취
+鷲	cui	취
+驟	cui	취
+仄	cyg	측
+昃	cyg	측
+側	cyg	측
+厠	cyg	측
+廁	cyg	측
+惻	cyg	측
+測	cyg	측
+層	cyng	층
+卮	ci	치
+阤	ci	치
+巵	ci	치
+豸	ci	치
+侈	ci	치
+治	ci	치
+哆	ci	치
+峙	ci	치
+値	ci	치
+恥	ci	치
+致	ci	치
+蚩	ci	치
+梔	ci	치
+淄	ci	치
+畤	ci	치
+痓	ci	치
+痔	ci	치
+菑	ci	치
+嗤	ci	치
+寘	ci	치
+痴	ci	치
+稚	ci	치
+絺	ci	치
+置	ci	치
+跱	ci	치
+雉	ci	치
+馳	ci	치
+緇	ci	치
+幟	ci	치
+褫	ci	치
+輜	ci	치
+齒	ci	치
+熾	ci	치
+緻	ci	치
+薙	ci	치
+錙	ci	치
+鴙	ci	치
+鴟	ci	치
+穉	ci	치
+鵄	ci	치
+癡	ci	치
+鯔	ci	치
+則	cig	칙
+勅	cig	칙
+敕	cig	칙
+飭	cig	칙
+親	cin	친
+齔	cin	친
+藽	cin	친
+櫬	cin	친
+襯	cin	친
+七	cil	칠
+柒	cil	칠
+漆	cil	칠
+忱	cim	침
+沉	cim	침
+沈	cim	침
+枕	cim	침
+侵	cim	침
+浸	cim	침
+砧	cim	침
+郴	cim	침
+針	cim	침
+琛	cim	침
+寖	cim	침
+椹	cim	침
+寢	cim	침
+鋟	cim	침
+鍼	cim	침
+駸	cim	침
+蟄	cib	칩
+夬	cing	칭
+秤	cing	칭
+稱	cing	칭
+噲	cing	칭
+快	koai	쾌
+他	ta	타
+打	ta	타
+朶	ta	타
+佗	ta	타
+妥	ta	타
+陀	ta	타
+拕	ta	타
+拖	ta	타
+沱	ta	타
+咤	ta	타
+垞	ta	타
+柁	ta	타
+唾	ta	타
+舵	ta	타
+惰	ta	타
+跎	ta	타
+楕	ta	타
+詫	ta	타
+躱	ta	타
+馱	ta	타
+墮	ta	타
+橢	ta	타
+駝	ta	타
+駞	ta	타
+鮀	ta	타
+鴕	ta	타
+鼉	ta	타
+托	tag	탁
+卓	tag	탁
+坼	tag	탁
+拆	tag	탁
+沰	tag	탁
+矺	tag	탁
+拓	tag	탁
+柝	tag	탁
+度	tag	탁
+倬	tag	탁
+託	tag	탁
+啄	tag	탁
+涿	tag	탁
+逴	tag	탁
+晫	tag	탁
+琢	tag	탁
+琸	tag	탁
+踔	tag	탁
+橐	tag	탁
+濁	tag	탁
+擢	tag	탁
+濯	tag	탁
+蘀	tag	탁
+鐸	tag	탁
+籜	tag	탁
+呑	tan	탄
+坦	tan	탄
+炭	tan	탄
+誕	tan	탄
+嘆	tan	탄
+綻	tan	탄
+彈	tan	탄
+憚	tan	탄
+歎	tan	탄
+憻	tan	탄
+殫	tan	탄
+攤	tan	탄
+灘	tan	탄
+驒	tan	탄
+癱	tan	탄
+侻	tal	탈
+脫	tal	탈
+奪	tal	탈
+忐	tam	탐
+眈	tam	탐
+耽	tam	탐
+探	tam	탐
+貪	tam	탐
+酖	tam	탐
+嗿	tam	탐
+傝	tab	탑
+塔	tab	탑
+搭	tab	탑
+塌	tab	탑
+搨	tab	탑
+榻	tab	탑
+宕	tang	탕
+帑	tang	탕
+湯	tang	탕
+碭	tang	탕
+蕩	tang	탕
+燙	tang	탕
+糖	tang	탕
+盪	tang	탕
+蘯	tang	탕
+太	tai	태
+台	tai	태
+兌	tai	태
+汰	tai	태
+邰	tai	태
+孡	tai	태
+抬	tai	태
+苔	tai	태
+迨	tai	태
+怠	tai	태
+殆	tai	태
+胎	tai	태
+娧	tai	태
+泰	tai	태
+埭	tai	태
+笞	tai	태
+跆	tai	태
+態	tai	태
+颱	tai	태
+駄	tai	태
+駘	tai	태
+宅	taig	택
+擇	taig	택
+澤	taig	택
+牚	taing	탱
+撐	taing	탱
+撑	taing	탱
+攄	te	터
+土	to	토
+吐	to	토
+兎	to	토
+討	to	토
+瓲	ton	톤
+噋	ton	톤
+噸	ton	톤
+恫	tong	통
+洞	tong	통
+通	tong	통
+桶	tong	통
+痛	tong	통
+筒	tong	통
+統	tong	통
+筩	tong	통
+慟	tong	통
+樋	tong	통
+退	toi	퇴
+堆	toi	퇴
+槌	toi	퇴
+腿	toi	퇴
+褪	toi	퇴
+隤	toi	퇴
+頹	toi	퇴
+妒	tu	투
+投	tu	투
+妬	tu	투
+套	tu	투
+透	tu	투
+偸	tu	투
+渝	tu	투
+骰	tu	투
+鬪	tu	투
+佟	tung	퉁
+忒	tyg	특
+特	tyg	특
+慝	tyg	특
+闖	tym	틈
+巴	pa	파
+叵	pa	파
+妑	pa	파
+把	pa	파
+芭	pa	파
+坡	pa	파
+岥	pa	파
+怕	pa	파
+杷	pa	파
+波	pa	파
+爬	pa	파
+爸	pa	파
+派	pa	파
+玻	pa	파
+破	pa	파
+笆	pa	파
+耙	pa	파
+婆	pa	파
+菠	pa	파
+琶	pa	파
+葩	pa	파
+跛	pa	파
+鄱	pa	파
+頗	pa	파
+播	pa	파
+罷	pa	파
+皤	pa	파
+擺	pa	파
+簸	pa	파
+灞	pa	파
+阪	pan	판
+判	pan	판
+坂	pan	판
+汴	pan	판
+板	pan	판
+版	pan	판
+販	pan	판
+鈑	pan	판
+辦	pan	판
+瓣	pan	판
+八	pal	팔
+叭	pal	팔
+汃	pal	팔
+朳	pal	팔
+捌	pal	팔
+孛	pai	패
+沛	pai	패
+貝	pai	패
+佩	pai	패
+唄	pai	패
+悖	pai	패
+旆	pai	패
+浿	pai	패
+狽	pai	패
+珮	pai	패
+敗	pai	패
+牌	pai	패
+稗	pai	패
+霈	pai	패
+覇	pai	패
+霸	pai	패
+祊	paing	팽
+砰	paing	팽
+烹	paing	팽
+彭	paing	팽
+澎	paing	팽
+膨	paing	팽
+蟚	paing	팽
+蟛	paing	팽
+愎	piag	퍅
+片	pien	편
+扁	pien	편
+便	pien	편
+偏	pien	편
+匾	pien	편
+徧	pien	편
+惼	pien	편
+萹	pien	편
+遍	pien	편
+褊	pien	편
+篇	pien	편
+編	pien	편
+緶	pien	편
+翩	pien	편
+艑	pien	편
+蝙	pien	편
+諞	pien	편
+鞭	pien	편
+騙	pien	편
+砭	piem	폄
+窆	piem	폄
+貶	piem	폄
+平	pieng	평
+坪	pieng	평
+怦	pieng	평
+抨	pieng	평
+泙	pieng	평
+苹	pieng	평
+枰	pieng	평
+萍	pieng	평
+蓱	pieng	평
+評	pieng	평
+鮃	pieng	평
+吠	piei	폐
+肺	piei	폐
+陛	piei	폐
+狴	piei	폐
+敝	piei	폐
+閉	piei	폐
+幣	piei	폐
+弊	piei	폐
+蔽	piei	폐
+廢	piei	폐
+獘	piei	폐
+嬖	piei	폐
+斃	piei	폐
+癈	piei	폐
+包	po	포
+布	po	포
+佈	po	포
+抛	po	포
+咆	po	포
+庖	po	포
+怖	po	포
+抱	po	포
+泡	po	포
+苞	po	포
+匍	po	포
+炮	po	포
+炰	po	포
+胞	po	포
+哺	po	포
+圃	po	포
+捕	po	포
+浦	po	포
+疱	po	포
+砲	po	포
+袍	po	포
+逋	po	포
+匏	po	포
+晡	po	포
+脯	po	포
+葡	po	포
+蒲	po	포
+鉋	po	포
+飽	po	포
+誧	po	포
+鞄	po	포
+舖	po	포
+褒	po	포
+鋪	po	포
+餔	po	포
+暴	po	포
+鮑	po	포
+儤	po	포
+曓	po	포
+鯆	po	포
+幅	pog	폭
+暴	pog	폭
+輻	pog	폭
+瀑	pog	폭
+曝	pog	폭
+爆	pog	폭
+杓	pio	표
+表	pio	표
+俵	pio	표
+豹	pio	표
+髟	pio	표
+彪	pio	표
+殍	pio	표
+票	pio	표
+僄	pio	표
+剽	pio	표
+勡	pio	표
+裱	pio	표
+嘌	pio	표
+嫖	pio	표
+慓	pio	표
+摽	pio	표
+漂	pio	표
+標	pio	표
+熛	pio	표
+瓢	pio	표
+縹	pio	표
+鏢	pio	표
+飄	pio	표
+飇	pio	표
+驃	pio	표
+鰾	pio	표
+鑣	pio	표
+品	pum	품
+禀	pum	품
+稟	pum	품
+風	pung	풍
+葑	pung	풍
+馮	pung	풍
+楓	pung	풍
+豊	pung	풍
+瘋	pung	풍
+諷	pung	풍
+皮	pi	피
+陂	pi	피
+彼	pi	피
+披	pi	피
+疲	pi	피
+被	pi	피
+詖	pi	피
+辟	pi	피
+鞁	pi	피
+髲	pi	피
+避	pi	피
+腷	pig	픽
+匹	pil	필
+必	pil	필
+疋	pil	필
+佖	pil	필
+咇	pil	필
+苾	pil	필
+泌	pil	필
+珌	pil	필
+畢	pil	필
+弼	pil	필
+筆	pil	필
+滭	pil	필
+蓽	pil	필
+馝	pil	필
+罼	pil	필
+駜	pil	필
+篳	pil	필
+觱	pil	필
+蹕	pil	필
+鞸	pil	필
+韠	pil	필
+鵯	pil	필
+乏	pib	핍
+偪	pib	핍
+逼	pib	핍
+下	ha	하
+何	ha	하
+呀	ha	하
+岈	ha	하
+河	ha	하
+昰	ha	하
+夏	ha	하
+荷	ha	하
+厦	ha	하
+賀	ha	하
+遐	ha	하
+廈	ha	하
+煆	ha	하
+瑕	ha	하
+瘕	ha	하
+蝦	ha	하
+嚇	ha	하
+懗	ha	하
+罅	ha	하
+鍜	ha	하
+霞	ha	하
+鰕	ha	하
+狢	hag	학
+虐	hag	학
+郝	hag	학
+涸	hag	학
+确	hag	학
+瘧	hag	학
+學	hag	학
+謔	hag	학
+壑	hag	학
+皬	hag	학
+鶴	hag	학
+鷽	hag	학
+汗	han	한
+旱	han	한
+罕	han	한
+限	han	한
+恨	han	한
+悍	han	한
+捍	han	한
+閈	han	한
+寒	han	한
+閑	han	한
+閒	han	한
+僩	han	한
+漢	han	한
+嫺	han	한
+嫻	han	한
+暵	han	한
+澣	han	한
+翰	han	한
+韓	han	한
+駻	han	한
+鼾	han	한
+瀚	han	한
+鷳	han	한
+割	hal	할
+瞎	hal	할
+轄	hal	할
+含	ham	함
+函	ham	함
+咸	ham	함
+莟	ham	함
+陷	ham	함
+涵	ham	함
+菡	ham	함
+啣	ham	함
+喊	ham	함
+銜	ham	함
+緘	ham	함
+諴	ham	함
+檻	ham	함
+闞	ham	함
+艦	ham	함
+鹹	ham	함
+轞	ham	함
+合	hab	합
+匌	hab	합
+郃	hab	합
+哈	hab	합
+柙	hab	합
+陜	hab	합
+盍	hab	합
+盒	hab	합
+蛤	hab	합
+嗑	hab	합
+溘	hab	합
+榼	hab	합
+閤	hab	합
+闔	hab	합
+亢	hang	항
+夯	hang	항
+伉	hang	항
+行	hang	항
+抗	hang	항
+沆	hang	항
+肛	hang	항
+杭	hang	항
+炕	hang	항
+降	hang	항
+姮	hang	항
+巷	hang	항
+恆	hang	항
+恒	hang	항
+缸	hang	항
+桁	hang	항
+航	hang	항
+港	hang	항
+缿	hang	항
+項	hang	항
+頏	hang	항
+嫦	hang	항
+亥	hai	해
+咍	hai	해
+咳	hai	해
+垓	hai	해
+孩	hai	해
+奚	hai	해
+害	hai	해
+欬	hai	해
+海	hai	해
+偕	hai	해
+痎	hai	해
+楷	hai	해
+瑎	hai	해
+解	hai	해
+該	hai	해
+頦	hai	해
+骸	hai	해
+嶰	hai	해
+廨	hai	해
+懈	hai	해
+獬	hai	해
+薤	hai	해
+諧	hai	해
+邂	hai	해
+駭	hai	해
+醢	hai	해
+鮭	hai	해
+瀣	hai	해
+蟹	hai	해
+劾	haig	핵
+核	haig	핵
+翮	haig	핵
+覈	haig	핵
+行	haing	행
+杏	haing	행
+幸	haing	행
+荇	haing	행
+倖	haing	행
+悻	haing	행
+向	hiang	향
+享	hiang	향
+香	hiang	향
+珦	hiang	향
+鄉	hiang	향
+鄕	hiang	향
+薌	hiang	향
+餉	hiang	향
+嚮	hiang	향
+響	hiang	향
+饗	hiang	향
+許	he	허
+虛	he	허
+噓	he	허
+墟	he	허
+歔	he	허
+軒	hen	헌
+憲	hen	헌
+幰	hen	헌
+攇	hen	헌
+櫶	hen	헌
+獻	hen	헌
+巚	hen	헌
+歇	hel	헐
+險	hem	험
+嶮	hem	험
+獫	hem	험
+玁	hem	험
+驗	hem	험
+奕	hieg	혁
+弈	hieg	혁
+洫	hieg	혁
+革	hieg	혁
+焱	hieg	혁
+赫	hieg	혁
+爀	hieg	혁
+鬩	hieg	혁
+玄	hien	현
+見	hien	현
+弦	hien	현
+泫	hien	현
+俔	hien	현
+昡	hien	현
+炫	hien	현
+玹	hien	현
+県	hien	현
+峴	hien	현
+痃	hien	현
+眩	hien	현
+晛	hien	현
+現	hien	현
+琄	hien	현
+絃	hien	현
+舷	hien	현
+衒	hien	현
+睍	hien	현
+絢	hien	현
+蜆	hien	현
+鉉	hien	현
+誢	hien	현
+儇	hien	현
+賢	hien	현
+鋗	hien	현
+嬛	hien	현
+縣	hien	현
+駽	hien	현
+繯	hien	현
+翾	hien	현
+懸	hien	현
+顯	hien	현
+孑	hiel	혈
+穴	hiel	혈
+血	hiel	혈
+頁	hiel	혈
+絜	hiel	혈
+趐	hiel	혈
+嫌	hiem	혐
+叶	hieb	협
+夾	hieb	협
+協	hieb	협
+俠	hieb	협
+匧	hieb	협
+恊	hieb	협
+埉	hieb	협
+峽	hieb	협
+悏	hieb	협
+挾	hieb	협
+浹	hieb	협
+狹	hieb	협
+脅	hieb	협
+脇	hieb	협
+莢	hieb	협
+愜	hieb	협
+篋	hieb	협
+鋏	hieb	협
+頰	hieb	협
+兄	hieng	형
+刑	hieng	형
+邢	hieng	형
+亨	hieng	형
+形	hieng	형
+泂	hieng	형
+迥	hieng	형
+型	hieng	형
+炯	hieng	형
+荊	hieng	형
+逈	hieng	형
+陘	hieng	형
+娙	hieng	형
+珩	hieng	형
+詗	hieng	형
+夐	hieng	형
+滎	hieng	형
+熒	hieng	형
+瑩	hieng	형
+螢	hieng	형
+衡	hieng	형
+瀅	hieng	형
+鎣	hieng	형
+馨	hieng	형
+灐	hieng	형
+兮	hiei	혜
+盻	hiei	혜
+彗	hiei	혜
+傒	hiei	혜
+惠	hiei	혜
+徯	hiei	혜
+嘒	hiei	혜
+寭	hiei	혜
+慧	hiei	혜
+暳	hiei	혜
+槥	hiei	혜
+蕙	hiei	혜
+鞋	hiei	혜
+謑	hiei	혜
+蹊	hiei	혜
+醯	hiei	혜
+譿	hiei	혜
+互	ho	호
+戶	ho	호
+乎	ho	호
+冱	ho	호
+好	ho	호
+沍	ho	호
+芦	ho	호
+呼	ho	호
+岵	ho	호
+弧	ho	호
+怙	ho	호
+昊	ho	호
+狐	ho	호
+虎	ho	호
+祜	ho	호
+胡	ho	호
+浩	ho	호
+扈	ho	호
+晧	ho	호
+毫	ho	호
+淏	ho	호
+瓠	ho	호
+壺	ho	호
+湖	ho	호
+猢	ho	호
+琥	ho	호
+皓	ho	호
+葫	ho	호
+滈	ho	호
+瑚	ho	호
+聕	ho	호
+蒿	ho	호
+號	ho	호
+嫭	ho	호
+嫮	ho	호
+滬	ho	호
+滸	ho	호
+犒	ho	호
+箎	ho	호
+豪	ho	호
+嘷	ho	호
+澔	ho	호
+皜	ho	호
+皞	ho	호
+糊	ho	호
+蝴	ho	호
+儫	ho	호
+濩	ho	호
+縞	ho	호
+醐	ho	호
+壕	ho	호
+濠	ho	호
+餬	ho	호
+鎬	ho	호
+鬍	ho	호
+護	ho	호
+顥	ho	호
+頀	ho	호
+灝	ho	호
+或	hog	혹
+惑	hog	혹
+酷	hog	혹
+忽	hon	혼
+昏	hon	혼
+笏	hon	혼
+婚	hon	혼
+惚	hon	혼
+惛	hon	혼
+混	hon	혼
+渾	hon	혼
+焜	hon	혼
+溷	hon	혼
+琿	hon	혼
+魂	hon	혼
+閽	hon	혼
+囫	hon	홀
+圂	hon	홀
+弘	hong	홍
+汞	hong	홍
+泓	hong	홍
+哄	hong	홍
+洪	hong	홍
+紅	hong	홍
+虹	hong	홍
+晎	hong	홍
+烘	hong	홍
+訌	hong	홍
+鉷	hong	홍
+澒	hong	홍
+篊	hong	홍
+鬨	hong	홍
+鴻	hong	홍
+化	hoa	화
+火	hoa	화
+禾	hoa	화
+花	hoa	화
+和	hoa	화
+俰	hoa	화
+婲	hoa	화
+華	hoa	화
+貨	hoa	화
+畫	hoa	화
+禍	hoa	화
+嘩	hoa	화
+畵	hoa	화
+話	hoa	화
+靴	hoa	화
+樺	hoa	화
+嬅	hoa	화
+擭	hoa	화
+譁	hoa	화
+驊	hoa	화
+龢	hoa	화
+廓	hoag	확
+確	hoag	확
+碻	hoag	확
+擴	hoag	확
+穫	hoag	확
+矍	hoag	확
+礭	hoag	확
+鑊	hoag	확
+攫	hoag	확
+矡	hoag	확
+丸	hoan	환
+幻	hoan	환
+奐	hoan	환
+宦	hoan	환
+紈	hoan	환
+桓	hoan	환
+患	hoan	환
+晥	hoan	환
+喚	hoan	환
+換	hoan	환
+渙	hoan	환
+皖	hoan	환
+睆	hoan	환
+絙	hoan	환
+煥	hoan	환
+豢	hoan	환
+寰	hoan	환
+擐	hoan	환
+還	hoan	환
+環	hoan	환
+鍰	hoan	환
+懽	hoan	환
+轘	hoan	환
+歡	hoan	환
+鐶	hoan	환
+鰥	hoan	환
+鬟	hoan	환
+瓛	hoan	환
+驩	hoan	환
+活	hoal	활
+猾	hoal	활
+蛞	hoal	활
+滑	hoal	활
+豁	hoal	활
+闊	hoal	활
+肓	hoang	황
+怳	hoang	황
+況	hoang	황
+恍	hoang	황
+皇	hoang	황
+荒	hoang	황
+晃	hoang	황
+晄	hoang	황
+凰	hoang	황
+隍	hoang	황
+喤	hoang	황
+媓	hoang	황
+徨	hoang	황
+惶	hoang	황
+慌	hoang	황
+湟	hoang	황
+貺	hoang	황
+遑	hoang	황
+黃	hoang	황
+幌	hoang	황
+愰	hoang	황
+滉	hoang	황
+煌	hoang	황
+瑝	hoang	황
+榥	hoang	황
+潢	hoang	황
+璜	hoang	황
+篁	hoang	황
+蝗	hoang	황
+簧	hoang	황
+鎤	hoang	황
+噦	hoai	홰
+回	hoi	회
+灰	hoi	회
+佪	hoi	회
+廻	hoi	회
+徊	hoi	회
+恢	hoi	회
+栃	hoi	회
+洄	hoi	회
+茴	hoi	회
+迴	hoi	회
+悔	hoi	회
+晦	hoi	회
+淮	hoi	회
+盔	hoi	회
+蛔	hoi	회
+匯	hoi	회
+會	hoi	회
+滙	hoi	회
+詼	hoi	회
+賄	hoi	회
+誨	hoi	회
+澮	hoi	회
+獪	hoi	회
+頮	hoi	회
+檜	hoi	회
+膾	hoi	회
+懷	hoi	회
+繪	hoi	회
+鱠	hoi	회
+劃	hoig	획
+嚄	hoig	획
+獲	hoig	획
+宖	hoing	횡
+鈜	hoing	횡
+澋	hoing	횡
+橫	hoing	횡
+鐄	hoing	횡
+黌	hoing	횡
+爻	hio	효
+孝	hio	효
+肴	hio	효
+哮	hio	효
+效	hio	효
+涍	hio	효
+虓	hio	효
+崤	hio	효
+梟	hio	효
+淆	hio	효
+傚	hio	효
+殽	hio	효
+熇	hio	효
+酵	hio	효
+皛	hio	효
+嚆	hio	효
+曉	hio	효
+餚	hio	효
+斅	hio	효
+囂	hio	효
+驍	hio	효
+后	hu	후
+朽	hu	후
+吼	hu	후
+吽	hu	후
+侯	hu	후
+厚	hu	후
+垕	hu	후
+後	hu	후
+逅	hu	후
+候	hu	후
+珝	hu	후
+酗	hu	후
+喉	hu	후
+喣	hu	후
+堠	hu	후
+帿	hu	후
+猴	hu	후
+嗅	hu	후
+煦	hu	후
+詡	hu	후
+篌	hu	후
+餱	hu	후
+譃	hu	후
+訓	hun	훈
+焄	hun	훈
+勛	hun	훈
+欻	hun	훈
+葷	hun	훈
+塤	hun	훈
+暈	hun	훈
+熏	hun	훈
+勳	hun	훈
+壎	hun	훈
+獯	hun	훈
+薰	hun	훈
+曛	hun	훈
+燻	hun	훈
+爋	hun	훈
+纁	hun	훈
+鑂	hun	훈
+薨	hong	훙
+芔	huen	훤
+烜	huen	훤
+喧	huen	훤
+萱	huen	훤
+暄	huen	훤
+楦	huen	훤
+毁	huen	훤
+煊	huen	훤
+諠	huen	훤
+諼	huen	훤
+燬	huen	훤
+卉	hue	훼
+虫	hue	훼
+虺	hue	훼
+喙	hue	훼
+揮	hui	휘
+彙	hui	휘
+暉	hui	휘
+煇	hui	휘
+撝	hui	휘
+翬	hui	휘
+輝	hui	휘
+麾	hui	휘
+諱	hui	휘
+徽	hui	휘
+休	hiu	휴
+咻	hiu	휴
+烋	hiu	휴
+畦	hiu	휴
+携	hiu	휴
+擕	hiu	휴
+髹	hiu	휴
+虧	hiu	휴
+隳	hiu	휴
+鵂	hiu	휴
+卹	hiul	휼
+恤	hiul	휼
+譎	hiul	휼
+鷸	hiul	휼
+凶	hiung	흉
+兇	hiung	흉
+匈	hiung	흉
+恟	hiung	흉
+洶	hiung	흉
+胷	hiung	흉
+胸	hiung	흉
+黑	hyg	흑
+忻	hyn	흔
+昕	hyn	흔
+欣	hyn	흔
+炘	hyn	흔
+很	hyn	흔
+掀	hyn	흔
+痕	hyn	흔
+訢	hyn	흔
+焮	hyn	흔
+釁	hyn	흔
+仡	hyl	흘
+吃	hyl	흘
+屹	hyl	흘
+汔	hyl	흘
+迄	hyl	흘
+疙	hyl	흘
+紇	hyl	흘
+訖	hyl	흘
+齕	hyl	흘
+欠	hym	흠
+欽	hym	흠
+歆	hym	흠
+廞	hym	흠
+吸	hyb	흡
+恰	hyb	흡
+洽	hyb	흡
+翕	hyb	흡
+翖	hyb	흡
+噏	hyb	흡
+潝	hyb	흡
+歙	hyb	흡
+興	hyng	흥
+希	hyi	희
+咥	hyi	희
+唏	hyi	희
+姬	hyi	희
+悕	hyi	희
+晞	hyi	희
+欷	hyi	희
+喜	hyi	희
+稀	hyi	희
+僖	hyi	희
+熙	hyi	희
+豨	hyi	희
+嘻	hyi	희
+嬉	hyi	희
+憘	hyi	희
+凞	hyi	희
+噫	hyi	희
+憙	hyi	희
+戱	hyi	희
+暿	hyi	희
+熹	hyi	희
+熺	hyi	희
+禧	hyi	희
+羲	hyi	희
+戲	hyi	희
+燹	hyi	희
+餼	hyi	희
+曦	hyi	희
+爔	hyi	희
+犧	hyi	희
+囍	hyi	희
+犵	hil	힐
+詰	hil	힐
+頡	hil	힐
+黠	hil	힐
+襭	hil	힐
+纈	hil	힐
+六月	qiu quel	유월
+十月	si quel	시월
