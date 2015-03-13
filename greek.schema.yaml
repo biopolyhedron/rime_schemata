@@ -1,0 +1,64 @@
+﻿# Rime schema
+# encoding: utf-8
+
+schema:
+  schema_id: greek
+  name: "希臘文"
+  version: "poly2013.02.23"
+  author:
+    - polyhedron<biopolyhedron@gmail.com>
+  description: 
+    Υ- U, Η - H, Ω - W, 
+    Φ - F, Χ - X, Θ - C, Ξ - Ks, Ψ - Ps, ς - sq, 
+    ` (varia) - `; ´ (oxia) - ', ῀ (perisponemi) - ~, ˊ (tonos) - / （聲調標在後）, 
+    ¨ (dialytika) - ",  ᾿ (psili) - q, ῾ (dasia) - j （此三者標在前）, 
+    ι (hypogegrammeni) - y, ᾽ (koronis) - v （標在後）, 
+    ';'前導 - 組合用附加符, 'Q'前導 - 單獨用附加符。
+    這個詞庫靠訓練，建議整詞輸入，輸過的詞以後只用簡碼就能出來。
+    訓練成古希臘的，簡碼就能出古希臘，現代希臘亦然。
+    如有改進建議，歡迎和作者聯繫！
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [ 希臘, 英文 ]
+
+engine:
+  processors:
+    - ascii_composer
+#    - key_binder
+    - speller
+    - punctuator  # 先於 editor 才會使空格作符號上屏
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - r10n_translator
+
+menu:
+  alternative_select_keys: "123456789"
+
+speller:
+  alphabet: 'abcdefghijklmnopqrstuvwxyzABCDEFGHIKLMNOPQRSTUWXZ;`''/~"-'
+  delimiter: ' '
+  algebra:
+    - derive/^["qj]?([AEHIOWURaehiowur])[`'~y]*$/$1/
+    - derive/sq/s/
+  auto_select: false
+
+translator:
+  dictionary: greek
+
+punctuator:  # 只須定義空格一個符號
+  half_shape: &symtable
+    '?' : { commit: ';' }
+    ' ' : { commit: ' ' }
+
+#key_binder:
+#  import_preset: default
