@@ -6,112 +6,113 @@
 #
 # Patrick <ipatrickmac@gmail.com>
 # 修改 polyhedron <biopolyhedron@gmail.com>
+# shenyilei增加不規則拼寫
 #
 # 韓文轉寫方案
 #
 
 ---
 name: hangyl_hanja
-version: "0.1"
+version: "2015.03.30"
 sort: by_weight	#original
 use_preset_vocabulary: true
 ...
 
 #한글	轉寫
-ㄱ	g
-ㄲ	gg
-ㄳ	gs
-ㄴ	n
-ㅥ	nn
-ㅦ	nd
-ㅧ	ns
-ㅨ	nz
-ㄵ	nj
-ㄶ	nh
-ㄷ	d
-ㄸ	dd
-ㄹ	l
-ㄺ	lg
-ㅩ	lgs
-ㅪ	ld
-ㄻ	lm
-ㄼ	lb
-ㅫ	lbs
-ㄽ	ls
-ㅬ	lz
-ㄾ	lt
-ㄿ	lp
-ㅀ	lh
-ㅭ	lh
-ᄛ	lq
-ㅁ	m
-ㅮ	mb
-ㅯ	ms
-ㅰ	mz
-ㅱ	mq
-ㅂ	b
-ㅲ	bg
-ㅳ	bd
-ㅃ	bb
-ㅄ	bs
-ㅴ	bsg
-ㅵ	bsd
-ㅶ	bj
-ㅷ	bt
-ㅸ	bq
-ㅹ	bbq
-ㅅ	s
-ㅺ	sg
-ㅻ	sn
-ㅼ	sd
-ㅽ	sb
-ㅆ	ss
-ㅾ	sj
-ㅿ	z
-ㅇ	q
-ㆀ	qq
-ㆁ	ng
-ㆂ	qs
-ㆃ	qz
-ㅈ	j
-ㅉ	jj
-ㅊ	c
-ㅋ	k
-ㅌ	t
-ㅍ	p
-ㆄ	pq
-ㅎ	h
-ㆅ	hh
-ㆆ	x
-ㅏ	a
-ㅐ	ai
-ㅑ	ia
-ㅒ	iai
-ㅓ	e
-ㅔ	ei
-ㅕ	ie
-ㅖ	iei
-ㅗ	o
-ㅘ	oa
-ㅙ	oai
-ㅚ	oi
-ㅛ	io
-ㆇ	ioia
-ㆈ	ioiai
-ㆉ	ioi
-ㅜ	u
-ㅝ	ue
-ㅞ	uei
-ㅟ	ui
-ㅠ	iu
-ㆊ	iuie
-ㆋ	iuiei
-ㆌ	iui
-ㅡ	y
-ㅢ	yi
-ㅣ	i
-ㆍ	v
-ㆎ	vi
+ㄱ	wg
+ㄲ	wgg
+ㄳ	wgs
+ㄴ	wn
+ㅥ	wnn
+ㅦ	wnd
+ㅧ	wns
+ㅨ	wnz
+ㄵ	wnj
+ㄶ	wnh
+ㄷ	wd
+ㄸ	wdd
+ㄹ	wl
+ㄺ	wlg
+ㅩ	wlgs
+ㅪ	wld
+ㄻ	wlm
+ㄼ	wlb
+ㅫ	wlbs
+ㄽ	wls
+ㅬ	wlz
+ㄾ	wlt
+ㄿ	wlp
+ㅀ	wlh
+ㅭ	wlx	# 'lh' originally
+#ᄛ	wlq
+ㅁ	wm
+ㅮ	wmb
+ㅯ	wms
+ㅰ	wmz
+ㅱ	wmq
+ㅂ	wb
+ㅲ	wbg
+ㅳ	wbd
+ㅃ	wbb
+ㅄ	wbs
+ㅴ	wbsg
+ㅵ	wbsd
+ㅶ	wbj
+ㅷ	wbt
+ㅸ	wbq
+ㅹ	wbbq
+ㅅ	ws
+ㅺ	wsg
+ㅻ	wsn
+ㅼ	wsd
+ㅽ	wsb
+ㅆ	wss
+ㅾ	wsj
+ㅿ	wz
+ㅇ	wq
+ㆀ	wqq
+ㆁ	wng
+ㆂ	wqs
+ㆃ	wqz
+ㅈ	wj
+ㅉ	wjj
+ㅊ	wc
+ㅋ	wk
+ㅌ	wt
+ㅍ	wp
+ㆄ	wpq
+ㅎ	wh
+ㆅ	whh
+ㆆ	wx
+ㅏ	wa
+ㅐ	wai
+ㅑ	wia
+ㅒ	wiai
+ㅓ	we
+ㅔ	wei
+ㅕ	wie
+ㅖ	wiei
+ㅗ	wo
+ㅘ	woa
+ㅙ	woai
+ㅚ	woi
+ㅛ	wio
+ㆇ	wioia
+ㆈ	wioiai
+ㆉ	wioi
+ㅜ	wu
+ㅝ	wue
+ㅞ	wuei
+ㅟ	wui
+ㅠ	wiu
+ㆊ	wiuie
+ㆋ	wiuiei
+ㆌ	wiui
+ㅡ	wy
+ㅢ	wyi
+ㅣ	wi
+ㆍ	wv
+ㆎ	wvi
 
 #한글	轉寫
 가	ga
@@ -19066,5 +19067,44 @@ use_preset_vocabulary: true
 黠	hil	힐
 襭	hil	힐
 纈	hil	힐
+六月	liu quel	류월
 六月	qiu quel	유월
 十月	si quel	시월
+
+# shenyilei appended
+牡丹	mo lan	모란
+滋味	jai mi	재미
+困難	gon lan	곤란
+次第	ca liei 차례
+使道	sa ddo	사또
+鮒魚	bung qe	붕어
+漢拏山	han la san	한라산
+艱難	ga nan	가난
+甘藷	gam ja	감자
+乃終	na jung	나중
+寶貝	bo bai	보배
+山行	sa niang	사냥
+石硫黃	seng niang	성냥
+雪馬	ssel mai	썰매
+褥	qio	요
+才操	jai ju	재주
+#衆生	jim syng	짐승
+假家	ga gei	가게
+#楪子	jeb si	접시
+茄子	ga ji	가지
+筆	bus	붓
+觱篥	pi li	피리
+布	bei	베
+#冬瓜	dong qa	동아
+#白菜	bai cu	배추
+推刨	dai pai	대패
+推鉋	dai pai	대패
+洞簫	tung so	퉁소
+荒貨	hoang qa	황아
+道場	do liang	도량
+菩提	bo li	보리
+苦草	go cu	고추
+苦椒	go cu	고추
+胡椒	hu cu	후추
+櫻桃	qaing du	앵두
+

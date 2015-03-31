@@ -5,12 +5,21 @@
 schema:
   schema_id: hangyl_hanja
   name: 한글・漢字
-  version: "0.3"
+  version: "2015.03.30"
   author:
     - Patrick <ipatrickmac@gmail.com>
     - 修改polyhedron <biopolyhedron@gmail.com>
   description: |
-    朝鮮半島漢字音
+    한글입력법 for Rime
+    朝鮮語漢字音
+    ㄱ(g)ㄴ(n)ㄷ(d)ㄹ(l r)ㅁ(m)ㅂ(b)ㅅ(s)
+    ㅇ(q ng)ㅈ(j z)ㅊ(c)ㅋ(k)ㅌ(t)ㅍ(p)ㅎ(h)
+    ㅏ(a)ㅐ(ai)ㅑ(ia)ㅒ(iai)
+    ㅓ(e)ㅔ(ei)ㅕ(ie)ㅖ(iei)
+    ㅗ(o)ㅘ(oa)ㅙ(oai)ㅚ(oi)ㅛ(io)
+    ㅜ(u)ㅝ(ue)ㅞ(uei)ㅟ(ui)ㅠ(iu)
+    ㅡ(y)ㅢ(yi)ㅣ(i)
+    字母以w引導
 
 switches:
   - name: ascii_mode
