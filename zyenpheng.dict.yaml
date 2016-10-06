@@ -24,11 +24,22 @@
 
 ---
 name: zyenpheng
-version: "2014.10.07"
+version: "2016.10.06"
 sort: by_weight
 use_preset_vocabulary: true
 ...
 
+〾 	kyi	
+⿰	kang	
+⿰	khiu	
+⿰	srek	
+⿰	syen	
+⿱	ju	
+⿱	njyungx	
+⿱	sua	
+⿱	thuax	
+⿱	thuot	
+⿳	ngaih	
 	cax	
 	cai	
 	khyoih	
@@ -2765,9 +2776,9 @@ use_preset_vocabulary: true
 猭	thryen	
 猭	thryenh	
 椽	dryen	
-傳	dryen	
-傳	dryenh	
-傳	tryenh	
+傳	dryen	95%
+傳	dryenh	4%
+傳	tryenh	1%
 篅	zjye	
 篅	zjyen	
 輲	zjyen	
@@ -9931,7 +9942,7 @@ use_preset_vocabulary: true
 吷	hyet	
 𧮫	giak	
 決	huet	
-決	kuet	
+決	kuet	2%
 妜	qjyet	
 妜	quet	
 玨	kruk	
@@ -14422,6 +14433,7 @@ use_preset_vocabulary: true
 糯	nuah	
 女	nrioh	3%
 女	nriox	
+女	njox	1%
 籹	nriox	
 釹	nriox	
 恧	nrik	
@@ -15462,7 +15474,8 @@ use_preset_vocabulary: true
 蜞	gi	
 䑴	gi	
 齊	ze	
-齊	zeh	
+齊	zeh	2%
+齊	crai	0%
 旗	gi	
 𢻚	gje	
 綨	gi	
@@ -17858,8 +17871,8 @@ use_preset_vocabulary: true
 旹	zji	
 拾	zjip	
 峕	zji	
-食	jih	
-食	zsih	
+食	jih	2%
+食	zsih	3%
 食	zsjik	
 炻	zjek	
 祏	zjek	
@@ -17886,7 +17899,7 @@ use_preset_vocabulary: true
 䲽	zjek	
 鼫	zjek	
 鼭	zji	
-識	cjih	30%
+識	cjih	4%
 識	sjik	
 鰣	zji	
 𧄹	sjik	
@@ -17898,7 +17911,7 @@ use_preset_vocabulary: true
 使	srih	5%
 使	srix	
 始	sjix	
-屎	hjii	
+屎	hjii	3%
 屎	sjiix	
 𦳊	sjiix	
 駛	srih	
@@ -19000,7 +19013,7 @@ use_preset_vocabulary: true
 坦	thanx	
 䏙	thomx	
 袒	danx	
-袒	trenh	
+袒	drenh	
 菼	thamx	
 毯	thamx	
 𦵹	thamx	
@@ -19923,6 +19936,7 @@ use_preset_vocabulary: true
 飥	thak	
 脫	duat	
 脫	thuat	
+脫	duad	0%
 𧦭	thua	
 馲	lak	
 馲	thak	
@@ -23550,13 +23564,13 @@ use_preset_vocabulary: true
 釔	qit	
 庡	qioix	
 𦮸	ix	
-倚	qieh	
-倚	qiex	
+倚	qieh	5%
+倚	qiex	95%
 扆	qioix	
 偯	qioix	
 㫊	qax	
-椅	qie	
-椅	qiex	
+椅	qie	5%
+椅	qiex	95%
 崺	jex	
 鳦	qit	
 㰻	qiix	
@@ -23889,7 +23903,8 @@ use_preset_vocabulary: true
 姻	qjin	
 氤	qjin	
 殷	qion	
-殷	qren	
+殷	qren	4%
+殷	qionx	1%
 陰	qim	
 裀	qjin	
 陻	qjin	
@@ -24229,8 +24244,8 @@ use_preset_vocabulary: true
 咏	yengh	
 泳	yengh	
 栐	yengx	
-俑	jyungx	
-俑	thung	
+俑	jyungx	99%
+俑	thung	1%
 勇	jyungx	
 埇	jyungx	
 㴄	qruangx	
@@ -24631,8 +24646,8 @@ use_preset_vocabulary: true
 瑀	yox	
 楀	kyox	
 楀	yox	
-與	jo	
-與	joh	10%
+與	jo	4%
+與	joh	4%
 與	jox	
 傴	qyox	
 瘐	jyo	
@@ -25677,7 +25692,7 @@ use_preset_vocabulary: true
 站	tremh	
 㟞	zrenx	
 偡	dremx	
-䋎	trenh	
+䋎	drenh	
 棧	zranh	
 棧	zrenx	
 棧	zrienx	
@@ -25688,7 +25703,7 @@ use_preset_vocabulary: true
 㴴	dremx	
 䗃	zranh	
 䗃	zranx	
-綻	trenh	
+綻	drenh	
 輚	zranh	
 輚	zrenx	
 嶘	zrenx	
@@ -27512,7 +27527,25 @@ use_preset_vocabulary: true
 砳	lrek	
 喰	chan	
 喰	suon	
-
+礄	gieu	
+埼	gie	
+堺	kraih	
+尅	khok	
+郍	nah	
+鬨	ghungh	
+鬨	ghrungh	
+餎	lak	
+廻	ghuai	
+施	jeh	1%
+害	ghat	1%
+揖	chip	1%
+椓	truk	
+于	hyo	1%
+乭	duot	
+御	ngrah	0%
+靁	luai	
+琽	tox	
+純	duon	0%
 阿房	qa bang	
 愛好	qaih hauh	
 懊悔	qauh huaix	
@@ -27536,6 +27569,7 @@ use_preset_vocabulary: true
 悖逆	buot ngiek	
 鼻冠	bjiih kuanh	
 比鄰	bjiih lin	
+必勝	pjit sjingh	
 薜荔	beh leh	
 避難	bjeh nanh	
 編号	pen ghauh	
@@ -27544,12 +27578,14 @@ use_preset_vocabulary: true
 扁舟	phjen cju	
 便便	bjen bjen	
 變易	pienh jek	
+變徵	pienh trix	
 標識	pjeu cjih	
 并州	pjeng cju	
 並行	bengx ghrang	
 不悖	pyot buot	
 不錯	pyot chak	
 不禁	pyot kim	
+不勝	pyot sjing	
 不要	pyot qjeuh	
 不亦說乎	pyot jek jyet gho	
 步行	boh ghrang	
@@ -27611,7 +27647,13 @@ use_preset_vocabulary: true
 處置	chjox trih	
 處子	chjox cix	
 揣度	chryex dak	
+傳承	dryen zjing	
+傳記	dryenh kih	
+傳開	dryen khai	
+傳說	dryen sjyet	
+傳統	dryen thuungh	
 春夏	chjyn ghrai	
+純束	duon sjyuk	
 此處	chiex chjoh	
 次數	chiih sryoh	
 次要	chiih qjeuh	
@@ -27634,6 +27676,7 @@ use_preset_vocabulary: true
 代謝率	daih zsiah lyt	
 單調	tan deuh	
 單挑	tan deux	
+單縣	zjenh ghuenh	
 單于	zjen yo	
 旦復旦兮	tanh biuh tanh ghe	
 但使	danx srix	
@@ -27679,6 +27722,7 @@ use_preset_vocabulary: true
 多數	ta sryoh	
 多種	ta cjyungx	
 惡少	qak sjeuh	
+二人轉	njiih njin tryenh	
 番号	phyan ghauh	
 番禺	phuan ngyo	
 反覆	pyanx phiuk	
@@ -27691,7 +27735,7 @@ use_preset_vocabulary: true
 分行	pyon ghang	
 分子	byonh cix	
 分子	pyon cix	
-佛教	byot krauh	
+佛敎	byot krauh	
 附和	byoh ghuah	
 附近	byoh gionx	
 附着	byoh driak	
@@ -27794,15 +27838,17 @@ use_preset_vocabulary: true
 降落	krungh lak	
 交易	krau jek	
 交質	krau triih	
-教的	krau tek	
-教會	krau ghuad	
-教會	krauh ghuad	
-教課	krau khuah	
-教數學	krau sryoh ghruk	
-教徒	krauh do	
-教學	krauh ghruk	
-教語文	krau ngiox myon	
-教育部	krauh juk bux	
+敎的	krau tek	
+敎會	krau ghuad	
+敎會	krauh ghuad	
+敎課	krau khuah	
+敎數學	krau sryoh ghruk	
+敎徒	krauh do	
+敎學	krauh ghruk	
+敎養	krauh jangx	
+敎語文	krau ngiox myon	
+敎育部	krauh juk bux	
+較易	kruk jeh	
 孑孓	kiet kyungx	
 節省	cet sriengx	
 今上	kim zjangh	
@@ -27833,8 +27879,10 @@ use_preset_vocabulary: true
 嫪毐	lauh qaix	
 離別	lie biet	
 離别	lie biet	
+李世乭	lix sjed duot	
 理論	lix luonh	
 連坐	lien zuax	
+鏈接	lienh ciep	
 兩種	liangx cjyungx	
 料理	leu lix	
 令狐	leng gho	
@@ -27846,6 +27894,7 @@ use_preset_vocabulary: true
 貿易	muh jek	
 面相	mjenh siangh	
 名將	mjeng ciangh	
+名勝	mjeng sjingh	
 命令	miengh liengh	
 靺鞨	muat ghat	
 某種	mux cjyungx	
@@ -27890,6 +27939,7 @@ use_preset_vocabulary: true
 情調	zieng deuh	
 區別	khyo piet	
 曲調	khyuk deuh	
+全勝	zyen sjingh	
 人質	njin triih	
 人種	njin cjyungx	
 容易	jyung jeh	
@@ -27910,7 +27960,13 @@ use_preset_vocabulary: true
 身分	sjin byonh	
 審時度勢	sjimx zji dak sjed	
 聲調	sjeng deuh	
+勝地	sjingh diih	
+勝利	sjingh liih	
+勝券	sjingh khyanh	
+勝任	sjing njimh	
+勝仗	sjingh driangh	
 聖上	sjengh zjangh	
+施于	jeh yo	
 十年樹木	zjip nen zjyox muk	
 食其	jih ki	
 使館	srih kuanh	
@@ -27975,6 +28031,7 @@ use_preset_vocabulary: true
 爲什麼	yeh zjip mua	
 爲首	ye sjux	
 爲主	ye cjyox	
+委蛇	qye je	
 蜲蛇	qye je	
 汶川	min chjyen	
 嗚呼	qo ho	
@@ -28002,6 +28059,8 @@ use_preset_vocabulary: true
 想要	siangx qjeuh	
 孝弟	hrauh deh	
 孝悌	hrauh deh	
+校友	ghrauh iux	
+校園	ghrauh yan	
 效率	ghrauh lyt	
 信函	sinh ghrem	
 姓曾	siengh cong	
@@ -28032,9 +28091,13 @@ use_preset_vocabulary: true
 一切	qjit cheh	
 一些	qjit sia	
 一種	qjit cjyungx	
+揖揖	chip chip	
 狋氏	gyen cieng	
 以爲	jix ye	
 易經	jek keng	
+易容	jek jyung	
+易溶	jeh jyung	
+易用	jeh jyungh	
 因爲	qjin yeh	
 音樂	qim ngruk	
 銀行	ngin ghang	
@@ -28045,7 +28108,9 @@ use_preset_vocabulary: true
 郵遞	iu deh	
 遊說	ju sjyed	
 有空	iux khungh	
+右轉	iux tryenx	
 於戲	qo ho	
+于嗟	hyo cia	
 餘汗	jo kan	
 雨燕	yox qenh	
 與會	joh ghuad	
@@ -28084,6 +28149,7 @@ use_preset_vocabulary: true
 值得	drik tok	
 值錢	drik zien	
 值日	drih njit	
+徵調	trix deuh	
 至少	cjiih sjeux	
 志操	cjih chauh	
 質量	cjit liangh	
@@ -28127,18 +28193,25 @@ use_preset_vocabulary: true
 轉發	tryenx pyat	
 轉告	tryenx kauh	
 轉換	tryenx ghuanh	
+轉會	tryenx ghuad	
 轉交	tryenx krau	
 轉了	tryenx leux	
 轉盤	tryenh buan	
+轉圈	tryenh khyen	
+轉送	tryenx sungh	
+轉速	tryenh suk	
+轉彎	tryenx qruan	
 轉寫	tryenx siax	
+轉型	tryenx gheng	
 轉載	tryenx zaih	
 轉帳	tryenx triangh	
 子女	cix nriox	
 自首	ziih sjuh	
-宗教	cuung krauh	
+宗敎	cuung krauh	
 椶種	cung cjyungx	
 總要	cungx qjeuh	
 最好	cuad haux	
 最少	cuad sjeux	
 尊重	cuon dryungx	
+左轉	cax tryenx	
 作爲	cak ye	
