@@ -74,5 +74,5 @@ punctuator:
   import_preset: default
 
 style: 
-  font_face: "Tangut"
+  font_face: "Mojikyo Tangut"
   font_point: 18
