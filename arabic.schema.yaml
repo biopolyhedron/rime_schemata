@@ -5,7 +5,7 @@
 schema:
   schema_id: arabic
   name: "阿拉伯字母國際"
-  version: "20161112"
+  version: "20161125"
   author:
     - polyhedron<biopolyhedron@gmail.com>
   description: |
@@ -34,8 +34,8 @@ engine:
   processors:
     - ascii_composer
     - speller
-    - punctuator  # 先於 editor 才會使空格作符號上屏
     - selector
+    - punctuator  # 先於 editor 才會使空格作符號上屏
     - navigator
     - express_editor
   segmentors:
@@ -51,7 +51,7 @@ menu:
   alternative_select_keys: "123456789"
 
 speller:
-  alphabet: 'abcdefghijklmnoqrstuvwxyzACDEGHIKNOSTUWXY;!"#$%^()'',-.<=>[]{}?*/\~'
+  alphabet: 'abcdefghijklmnopqrstuvwxyzACDEGHIKNOSTUWXY;!"#$%^()'',-.<=>*/\~'
   delimiter: ''
   auto_select: true
 
@@ -76,5 +76,11 @@ punctuator:  # 只須定義空格一個符號
     "8": "٨"
     "9": "٩"
     "0": "٠"
+    "_": "ـ"
+    "{": "{"
+    "}": "}"
+    "[": "["
+    "]": "]"
+    "?": "؟"
 #  full_shape: *punct
 
