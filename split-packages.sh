@@ -15,8 +15,8 @@ packages=(
     tangut-poly4
     thai-stupid
     tibetan
-    middle-chinese
     uyghur
+    middle-chinese
 )
 
 filename_mapping='
