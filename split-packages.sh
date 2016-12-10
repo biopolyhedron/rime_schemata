@@ -1,23 +1,6 @@
 #!/bin/bash
 
-packages=(
-    arabic
-    burmese
-    devanagari
-    greek
-    hebrew
-    jap-poly
-    kyril-international
-    latin-international
-    manju
-    mongol
-    qyeyshanglr-hanja
-    tangut-poly4
-    thai-stupid
-    tibetan
-    middle-chinese
-    uyghur
-)
+. $(dirname "$0")/polyhedron-packages.conf
 
 filename_mapping='
 s/_/-/g;
@@ -32,7 +15,8 @@ packages_dir='packages'
 get_package() {
     local file=$(echo "$1" | sed "${filename_mapping}")
     local package
-    for package in ${packages[@]}; do
+    for package in ${package_list[@]}; do
+        package="${package#*/rime-}"
         if [[ $file =~ ^$package ]]; then
             echo $package
         fi
