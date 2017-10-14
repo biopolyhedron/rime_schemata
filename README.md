@@ -14,6 +14,7 @@ polyhedron的各種語言的rime碼表。
 - [rime-kyril-international](https://github.com/biopolyhedron/rime-kyril-international)：基利爾字母混合輸入
 - [rime-latin-international](https://github.com/biopolyhedron/rime-latin-international)：拉丁字母混合輸入
 - [rime-manju](https://github.com/biopolyhedron/rime-manju)：滿語轉寫輸入
+- [rime-manju-alikali](https://github.com/biopolyhedron/rime-manju-alikali)：滿語阿禮嘎禮轉寫輸入
 - [rime-mongol](https://github.com/biopolyhedron/rime-mongol)：蒙古文
 - [rime-qyeyshanglr-hanja](https://github.com/biopolyhedron/rime-qyeyshanglr-hanja)：옛한글・漢字
 - [rime-tangut-poly4](https://github.com/biopolyhedron/rime-tangut-poly4)：西夏文【Poly四角】
